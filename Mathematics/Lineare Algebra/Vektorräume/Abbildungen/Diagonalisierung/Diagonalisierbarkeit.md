@@ -30,7 +30,7 @@ Der $K^n$ ist die direkte Summe der jeweiligen [[Eigenraum|Eigenräume]]. Es gil
 
 
 ### Vielfachheiten Kriterium #card
-Das [[charakteristische Polynom]] $p_A(X)$ zerfällt vollständig in [[Linearfaktoren]] unter dem gegebenen Körper $K$. Als Konsequenz gibt es genau $n$ Eigenwerte.
+Das [[Mathematics/Lineare Algebra/Vektorräume/Abbildungen/Eigenschaften/Eigenwerte und Eigenräume/charakteristisches Polynom]] $p_A(X)$ zerfällt vollständig in [[Linearfaktoren]] unter dem gegebenen Körper $K$. Als Konsequenz gibt es genau $n$ Eigenwerte.
 Zudem müssen auch genügend Eigenvektoren existieren. Es muss also gelten $GV = AV$. Die Vielfachheiten stimmen überein.
 ^1647616965158
 
