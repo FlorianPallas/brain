@@ -19,7 +19,7 @@ Eine [[Lineare Abbildung]] ist eine [[Abbildung]], die Elemente aus dem Start [[
 - [[Rang]]
 - [[Spur]]
 - [[Eigenwerte]]
-- [[charakteristische Polynom]]
+- [[Mathematics/Lineare Algebra/Vektorräume/Abbildungen/Eigenschaften/Eigenwerte und Eigenräume/charakteristisches Polynom]]
 - [[Vielfachheiten]]
 - [[Diagonalisierbarkeit]]
 
