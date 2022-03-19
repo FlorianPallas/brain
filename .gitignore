@@ -1,2 +1,10 @@
-.obsidian
+# obsidian
+.obsidian/**
+!.obsidian/app.json
+!.obsidian/templates.json
+
+# vscode
+.vscode
+
+# other
 .DS_Store
