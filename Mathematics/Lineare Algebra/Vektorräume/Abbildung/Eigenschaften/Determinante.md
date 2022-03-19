@@ -1,3 +1,0 @@
-# Determinante
-
-## Definition #card

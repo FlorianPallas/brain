@@ -1,3 +1,7 @@
+---
+aliases: LGS
+---
+
 # Lineare Gleichungssysteme
 ## Definition
 Ein lineares Gleichungssystem (LGS) mit $m$ Gleichungen und $n$ Unbestimmten $x_{1}, \ldots, x_{n}$ ist gegeben durch
