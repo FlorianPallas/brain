@@ -1,8 +1,4 @@
----
-cards-deck: Default
----
-
-# Title
+# {{title}}
 
 ## Heading
 here be dragons
