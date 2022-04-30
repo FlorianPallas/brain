@@ -9,13 +9,13 @@ Die formalen **Sprache** $For_{AL}$ beinhaltet alle syntaktisch korrekten Formel
 
 Die Konnektive als Funktion dargestellt lauten:
 
-![[Pasted image 20220222135859.png]]
+![[assets/Pasted image 20220222135859.png]]
 
 Eine **Interpretation** einer Menge an Variablen ist eine Abbildung $I:V \to \mathbb{B}$. Die Menge aller Interpretationen einer Variablenmenge ist also $\mathbb{B}^V$.
 
 Hier beispielsweise alle Interpretationen der Variablenmenge $V=\{P_1,P_2,P_3\}$.
 
-![[Pasted image 20220222140318.png]]
+![[assets/Pasted image 20220222140318.png]]
 
 Eine Interpretation legt eine **Auswertung** $val_I(F)$ fest. 
 
