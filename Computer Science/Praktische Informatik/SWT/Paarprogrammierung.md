@@ -2,7 +2,7 @@
 cards-deck: Praktische Informatik
 ---
 
-# Paarprogrammierung #card 
+# Paarprogrammierung #card
 ## Funktionsweise
 - Jede Programmiertätigkeit wird im Paar ausgeführt
 - Arbeit an einer Tastatur, einer Maus und einem Bildschirm

@@ -2,7 +2,7 @@
 cards-deck: Praktische Informatik
 ---
 
-# Iteratives-Modell #card 
+# Iteratives-Modell #card
 ## Vorgehen
 ![[Pasted image 20220426103418.png]]
 ## Eigenschaften
