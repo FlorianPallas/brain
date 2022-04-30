@@ -9,4 +9,4 @@ Im folgenden sind feingranulare Arbeitsweisen aka Praktiken aufgelistet, die unt
 - Aktive Beteiligung des Kunden
 - Fortlaufende Integration
 - Textuelle Beschreibung der Anwendungsfälle auf Karteikarten
-^1650967659097
+^c-8lY2cLgbLA

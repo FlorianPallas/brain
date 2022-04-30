@@ -14,4 +14,4 @@ $1001 \; 0010 =-18$
 - Bei der Addition und der Subtraktion muss das Vorzeichen gesondert betrachtet werden
 - Zwei Darstellungen der Null
 - Darstellung ändert sich bei Bereichserweiterung
-^1650803561993
+^c-5os5Ya7jMh

@@ -11,4 +11,4 @@ Gilt $b_{1}^{k}=b_{2}$, so können einfach $k$ Stellen der Zahl zur Basis $b_{1}
 ### Beispiel
 ![[test.png]]
 ![[Pasted image 20220424133007.png]]
-^1650799827579
+^c-s6QxWMTNGt

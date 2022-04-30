@@ -16,4 +16,4 @@ cards-deck: Praktische Informatik
 	- Vorteil gegenüber Einzelprogrammierung plus Inspektionen ist nicht nachweisbar.
 	- Kosten verdoppeln sich nahezu.
 	- Nützt eher unerfahrenen Entwicklern.
-^1650967861325
+^c-Wb7HcW6dRY

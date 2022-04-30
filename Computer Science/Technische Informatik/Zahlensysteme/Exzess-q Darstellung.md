@@ -8,4 +8,4 @@ Darstellung einer Zahl erfolgt in Form ihrer Charakteristik, dabei wird der gesa
 ## Anmerkung
 - Bei $n+1$ Stellen ist der Offset $2^{n}$
 - Der Zahlenbereich ist asymmetrisch
-^1650809774834
+^c-6O6pEuTKBJ

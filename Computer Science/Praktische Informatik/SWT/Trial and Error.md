@@ -18,4 +18,4 @@ cards-deck: Praktische Informatik
 - Wartung/Pflege kostspielig, da Programm nicht darauf vorbereitet
 - Dokumentation nicht vorhanden
 - Für Teamarbeit vollständig ungeeignet, da keine Aufgabenaufteilung vorgesehen
-^1650909071996
+^c-GWC7Lwl1Cp

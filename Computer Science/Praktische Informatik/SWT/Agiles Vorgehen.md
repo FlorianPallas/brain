@@ -18,4 +18,4 @@ cards-deck: Praktische Informatik
 ## Vertreter
 - [[Extreme Programmierung]]
 - [[Scrum]]
-^1650967374060
+^c-6BTRTCx669

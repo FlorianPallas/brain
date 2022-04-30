@@ -12,4 +12,4 @@ Der Wert $X_{b}$ der Zahl ergibt sich dann als Summe der Werte aller Einzelstell
 $$
 X_{b}=z_{n} b^{n}+z_{n-1} b^{n-1}+\cdots+z_{1} b+z_{0}+z_{-1} b^{-1}+\cdots+z_{-m} b^{-m}=\sum_{i=-m}^{n} z_{i} b^{i}
 $$
-^1650550579494
+^c-HQA8NsvT4X

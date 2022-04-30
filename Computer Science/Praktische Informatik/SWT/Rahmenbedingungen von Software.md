@@ -18,4 +18,4 @@ cards-deck: Praktische Informatik
 		- Weiterentwickelbarkeit
 		- Anpassbarkeit
 		- Wartbarkeit
-^1650907455127
+^c-Xi84B4CKRP

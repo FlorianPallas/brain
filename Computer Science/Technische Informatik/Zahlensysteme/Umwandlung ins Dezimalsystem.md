@@ -12,4 +12,4 @@ $$\begin{aligned}
 =& 45,8125 \\
 \Rightarrow & 101101,1101_{2}=45,8125_{10}
 \end{aligned}$$
-^1650553947244
+^c-aMXxpvndJ4

@@ -10,4 +10,4 @@ Hierfür gibt es vier verschiedene Formate:
 - [[Exzess-q Darstellung]]
 ## Beispiel
 ![[Pasted image 20220424160934.png]]
-^1650801315527
+^c-jWoBJVRG6Y

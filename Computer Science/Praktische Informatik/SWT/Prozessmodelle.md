@@ -11,4 +11,4 @@ cards-deck: Praktische Informatik
 - [[Agiles Vorgehen]]
 	- [[Extreme Programmierung]]
 	- [[Scrum]]
-^1650967361850
+^c-Ruz8H92v0e

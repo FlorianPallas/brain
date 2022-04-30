@@ -13,4 +13,4 @@ cards-deck: Technische Informatik
 - [[Unicode]]
 ## Fehlertolerante Codes
 - [[Hammingcode]]
-^1651259335594
+^c-2EkVu5N05i

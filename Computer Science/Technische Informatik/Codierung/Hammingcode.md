@@ -20,7 +20,7 @@ Erweitere eine Codierung um [[Paritätsbit|Paritätsbits]], sodass ein $1$-Bit F
 ### Beispiel
 ![[Pasted image 20220429200604.png]]
 ![[Pasted image 20220429200637.png]]
-^1651256948918
+^c-mHhCMkemv8
 
 ## $1$-Bit Fehlerkorrektur und $2$-Bit Fehlererkennung #card 
 ### Idee
@@ -28,4 +28,4 @@ Um 1-Bitfehler von 2-Bitfehlern unterscheiden zu können, fügt man dem Hammingc
 ![[Pasted image 20220429202619.png]]
 ### Beispiel
 ![[Pasted image 20220429202655.png]]
-^1651256948925
+^c-mH92Hzc9FJ

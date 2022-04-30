@@ -6,4 +6,4 @@ cards-deck: Lineare Algebra
 
 ## Definition #card
 Eine Eigenschaft, welche bei einem [[Basiswechsel]] erhalten bleibt.
-^1647700570874
+^c-HpMnE8QJoA

@@ -23,4 +23,4 @@ dargestellt werden. Eine sukzessive Multiplikation des Nachkommateils der Dezima
 #### Beispiel
 Umwandlung von $31562_{10}$ ins Hexadezimalsystem:
 ![[Pasted image 20220424180632.png]]
-^1650799529625
+^c-lH11muSVZN

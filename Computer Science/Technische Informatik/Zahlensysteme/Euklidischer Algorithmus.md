@@ -17,4 +17,4 @@ $$
 ## Beispiel
 Tipp: Statt $16^x$ zu berechnen, berechne $2^{4 \cdot x}$, da $2$-er Potenzen geläufiger sind. 
 ![[Pasted image 20220424162044.png]]
-^1650799559565
+^c-x6ZBrZpVRF

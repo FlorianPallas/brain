@@ -10,4 +10,4 @@ Hinweis: Die ersten drei Blöcke können beliebig wiederholt werden, bis der Pro
 - Geeignet für Systeme, für die keine vollständige Spezifikation ohne explorative Entwicklung oder Experimentation erstellt werden kann 
 - Der Prototyp (eingeschränkt funktionsfähiges System) kann Arbeitsmoral und Vertrauen zwischen Anbieter und Kunden stärken
 - Wichtig: Prototype wegwerfen!
-^1650961927192
+^c-wskZHw6bzS

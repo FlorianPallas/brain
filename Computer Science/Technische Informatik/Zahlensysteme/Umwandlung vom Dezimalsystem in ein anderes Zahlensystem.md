@@ -6,4 +6,4 @@ cards-deck: Technische Informatik
 Hierfür gibt es zwei verschiedene Algorithmen:
 - [[Euklidischer Algorithmus]]
 - [[Horner Schema]]
-^1650799960078
+^c-HU525y4H1Q
