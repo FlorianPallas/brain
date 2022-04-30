@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Festkommazahlen #card 
 ## Eigenschaften
 - Vereinbarung

@@ -1,7 +1,3 @@
----
-cards-deck: Theoretische Informatik
----
-
 # Master-Theorem #card 
 ## Verwendung
 - Werkzeug zur Berechnung der Laufzeit von rekursiven Algorithmen

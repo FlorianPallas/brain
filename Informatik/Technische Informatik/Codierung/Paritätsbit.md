@@ -1,7 +1,3 @@
----
-cards-deck: Praktische Informatik
----
-
 # Paritätsbit #card 
 ## Definition
 Ein Bit das zu einer Sammlung von Bits hinzugefügt wird, damit deren Summe gerade ist.

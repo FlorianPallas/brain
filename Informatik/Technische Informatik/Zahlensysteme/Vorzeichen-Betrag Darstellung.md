@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Vorzeichen-Betrag Darstellung #card 
 ## Funktionsweise
 Das am weitesten links stehende Bit (aka [[Most Significant Bit]]) wird als Vorzeichenbit verwendet.

@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Humming-Codes 
 ## $1$-Bit Fehlerkorrektur #card 
 ### Idee

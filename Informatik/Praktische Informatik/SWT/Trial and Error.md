@@ -1,7 +1,3 @@
----
-cards-deck: Praktische Informatik
----
-
 # Trial and Error #card 
 ## Vorgehen
 - Vorläufiges Programm erstellen

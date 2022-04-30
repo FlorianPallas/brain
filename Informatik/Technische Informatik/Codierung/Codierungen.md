@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Codierungen #card 
 ## Zahlencodierungen
 - [[Dualsystem]]

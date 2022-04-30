@@ -1,7 +1,3 @@
----
-cards-deck: Praktische Informatik
----
-
 # V-Modell #card 
 ## Vorgehen
 ![[Pasted image 20220426102150.png]]
