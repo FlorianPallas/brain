@@ -12,4 +12,4 @@ Das am weitesten links stehende Bit (aka [[Most Significant Bit]]) gibt das Vorz
 - Keine gesonderte Betrachtung des Vorzeichen bei Addition und Subtraktion nötig.
 ## Nachteile
 - Zwei Darstellungen der Null
-^1650809027890
+^c-hyjIyiRndh

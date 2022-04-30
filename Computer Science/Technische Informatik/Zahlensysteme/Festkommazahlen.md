@@ -16,4 +16,4 @@ cards-deck: Technische Informatik
 - Keine ganz großen oder kleinen Zahlen darstellbar
 - Keine Abgeschlossenheit
 - [[Assoziativgesetz]] und [[Distributivgesetz]] gelten nicht, da bei der Anwendung der Gesetze evtl. der darstellbare Zahlenbereich verlassen wird
-^1650988633843
+^c-IQfxZm5dJc

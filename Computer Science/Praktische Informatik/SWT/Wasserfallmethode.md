@@ -18,4 +18,4 @@ cards-deck: Praktische Informatik
 	- Markteinführung verzögert sich unnötig
 - Zwingt zur genauen Spezifikation auch schlecht verstandener Benutzerschnittstellen und Funktionen
 	- Entwurf, Implementierung und Testen von später nutzlosem Code
-^1650961204834
+^c-9kngUiXIPL

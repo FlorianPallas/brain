@@ -12,4 +12,4 @@ cards-deck: Theoretische Informatik
 Hinweis: In Fall $1$ und $3$ wird wird die [[Landau Notation]]-Regel für Exponentielle Summen angewandt.
 ## Aussage
 ![[Pasted image 20220427173634.png]]
-^1651075683623
+^c-dUNBaFQItE

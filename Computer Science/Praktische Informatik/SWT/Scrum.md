@@ -47,4 +47,4 @@ cards-deck: Praktische Informatik
 - Gutes reagieren auf Änderungen
 - Alle paar Wochen einen "Prototypen" liefern
 - Gute Nutzerbeteiligung
-^1650974220276
+^c-xIGFGUHHOl

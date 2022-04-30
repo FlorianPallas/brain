@@ -6,4 +6,4 @@ cards-deck: Theoretische Informatik
 ## Idee
 - spalte schwieriges Problem in mehrere leichtere Probleme und wiederhole das, bis die Instanz trivial ist
 - Im Allgemeinen bleibt das Problem gleich, aber Instanz wird leichter (z.B. kleineres $n$ )
-^1651252315503
+^c-LGBAx21Kwj

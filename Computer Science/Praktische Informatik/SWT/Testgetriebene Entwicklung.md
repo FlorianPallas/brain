@@ -8,4 +8,4 @@ cards-deck: Praktische Informatik
 - Testcode vor Anwendungscode schreiben
 - Kleine Schritte (nicht mehr als eine Methode pro Zyklus)
 - Inkrementeller Entwurf (nur so viel, wie gebraucht wird; kein vorausschauender Entwurf)
-^1650973032863
+^c-tE5LEpsPJu

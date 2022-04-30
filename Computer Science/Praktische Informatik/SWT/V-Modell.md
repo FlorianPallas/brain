@@ -16,4 +16,4 @@ cards-deck: Praktische Informatik
 - U.U. sehr umfangreiches Modell
 - Oft Anpassungen nötig (XT steht für extreme tailoring)
 - Änderungen an Anforderungen sind sehr aufwendig
-^1650961585104
+^c-qL73wKIAwS

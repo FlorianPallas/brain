@@ -12,4 +12,4 @@ Das am weitesten links stehende Bit (aka [[Most Significant Bit]]) gibt das Vorz
 - Eine Darstellungen der Null
 ## Nachteile
 - Asymmetrischer Zahlenbereich
-^1650809316402
+^c-IZMw0Fy1l3
