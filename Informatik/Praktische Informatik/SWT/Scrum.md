@@ -1,7 +1,3 @@
----
-cards-deck: Praktische Informatik
----
-
 # Scrum #card 
 ## Vorgehen
 ![[Pasted image 20220426133858.png]]

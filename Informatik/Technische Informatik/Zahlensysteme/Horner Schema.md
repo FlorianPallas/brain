@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Horner Schema #card 
 ## Funktionsweise
 Der ganzzahlige und gebrochene Anteil der Zahl wird getrennt betrachtet.

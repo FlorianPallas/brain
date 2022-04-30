@@ -1,7 +1,3 @@
----
-cards-deck: Praktische Informatik
----
-
 # Agiles Vorgehen #card
 ## Manifesto
 - **Individuals and interactions** over processes and tools 

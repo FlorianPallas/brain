@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Umwandlung ins [[Dezimalsystem]] #card 
 Die Werte der einzelnen Stellen der umzuwandelnden Zahl werden in dem Zahlensystem, in das umgewandelt werden soll, dargestellt und nach der Gleichung  des [[Stellenwertsystem|Stellenwertsystems]] aufsummiert.
 ## Beispiel

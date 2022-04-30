@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Gleitkommazahlen
 ## Verwendung #card 
 Für die Darstellung von betragsmäßig sehr kleinen oder großen Zahlen

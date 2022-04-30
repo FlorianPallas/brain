@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Euklidischer Algorithmus #card 
 ## Funktionsweise
 - Ziffern werden sukzessive, beginnend mit der höchstwertigen Ziffer, berechnet

@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Umwandlung von einem Zahlensystem in ein Anderes #card 
 ## Allgemeines Vorgehen
 1. [[Umwandlung ins Dezimalsystem]]

@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Stellenwertsystem #card 
 Die meisten heute zur Darstellung von Zahlen benutzten Systeme sind Stellenwertsysteme. Dabei erfolgt eine Zahlendarstellung in Form einer Reihe von Ziffern $z_{i}$, wobei das Dezimaltrennzeichen rechts von $z_{0}$ platziert sei:
 $$

@@ -1,7 +1,3 @@
----
-cards-deck: Theoretische Informatik
----
-
 # Landau Notation
 ## Motivation #card 
 Die Landau Notation wird verwendet, um die Laufzeit von Algorithmen in Klassen einteilen zu können. Es werden grobe Laufzeitklassen gebildet, da es zu aufwändig und unpraktikabel ist einen Algorithmus ins Detail zu analysieren.

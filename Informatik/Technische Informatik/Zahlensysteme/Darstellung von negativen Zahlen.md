@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Darstellung von negativen Zahlen #card 
 Hierfür gibt es vier verschiedene Formate:
 - [[Vorzeichen-Betrag Darstellung]]

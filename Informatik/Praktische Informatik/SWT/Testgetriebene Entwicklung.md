@@ -1,7 +1,3 @@
----
-cards-deck: Praktische Informatik
----
-
 # Testgetriebene Entwicklung #card 
 ## Vorgehen
 ![[Pasted image 20220426133540.png]]

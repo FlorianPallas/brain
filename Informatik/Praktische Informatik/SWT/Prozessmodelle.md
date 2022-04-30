@@ -1,7 +1,3 @@
----
-cards-deck: Praktische Informatik
----
-
 # Prozessmodelle #card 
 - [[Trial and Error]]
 - [[Wasserfallmethode]]

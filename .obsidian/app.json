@@ -14,5 +14,6 @@
   ],
   "useTab": false,
   "tabSize": 2,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": true
 }

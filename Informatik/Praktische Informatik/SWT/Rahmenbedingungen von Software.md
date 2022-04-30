@@ -1,7 +1,3 @@
----
-cards-deck: Praktische Informatik
----
-
 # Rahmenbedingungen von Software #card 
 - Zeit (in time)
 - Kosten (in budget)

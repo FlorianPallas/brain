@@ -1,7 +1,3 @@
----
-cards-deck: Praktische Informatik
----
-
 # Prototypen-Modell #card 
 ## Vorgehen
 ![[Pasted image 20220426102927.png]]

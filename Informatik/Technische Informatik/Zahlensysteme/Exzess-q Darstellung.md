@@ -1,7 +1,3 @@
----
-cards-deck: Technische Informatik
----
-
 # Exzess-q Darstellung #card 
 ## Funktionsweise
 Darstellung einer Zahl erfolgt in Form ihrer Charakteristik, dabei wird der gesamter Zahlenbereich wird durch Addition einer Konstanten (Exzess, Offset) so nach oben verschoben, dass die kleinste (negative) Zahl die Darstellung $0 \ldots 0$ erhält. Wird hauptsächlich bei Exponenten-Darstellung von Gleitkommazahlen benutzt.

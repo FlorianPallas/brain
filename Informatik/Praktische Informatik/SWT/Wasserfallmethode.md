@@ -1,7 +1,3 @@
----
-cards-deck: Praktische Informatik
----
-
 # Wasserfallmethode #card 
 ## Vorgehen
 ![[Pasted image 20220425210019.png]]
