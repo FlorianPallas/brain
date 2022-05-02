@@ -1,8 +1,6 @@
-# {{title}}
-
+# {{title}} #card
 ## Heading
-here be dragons
+
 
 ---
-**Related**: 
 **Tags**: #todo 
