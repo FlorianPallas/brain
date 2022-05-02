@@ -1,7 +1,7 @@
 # Codierungen #card 
 ## Zahlencodierungen
 - [[Dualsystem]]
-	- [[Darstellung von negativen Zahlen]]
+- [[Darstellung von negativen Zahlen]]
 - [[BCD-Code]]
 - [[Gray-Code]]
 ## Zeichencodierung
