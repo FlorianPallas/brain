@@ -1,0 +1,1 @@
+# Nichtfuntionale Anforderungen #card 
