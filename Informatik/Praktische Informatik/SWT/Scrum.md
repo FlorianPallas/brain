@@ -9,6 +9,8 @@
 	- Zusammengetragen und priorisiert vom Product Owner
 - Spring backlog
 	- Auswahl von User Stories für den nächsten Sprint
+- Burndown-Chart
+  ![[assets/Pasted image 20220502145252.png]]
 ### Rollen
 - Product owner
 	- Legt die Anforderungen und deren Priorisierung fest
@@ -31,6 +33,7 @@
 - Agile Methode mit regelmäßigen, funktionierenden Prototypen
 - Adaptive, schnelle, selbst organisierende Vorgehensweise
 - Organisation während einem Sprint dem Team überlassen
+- Der Product owner kann den Fortschritt mit der Burndown Chart verfolgen und überprüfen, ob das Ferstigestellungsdatum eingehalten werden kann.
 ## Vorteile
 - Hohe Produktivität
 - Hohe Anpassungsfähigkeit (z.B. an veränderte Anforderungen)
