@@ -1,6 +1,5 @@
 # obsidian
 .obsidian/**
-!.obsidian/app.json
 !.obsidian/templates.json
 
 # vscode
