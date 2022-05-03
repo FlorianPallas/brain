@@ -1,6 +1,6 @@
 # Master-Theorem #card 
 ## Verwendung
-- Werkzeug zur Berechnung der Laufzeit von rekursiven Algorithmen
+- Werkzeug zur Berechnung der Laufzeit in der [[Landau Notation]] von rekursiven Algorithmen
 ## Herleitung
 ![[Pasted image 20220427180755.png]]
 ![[Pasted image 20220427195550.png]]
