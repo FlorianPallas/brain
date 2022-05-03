@@ -2,8 +2,8 @@
 
 ## Definition
 
-## Verständins
-Eine [[Lineare Abbildung]] ist eine [[Abbildung]], die Elemente aus dem Start [[Vektorraum]] in den Ziel [[Vektorraum]] abbildet.
+## Verständnis
+Eine [[Lineare Abbildung]] ist eine [[Abbildung]], die Elemente aus dem [[Vektorraum|Startvektorraum]] in den [[Vektorraum|Zielvektorraum]] abbildet.
 
 ## Besondere Lineare Abbildungen
 - [[injektive Lineare Abbildung]]
@@ -19,7 +19,7 @@ Eine [[Lineare Abbildung]] ist eine [[Abbildung]], die Elemente aus dem Start [[
 - [[Rang]]
 - [[Spur]]
 - [[Eigenwerte]]
-- [[Mathematics/Lineare Algebra/Vektorräume/Abbildungen/Eigenschaften/Eigenwerte und Eigenräume/charakteristisches Polynom]]
+- [[charakteristisches Polynom]]
 - [[Vielfachheiten]]
 - [[Diagonalisierbarkeit]]
 
