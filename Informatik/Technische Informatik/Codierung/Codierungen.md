@@ -1,12 +1,12 @@
 # Codierungen #card 
-## Zahlencodierungen
+## Zahlenkodierung
 - [[Dualsystem]]
 - [[Darstellung von negativen Zahlen]]
 - [[BCD-Code]]
 - [[Gray-Code]]
-## Zeichencodierung
+## Zeichenkodierung
 - [[ASCII]]
 - [[Unicode]]
 ## Fehlertolerante Codes
-- [[Hammingcode]]
+- [[Hamming-Code]]
 ^c-2EkVu5N05i

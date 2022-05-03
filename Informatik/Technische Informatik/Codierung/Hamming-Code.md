@@ -1,4 +1,4 @@
-# Humming-Codes 
+# Hamming-Code
 ## $1$-Bit Fehlerkorrektur #card 
 ### Idee
 Erweitere eine Codierung um [[Paritätsbit|Paritätsbits]], sodass ein $1$-Bit Fehler erkannt und verbessert werden kann. Angenommen das zu übermittelnde Codewort sei $n$ Bits lang. Dann müssen $n+1$ Fälle abgedeckt werden (Fehler an einer der n Bits oder kein Fehler). Die [[Paritätsbit|Paritätsbits]] müssen alle diese Fälle abdecken, also muss $2^k \geq n +1$ gelten. Die [[Paritätsbit|Paritätsbits]] müssen mit kodiert werden, sodass noch $m$ Bits für die eigentliche Nachricht übrig bleiben mit $2^k \geq k+m+1$.
@@ -11,7 +11,7 @@ Erweitere eine Codierung um [[Paritätsbit|Paritätsbits]], sodass ein $1$-Bit F
 5. Berechnung der Parität jeden Blockes
 	- Alle Paritäten sind null: Es ist kein 1-Bit Fehler aufgetreten
 	- Von null verschiedene Paritäten: Es ist ein 1-Bit Fehler aufgetreten.
-6. Behebung des $1$-Bit Fehlers. Da jedes [[Paritätsbit]] nur in einem Block vorkommt, kann $k_j$ dem Wert des Blockes mit Blockgröße $2^j$ zugewiesen. Diese $k$ kodieren die Position des Fehlers. Die Fehlerposition lautet: $k_nk_{n-1}...k_2k_1$. Folgende Graphik veranschaulicht die Codierung der Fehlerposition:
+6. Behebung des $1$-Bit Fehlers. Da jedes [[Paritätsbit]] nur in einem Block vorkommt, kann $k_j$ dem Wert des Blockes mit Blockgröße $2^j$ zugewiesen. Diese $k$ kodieren die Position des Fehlers. Die Fehlerposition lautet: $k_nk_{n-1}...k_2k_1$. Folgende Grafik veranschaulicht die Codierung der Fehlerposition:
 	![[Pasted image 20220429200352.png]]
 ### Beispiel
 ![[Pasted image 20220429200604.png]]
