@@ -2,7 +2,7 @@
 aliases: []
 ---
 
-# {{title}} #card
+# Hauptvektor #card
 ## Definition
 
 
