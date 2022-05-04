@@ -6,3 +6,4 @@
 ![[assets/Pasted image 20220502201659.png]]
 ## Übersicht
 ![[assets/Pasted image 20220502201727.png]]
+^c-oLvGvVuqxS

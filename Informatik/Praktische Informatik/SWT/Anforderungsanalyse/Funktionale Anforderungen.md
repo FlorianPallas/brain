@@ -8,3 +8,4 @@
  ![[assets/Pasted image 20220502201815.png]]
 ## Hinweise
 - Werden oft als als [[Use Cases]] dokumentiert 
+^c-CtHEKehF7R
