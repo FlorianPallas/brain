@@ -34,9 +34,12 @@ $\checkmark$ Änderbar ohne Einfluss auf andere Anforderungen?
 - C = wünschenswert
 ## Weiters
 - Anforderungen können auch angeben was **nicht** gemacht wird bzw. auf was verzichtet wird
-- Anforderungen sollten über den gesamten Entwicklungsprozess nachvollziebar sein
+- Anforderungen sollten über den gesamten Entwicklungsprozess nachvollziehbar sein
+- Anforderungen werden mittels der [[Anforderungsanalyse]] erhoben.
+- Anforderungen werden oft in [[Use Cases]] geschildert und in [[Anwendungsfalldiagramm|Use Case Diagrammen]] dargestellt. 
 ## Erfassung
 - Können als Freitext verfasst werden
   - Wird oft sehr schnell unübersichtlich
  - Können in einer Tabelle / Datenbank abgespeichert werden
    - Vorteile: Einheitliches Schema, Filter, Statusfelder, Zugriffsrechte, Paralleles Bearbeiten, Zentrale Datenhaltung
+^c-CQSDK8gTN8
