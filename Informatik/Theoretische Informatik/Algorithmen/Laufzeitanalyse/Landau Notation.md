@@ -1,3 +1,7 @@
+---
+aliases: [Laufzeit]
+---
+
 # Landau Notation
 ## Motivation #card 
 Die Landau Notation wird verwendet, um die Laufzeit von Algorithmen in Klassen einteilen zu können. Es werden grobe Laufzeitklassen gebildet, da es zu aufwändig und unpraktikabel ist einen Algorithmus ins Detail zu analysieren.
@@ -33,3 +37,12 @@ $\sum_{i} c^{i}$ wird asymptotisch vom größten Summanden dominiert, also: $\su
 - $\Theta$ ist eine [[Äquivalenzrelation]] 
 - $\Theta (n \log n)$ wird als quasi-linear bezeichnet
 ^c-y5Phznu9CM
+
+## Beispiel: Ist $10+n^{2} \in o\left(2^{n}\right)?$ #card 
+$\lim _{n \rightarrow \infty} 10+n^{2}=\infty \wedge \lim _{n \rightarrow \infty} 2^{n}=\infty \Rightarrow$ I'Hopital anwenden
+$$
+
+\lim _{n \rightarrow \infty} \left|\frac{10+n^{2}}{2^{n}}\right| \stackrel{\text { l'Hospital }}{=} \lim _{n \rightarrow \infty}\left|\frac{2 \cdot n}{\log (2) \cdot 2^{n}}\right| \stackrel{\text { l'Hospital }}{=} \lim _{n \rightarrow \infty}\left|\frac{2}{\log ^{2}(2) \cdot 2^{n}}\right| =0
+
+$$
+^c-XNNKk7zn1J
