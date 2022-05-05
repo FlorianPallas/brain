@@ -1,4 +1,4 @@
-# Wasserfallmethode #card 
+# Wasserfallmethode #card
 ## Vorgehen
 ![[Pasted image 20220425210019.png]]
 - Jede Aktivität in der angegebenen Reihenfolge vollständig durchführen. Mit der nächsten Aktivität wird erst dann begonnen, wenn die vorherige abgeschlossen ist.

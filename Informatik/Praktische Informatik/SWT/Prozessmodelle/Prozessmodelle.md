@@ -1,4 +1,4 @@
-# Prozessmodelle #card 
+# Prozessmodelle #card
 - [[Trial and Error]]
 - [[Wasserfallmethode]]
 - [[V-Modell]]

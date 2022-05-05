@@ -1,4 +1,4 @@
-# Agiles Vorgehen #card
+# Agiles Vorgehen #card 
 ## Manifesto
 - **Individuals and interactions** over processes and tools 
 - **Working software** over comprehensive documentation 

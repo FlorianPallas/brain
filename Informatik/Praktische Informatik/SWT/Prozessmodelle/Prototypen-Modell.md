@@ -1,4 +1,4 @@
-# Prototypen-Modell #card 
+# Prototypen-Modell #card
 ## Vorgehen
 ![[Pasted image 20220426102927.png]]
 Hinweis: Die ersten drei Blöcke können beliebig wiederholt werden, bis der Prototype den Wünschen entspricht.

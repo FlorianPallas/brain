@@ -1,4 +1,4 @@
-# V-Modell #card 
+# V-Modell #card
 ## Vorgehen
 ![[Pasted image 20220426102150.png]]
 - Jede Aktivität hat einen eigenen Prüfungsschritt

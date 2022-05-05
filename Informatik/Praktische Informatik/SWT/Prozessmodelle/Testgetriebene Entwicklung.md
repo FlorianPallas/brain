@@ -1,4 +1,4 @@
-# Testgetriebene Entwicklung #card 
+# Testgetriebene Entwicklung #card
 ## Vorgehen
 ![[Pasted image 20220426133540.png]]
 - Testcode vor Anwendungscode schreiben
