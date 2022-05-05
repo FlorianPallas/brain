@@ -1,4 +1,4 @@
-# Trial and Error #card 
+# Trial and Error #card
 ## Vorgehen
 - Vorläufiges Programm erstellen
 - Anforderung, Entwurf, Testen, Wartung überlegen

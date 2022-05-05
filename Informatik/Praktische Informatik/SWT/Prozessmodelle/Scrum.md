@@ -1,4 +1,4 @@
-# Scrum #card 
+# Scrum #card
 ## Vorgehen
 ![[Pasted image 20220426133858.png]]
 ### Artefakte
