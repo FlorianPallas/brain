@@ -48,10 +48,25 @@ In der dualen Darstellung ist die erste Stelle nach dem Komma mit der Ausnahme d
 ^c-LC7u2Huci8
 
 ## IEEE-P 754-Floating-Point-Standard #card 
-![[Pasted image 20220427170650.png]]
-- Die Basis $b$ ist beim IEEE-Standard gleich $2 .$
-- Das erste Bit der Mantisse wird implizit zu 1 angenommen, wenn die Charakteristik nicht nur Nullen enthält.
+## Varianten
+![[Pasted image 20220509085714.png]]
+## Eigenschaften
+- Basis  $b=2$
 - Normalisiert wird so, dass das erste Bit der Mantisse (die implizite 1) vor dem Komma steht.
+- Das erste Bit der Mantisse wird implizit zu 1 angenommen, wenn die Charakteristik nicht nur Nullen enthält.
 - Ist die Charakteristik gleich 0, entspricht dies dem gleichen Exponenten wie die Charakteristik 1, nur wird dann das erste Bit der Mantisse explizit dargestellt (d. h. dadurch ist auch die Null darstellbar) und die Normalisierung folgt den üblichen Grundsätzen.
 - Sind alle Bits der Charakteristik gleich 1, signalisiert dies eine Ausnahmesituation. Ist zusätzlich die Mantisse gleich Null, bedeutet dies einen „overflow" (bzw. $\pm \infty)$, andernfalls „NaN" (not a number). Dies erlaubt es dem Prozessor, eine Fehlerbehandlung einzuleiten.
+## Veranschaulichung
+![[Pasted image 20220509084436.png]]
+## Hinweise
+![[Pasted image 20220509084837.png]]
+## Umrechnung
+### Umrechnung von Dezimal zu Gleitkommazahl
+- Vorzeichenbit wählen
+- Zahl in Binär darstellen
+- Zahl im Binären normalisieren nach IEEE-P 754-Floating-Point-Standard
+- Exponent der normalisierten Zahl ablesen 
+- Charakteristik ausrechnen: $\text{Charakteristik} = 2^{8\text{ oder }11}-1+\text{Exponent}$  
+- Mantisse aufstellen = normalisierte Binärzahl ohne die erste Stelle und ohne den Faktor
+![[Pasted image 20220509090016.png]]
 ^c-jfaN5wMl8r
