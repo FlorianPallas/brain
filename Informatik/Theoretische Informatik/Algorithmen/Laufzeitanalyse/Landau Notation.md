@@ -24,7 +24,8 @@ Merke: Alle Logarithmen wachsen langsamer als [[Polynom|Polynome]] mit positiven
 ![[Pasted image 20220420162416.png]]
 ![[Pasted image 20220420162430.png]]
 ![[Pasted image 20220420162446.png]]
-$\sum_{i} c^{i}$ wird asymptotisch vom größten Summanden dominiert, also: $\sum_{i=a}^{b} c^{i} \in \Theta\left(c^{a}+c^{b}\right),$ falls $c \neq 1$. Die Indizes $a$ bis $b$ dürfen von $n$ abhängen.
+- $\sum_{i} c^{i}$ wird asymptotisch vom größten Summanden dominiert, also: $\sum_{i=a}^{b} c^{i} \in \Theta\left(c^{a}+c^{b}\right),$ falls $c \neq 1$. Die Indizes $a$ bis $b$ dürfen von $n$ abhängen.
+- $\log (n !) \in \Theta(n \log n)$
 ^c-g9XsHBDRe1
 
 ## Rechentipps #card 

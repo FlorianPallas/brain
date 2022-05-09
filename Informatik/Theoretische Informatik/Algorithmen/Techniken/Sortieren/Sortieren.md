@@ -3,6 +3,9 @@ aliases: []
 ---
 
 # Sortieren #card
+## Theorem
+Jeder vergleichsbasierte Sortieralgorithmus benötigt $\Omega(n \log n)$ Vergleiche um eine Folge von $n$ Elementen zu sortieren.
+![[Pasted image 20220509210120.png]]
 ## Normale Verfahren
 - [[Insertion Sort]]
 ## [[Teile und Herrsche]] Verfahren
