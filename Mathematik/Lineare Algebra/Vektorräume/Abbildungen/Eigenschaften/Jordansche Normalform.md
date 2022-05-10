@@ -3,6 +3,8 @@ aliases: [jordansche Normalform]
 ---
 
 # Jordansche Normalform #card
+## Vorraussetzungen
+- Das [[charakteristisches Polynom]] zerfällt in [[Linearfaktoren]].
 ## Verfahren
 1. Anwenden der [[Hauptraumzerlegung]]
 2. Für jeden [[Hauptraum]] eine [[Umwandeln des Hauptraums in ein Jordanblock]] durchführen, dies ist möglich, da die [[Hauptraum|Haupträume]] linear unabhänig sind.
