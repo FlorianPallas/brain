@@ -18,7 +18,8 @@ Wählt man entsprechend der Zerlegung $V=H_{\lambda_{1}} \oplus H_{\lambda_{2}} 
 Dabei ist $A_{\lambda_{i}}$ eine $\left(r_{i} \times r_{i}\right)$-Matrix für $i \in\{1,2, \ldots k\}$.
 Die Anzahl der Blöcke $A_{\lambda_{i}}$ in $D_{B B}(f)$ ist gleich der Anzahl der verschiedenen Eigenwerte von $f$. Die Reihenfolge der Blöcke ist nur durch die (willkürliche) Nummerierung der Eigenwerte festgelegt.
 ## Berechnung
+- Berechne alle [[Hauptraum|Haupträume]] und nehme die Hauptvektoren als Basisvektoren
 
 ^c-STjWZzSOHi
 ---
-**Tags**: #todo 
+**Tags**: 
