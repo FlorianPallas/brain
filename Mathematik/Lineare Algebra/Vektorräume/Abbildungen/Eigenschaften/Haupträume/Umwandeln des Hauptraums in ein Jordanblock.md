@@ -11,7 +11,7 @@ Für jeden [[Hauptraum]] eine [[Basis]] $B$ zu bestimmen, sodass die [[Darstellu
 ## Eigenschaften
 - Die [[Dimension]] des [[Eigenraum]] von $\lambda$ gibt die Anzahl an Jordankästchen an.
 ## Allgemeines Verfahren
-1. Wie bei der Berechnung des [[Hauptraum|Hauptraums]] müssen die Kerne $K_1=E_1, \quad K_2, \quad ... \quad$ sukzessive zu bestimmen, bis $K_{q+1}=K_q$ erfüllt ist. Dabei gilt, dass $q$ gleich der algebraischen Vielfachheit des [[Eigenwerte|Eigenwertes]] ist.
+1. Wie bei der Berechnung des [[Hauptraum|Hauptraums]] müssen die Kerne $K_1=E_1, \quad K_2, \quad ... \quad$ sukzessive zu bestimmen, bis $K_{q+1}=K_q$ erfüllt ist. Dabei gilt, dass $q$ höchstens gleich der algebraischen Vielfachheit des [[Eigenwerte|Eigenwertes]] ist.
 2. Nun wird der [[Hauptvektor]] $v_s$ mit höchster [[Stufe eines Vektors|Stufe]] genommen (also ein Vektor, der in $K_q$ und nicht in $K_{q-1}$ liegt). Mit diesem erzeugt man sich dann jeweils ein Vektor jeder niedrigeren Stufe:  
 	1. $v_{s-1}=(A-\lambda)v_s$
 	2. $v_{s-2}=(A-\lambda)^2v_s =(A-\lambda)v_{s-1}$
