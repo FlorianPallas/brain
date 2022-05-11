@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Literalen]
 ---
 
 # Literal #card

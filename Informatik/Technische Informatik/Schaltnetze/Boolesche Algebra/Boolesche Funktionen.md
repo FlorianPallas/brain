@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Booleschen Funktion]
 ---
 
 # Boolesche Funktionen #card
