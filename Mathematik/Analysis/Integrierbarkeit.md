@@ -2,8 +2,8 @@
 aliases: []
 ---
 
-# Darstellungsmatrix #card
-## Heading
+# Integrierbarkeit #card
+## Definition
 
 ---
 **Tags**: #todo 

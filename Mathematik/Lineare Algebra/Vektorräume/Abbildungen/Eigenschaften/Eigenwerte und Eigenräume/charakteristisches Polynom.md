@@ -1,4 +1,6 @@
-
+---
+aliases: [charakteristische Polynom]
+---
 
 # Charakteristisches Polynom #card
 
