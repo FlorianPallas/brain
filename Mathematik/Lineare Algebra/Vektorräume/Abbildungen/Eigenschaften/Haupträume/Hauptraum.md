@@ -8,7 +8,7 @@ Ist $q \leq n$ die kleinste natürliche Zahl mit $K_{q}=K_{q+1}$, so heißt
 $$
 H_{\lambda}:=K_{q}=\operatorname{Kern}\left(\left(f-\lambda \operatorname{id}_{V}\right)^{q}\right)
 $$
-Hauptraum (oder verallgemeinerter [[Eigenraum]]) von $f$ zum [[Eigenwert]] $\lambda$; $q$ heißt Index von $H_{\lambda}$. Hinweis: $K_q$ ist der [[j-te Kern|q-te Kern]] 
+Hauptraum (oder verallgemeinerter [[Eigenraum]]) von $f$ zum [[Eigenwerte|Eigenwert]] $\lambda$; $q$ heißt Index von $H_{\lambda}$. Hinweis: $K_q$ ist der [[j-te Kern|q-te Kern]] 
 ## Bemerkung
 - Für den Untervektorraum $H_{\lambda}$ von $V$ ist der Endomorphismus $g: H_{\lambda} \rightarrow H_{\lambda,} \quad v \mapsto\left(f-\lambda \mathrm{id}_{V}\right)(v)$ nilpotent, das heißt es gibt $m \in \mathbb{N}$ mit $g^{m}=0$.
 - Der Hauptraum besitzt folgendes [[f invariant|f invariantes]] Komplement: $B_{\lambda}:=\operatorname{Bild}\left(\left(f-\lambda \mathrm{id}_{V}\right)^{q}\right)$. Somit gilt $V=H_{\lambda} \oplus B_{\lambda}.$

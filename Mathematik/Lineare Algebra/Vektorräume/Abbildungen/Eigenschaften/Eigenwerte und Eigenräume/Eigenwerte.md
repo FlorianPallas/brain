@@ -1,5 +1,5 @@
 ---
-cards-deck: Lineare Algebra
+alias: [Eigenwert]
 ---
 
 # Eigenwert

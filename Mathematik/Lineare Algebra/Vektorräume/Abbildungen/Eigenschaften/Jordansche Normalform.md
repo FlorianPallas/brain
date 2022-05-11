@@ -14,6 +14,7 @@ aliases: [jordansche Normalform]
 - Die Jordansche Normalform ist bis auf die Reihenfolge der Jordanblöcke eindeutig.
 - Jede [[Darstellungsmatrix]] in $\mathbb{C}$ lässt sich auf die jordansche Normalform bringen, da das [[charakteristisches Polynom]] immer in [[Linearfaktoren]] zerfällt.
 - Jede [[Darstellungsmatrix]] in $\mathbb{C}$ ist ähnlich zu einer Matrix in jordanscher Normalform
+- Ist $\operatorname{dim}(V) \leq 3$, so ist für jeden [[Endomorphismus]] $f \in$ End $(V)$ die Jordansche Normalform durch das [[charakteristisches Polynom]] $\chi_{f}$ und das [[Minimalpolynom]] $m_{f}$ (bis auf die Reihenfolge der Jordanblöcke) eindeutig bestimmt.
 ^c-RQyTeMONaq
 ---
 **Tags**: 
