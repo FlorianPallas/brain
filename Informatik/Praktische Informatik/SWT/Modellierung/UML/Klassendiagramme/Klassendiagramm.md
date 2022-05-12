@@ -30,5 +30,6 @@ Hinweis: Vor Büro nach Gebäude müsste die obere Zahl eine 1 und keine 2 sein.
 ![[Pasted image 20220512165501.png]]
 ## Beispiel aus dem Web
 ![[Pasted image 20220511205005.png]]
+
 ---
 **Tags**: 
