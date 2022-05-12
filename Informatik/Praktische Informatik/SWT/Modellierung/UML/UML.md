@@ -11,6 +11,7 @@ Funktionales Modell (aus dem Lastenheft)
 - Szenarien und [[Anwendungsfalldiagramm|Anwendungsfalldiagramme]] (scenarios, use case diagrams)
 Objektmodell
 - [[Klassendiagramm|Klassendiagramme]] und Objektdiagramme (class and object diagrams)
+- [[Paketdiagramm]]
 Dynamisches Modell
 - Sequenzdiagramme (sequence diagrams)
 - Zustandsdiagramme (state chart diagrams)
