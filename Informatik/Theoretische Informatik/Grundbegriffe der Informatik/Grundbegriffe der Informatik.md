@@ -1,4 +1,4 @@
-[[Graph]]
+[[Graph GBI]]
 [[O-Kalkül]]
 [[Entscheidbarkeit]]
 [[Baum]]
