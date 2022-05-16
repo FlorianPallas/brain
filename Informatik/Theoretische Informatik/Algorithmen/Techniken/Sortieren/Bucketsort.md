@@ -9,6 +9,6 @@ Die Laufzeit beträgt $\Theta(n+m)$, da einmal $m$ größer sein kann (z.B. in d
 - Oft werden nicht direkt Zahlen sortiert, sondern Objekten mit einer Zahl als Key.
 - Bucketsort kann $n$ [[Knoten]] in einem [[Graph|Graphen]] nach dem Grad in $\Theta(n)$ sortieren.
 - Bucketsort ist ein [[stabiles Sortierverfahren]].
-
+^c-tPETf5Cbgg
 ---
 **Tags**: 
