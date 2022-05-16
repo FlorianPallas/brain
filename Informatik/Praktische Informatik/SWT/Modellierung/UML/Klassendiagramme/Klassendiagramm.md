@@ -21,6 +21,8 @@ Gibt eine Beziehung von Instanzen zweier [[Klasse|Klassen]] an
 ![[Pasted image 20220511195934.png]]
 ### Vererbung
 ![[Pasted image 20220511200153.png]]
+### Interfaces Implementierung
+Der Pfeil gleicht dem der Vererbung ist aber der Strich ist gestrichelt. 
 ## Beispiel
 ![[Pasted image 20220511193352.png]]
 ![[Pasted image 20220511193446.png]]
