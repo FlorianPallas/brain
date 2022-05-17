@@ -1,3 +1,7 @@
+---
+aliases: [abgeschlossen]
+---
+
 # Abgeschlossene Mengen
 
 ## Definition
