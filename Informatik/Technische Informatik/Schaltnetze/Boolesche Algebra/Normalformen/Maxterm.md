@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Maxtermen]
 ---
 
 # Maxterm #card

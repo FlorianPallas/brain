@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Implikanten]
 ---
 
 # Implikant #card

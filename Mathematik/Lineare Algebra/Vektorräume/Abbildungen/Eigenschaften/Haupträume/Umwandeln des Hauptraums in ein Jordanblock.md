@@ -25,6 +25,8 @@ $$
 	Diese Vektoren erzeugen dann eine Basis $B_q$ des größten Jordankästchens mit $B_q=(v_1, ..., v_s)$. Die Anzahl der Basisvektoren bestimmt die Länge des Jordankästchens.
 3. Der 2. Schritt wird solange mit den noch nicht verwendeten [[Hauptvektor|Hauptvektoren]] wiederholt, bis es keine mehr gibt. Auch hier wird immer der [[Hauptvektor]] größter Stufe verwendet. Jede Ausführung des 2. Schritts erzeugt einen Jordanblock, der jeweils kleiner gleich dem vorherigen ist.
 4. Zusammenfassen der im 2. Schritt ermittelten Basen zu einer. Dabei stehen die früher ermittelten Basen links von den später ermittelten.
+## Veranschaulichung
+![[Pasted image 20220517093831.png]]
 ^c-TSDBam4Vrb
 ---
 **Tags**: 
