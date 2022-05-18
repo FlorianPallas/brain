@@ -23,7 +23,7 @@ $$
 F_{B}(s)=\left(D_{C B}\left(\mathrm{id}_{V}\right)\right)^{\top} \cdot F_{C}(s) \cdot D_{C B}\left(\mathrm{id}_{V}\right)
 $$
 ## [[Diagonalisierbarkeit]]
-Falls die [[Bilinearformen|Bilinearform]] symmetrisch ist und paarweise verschiedene [[Eigenwerte]] besitzt, so ist die Fundamentalmatrix diagonalisierbar. Achtung: Auf der Diagonalen stehen im Allgemeinen nicht die [[Eigenwerte]].
+Falls die [[Bilinearformen|Bilinearform]] symmetrisch ist und paarweise verschiedene [[Eigenwerte]] $\lambda_i$ besitzt, so ist die Fundamentalmatrix diagonalisierbar. Achtung: Auf der Diagonalen stehen im Allgemeinen nicht die [[Eigenwerte]], sondern $\lambda_i \cdot v_i^T \cdot v_i$.
 ^c-SdsAaiP17l
 ---
 **Tags**: 
