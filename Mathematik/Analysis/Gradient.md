@@ -14,8 +14,8 @@ Der Gradient ist dabei ein Richtungsvektor, welcher in Richtung des grössten An
 ^c-WLkRpiCKdu
 
 ## Beispiele
-
+![[Pasted image 20220518091529.png]]
 
 
 ---
-**Tags**: #todo 
+**Tags**: 
