@@ -27,20 +27,7 @@ $$
 - $V=\mathbb{K}^{n}, A \in \mathbb{K}^{n \times n}, s_{A}: \mathbb{K}^{n} \times \mathbb{K}^{n} \rightarrow \mathbb{K},(x, y) \mapsto x^{\top} \cdot A \cdot y$
 	- [[Standardskalarprodukt]] erhält man für $A=E$.
 ## Fundamentalmatrix
-Ist $V$ endlich-dimensional, $B=\left(b_{1}, b_{2}, \ldots, b_{n}\right)$ eine geordnete Basis von $V$ und $s: V \times V \rightarrow \mathbb{K}$ eine Bilinearform, so heißt die Matrix
-$$
-F_{B}(s):=\left(\begin{array}{ccc}
-s\left(b_{1}, b_{1}\right) & \cdots & s\left(b_{1}, b_{n}\right) \\
-\vdots & \ddots & \vdots \\
-s\left(b_{n}, b_{1}\right) & \cdots & s\left(b_{n}, b_{n}\right)
-\end{array}\right)
-$$
-Fundamentalmatrix von s bezüglich $B$. Mit der Fundamentalmatrix lässt sich die Bilinearform folgendermaßen auswerten:
-$$s(v, w)=\left(D_{B}(v)\right)^{\top} \cdot F_{B}(s) \cdot D_{B}(w)$$
-### Eigenschaften der Fundamentalmatrix
-- s ist symmetrisch genau dann, wenn $F_{B}(s)$ eine symmetrische Matrix ist.
-- s ist schiefsymmetrisch genau dann, wenn $F_{B}(s)$ eine schiefsymmetrische Matrix ist (das heißt $F_{B}(s)^{\top}=-F_{B}(s)$ ).
-
+Jede endlichdimensionale Bilinearform kann als [[Fundamentalmatrix]] codiert werden.
 ^c-E8RTHsatJp
 ---
 **Tags**: 
