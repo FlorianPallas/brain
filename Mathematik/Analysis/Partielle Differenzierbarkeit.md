@@ -1,5 +1,5 @@
 ---
-aliases: [partiell differenzierbar, pdb]
+aliases: [partiell differenzierbar, pdb.]
 ---
 
 # Partielle Differenzierbarkeit
