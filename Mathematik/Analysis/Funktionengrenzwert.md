@@ -9,7 +9,7 @@ Im $\mathbb{R}^n$ müssen nun alle Folgen berücksichtigt werden, nicht nur Folg
 ![[Pasted image 20220503143105.png]]
 ^c-ZoSKvSAnQv
 
-## Bestimmung #card
+## Verfahren #card
 - [[Definitionsmenge]] bestimmen
 - (Ist der Punkt gegen den die Funktion geht ein [[Häufungspunkt]]?)
 - Zeigen dass der Grenzwert nicht existiert
