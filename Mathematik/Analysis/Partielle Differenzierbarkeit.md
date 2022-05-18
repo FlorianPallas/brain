@@ -49,13 +49,13 @@ $$
 
 ## Beispiele
 ### In allen Punkten partiell differenzierbar
-![[Pasted image 20220517100206.png]]
+![[Pasted image 20220517100206.png|500]]
 
 ### Stellenweise nicht partiell differenzierbar
-![[Pasted image 20220517101348.png]]
+![[Pasted image 20220517101348.png|500]]
 
 ### Auf Intervallen definierte Funktion
-![[Pasted image 20220517110933.png]]
+![[Pasted image 20220517110933.png|500]]
 
 ---
 **Tags**: 
