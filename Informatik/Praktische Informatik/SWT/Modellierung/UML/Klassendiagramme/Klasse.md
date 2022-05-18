@@ -5,10 +5,11 @@ aliases: [Klassen]
 # Klasse #card
 ## Definition
 ## Darstellung nach [[UML]]
-![[Pasted image 20220512163224.png]]
+![[Pasted image 20220512163224.png|400]]
+![[Pasted image 20220512165255.png|]]
 ![[Pasted image 20220512163831.png]]
-![[Pasted image 20220512163845.png]]
-![[Pasted image 20220512165255.png]]
+![[Pasted image 20220512163845.png|]]
+![[Pasted image 20220512165255.png|]]
 ![[Pasted image 20220512165848.png]]
 
 ### Name
