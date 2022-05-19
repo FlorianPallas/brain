@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [KNF]
 ---
 
 # Konjunktive Normalform #card
