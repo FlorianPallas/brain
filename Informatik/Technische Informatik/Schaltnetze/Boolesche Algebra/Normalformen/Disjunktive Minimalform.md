@@ -8,7 +8,7 @@ Ein Ausdruck in disjunktiver Minimalform (Abk.: DMF) ist eine Disjunktion von Ko
 $$
 y\left(x_{1}, \ldots, x_{n}\right)=\left(L_{11} \cdots \cdots L_{1 k}\right) \vee \ldots \vee\left(L_{m 1} \cdots \cdots L_{m j}\right)
 $$
-mit den Literalen $L_{v w} \in\left\{x_{1}, \ldots, x_{n}, \bar{x}_{1}, \ldots, \bar{x}_{n}\right\}$, welche die gesamten Realisierungskosten
+mit den [[Literal|Literalen]] $L_{v w} \in\left\{x_{1}, \ldots, x_{n}, \bar{x}_{1}, \ldots, \bar{x}_{n}\right\}$, welche die gesamten Realisierungskosten
 $$
 Y_{y}=\Psi_{O D E R}(m)+\Psi_{U N D}(k)+\cdots+\Psi_{U N D}(j)
 $$
