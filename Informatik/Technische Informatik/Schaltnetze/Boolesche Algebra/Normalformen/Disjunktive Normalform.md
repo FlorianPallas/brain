@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [DNF]
 ---
 
 # Disjunktive Normalform #card
