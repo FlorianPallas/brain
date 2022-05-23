@@ -1,9 +1,10 @@
 ---
-aliases: []
+aliases: [DFS]
 ---
 
 # Tiefensuche #card
-## Definition
 
+![[Pasted image 20220523160003.png]]
+^c-vL6dbGJ6P4
 ---
-**Tags**: #todo 
+**Tags**: 
