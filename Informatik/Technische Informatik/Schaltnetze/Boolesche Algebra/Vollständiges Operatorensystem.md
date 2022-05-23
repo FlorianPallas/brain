@@ -8,6 +8,7 @@ Ein System von Operatoren, mit dem alle [[Boolesche Funktionen]] dargestellt wer
 ## Beispiele
 - Die Operatoren $(\vee, \wedge, \neg)$ bilden ein vollständiges Operatorensystem
 - Der Operator NAND ist ein vollständiges Operatorensystem
+- Der Operator NOR ist ein vollständiges Operatorensystem
 ^c-IUBLSkCEAw
 ---
 **Tags**: 
