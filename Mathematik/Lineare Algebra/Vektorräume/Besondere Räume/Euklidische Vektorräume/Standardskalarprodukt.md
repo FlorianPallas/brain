@@ -23,6 +23,8 @@ $$
 Folglich ist das Standardskalarprodukt eine [[Bilinearformen|Bilinearform]].
 ## Eigenschaften
 - Das Standardskalarprodukt ist symmetrisch, also ist $\langle x, y\rangle = \langle y, x\rangle \; \forall x,y \in V$
+- Das Standardskalarprodukt ist positiv definit, also ist $\langle x, x\rangle \gt 0 \; \forall x \in V \setminus \{0\}$ und somit nicht ausgeartet
+Folglich ist das Standardskalarprodukt ein [[(euklidische) Skalarprodukt]].
 ^c-ArkCzXndB0
 ---
 **Tags**: 
