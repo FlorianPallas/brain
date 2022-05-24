@@ -17,7 +17,8 @@ $$
 ## Eigenschaften
 - ist symmetrisch, falls $s(x, y)=s(y, x) \; \forall x, y \in V$
 	- ist ausgeartet, falls [[Radikal]] $\operatorname{rad}(s)\neq \{0\}$  
-	- ist positiv definiert, falls für alle $v \in V \backslash\{0\}$ gilt, dass: $s(v, v)>0$
+	- ist positiv definit, falls für alle $v \in V \backslash\{0\}$ gilt, dass: $s(v, v)>0$
+	- Hinweis: Ausgeartet und positiv definit schließen sich gegenseitig aus.
 - ist schiefsymmetrisch, falls $s(x, y)=-s(y, x) \; \forall x, y \in V$
 - ist alternierend, falls $s(x, x)=0 \; \forall x \in V$. 
 	- Eine alternierende Bilinearform ist stets schiefsymmetrisch
