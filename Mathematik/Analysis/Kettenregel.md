@@ -4,13 +4,13 @@ aliases: []
 
 # Kettenregel
 ## Definition #card
-Wenn die Funktionen $f$, $g$
+Wenn die [[Funktion|Funktionen]] $f$, $g$
 $$
 D\subseteq \mathbb{R}^{n}\to E \subseteq \mathbb{R}^{m}\to \mathbb{R}^{p}
 $$
 [[Totale Differenzierbarkeit|db.]] sind, dann ist auch $g \circ f: D \to \mathbb{R}$ db. mit $x \mapsto g(f(x))$ .
 
-Eine Funktion $f: D\subseteq \mathbb{R}^{n}\to \mathbb{R}^m$ heißt differenzierbar in $u \in D$, wenn alle Koordinatenfunktionen $f_{1}, ... , f_{m}$ db. in $u$ sind. Dann schreibt man
+Eine Funktion $f: D\subseteq \mathbb{R}^{n}\to \mathbb{R}^m$ heißt [[Totale Differenzierbarkeit|differenzierbar]] in $u \in D$, wenn alle Koordinatenfunktionen $f_{1}, ... , f_{m}$ db. in $u$ sind. Dann schreibt man
 $$
 f'(x):=\begin{pmatrix}
 grad f_{1}(x) \\ \vdots \\ grad f_{m}(x)
