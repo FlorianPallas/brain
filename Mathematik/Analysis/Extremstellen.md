@@ -22,9 +22,9 @@ Ist $f \in C^{2}(D)$, dann gilt für jede **kritische Stelle** $u \in D$ von $f$
 
 ### $2 \times 2$ Matrizen:
 $$A = \begin{pmatrix} \alpha  & \beta \\ \beta  & \gamma \end{pmatrix}$$
-- $det(a) > 0$ und $\alpha > 0$ $\Leftarrow \Rightarrow$ positiv definit
-- $det(a) > 0$ und $\alpha < 0$ negativ definit
-- $det(a) < 0$ $\Leftarrow \Rightarrow$ indefinit
+- $det(a) > 0$ und $\alpha > 0$ $\Leftrightarrow$ positiv definit
+- $det(a) > 0$ und $\alpha < 0$ $\Leftrightarrow$ negativ definit
+- $det(a) < 0$ $\Leftrightarrow$ indefinit
 
 
 ## Verfahren #card
@@ -33,11 +33,13 @@ $$A = \begin{pmatrix} \alpha  & \beta \\ \beta  & \gamma \end{pmatrix}$$
     - Nullstellen des Gradients bestimmen
 - [[Hesse-Matrix]] aufstellen
     - Allgemeine Hesse-Matrix berechnen
-    - Falls Variablen übrig bleiben Hesse-Matrix aller kritischer Stellen berechnen
+    - Falls Variablen übrig bleiben, Hesse-Matrix aller kritischer Stellen berechnen
 - Kriterien anwenden
     1. Bei Diagonalmatrix über [[Eigenwerte]] bestimmen (oder [[Diagonalisierbarkeit|diagonalisieren]])
     2. $2\times2$ Kriterium anwenden
     3. Anderweitig argumentieren
+        - Beweis durch Widerspruch - Punkt ist keine Extremstelle
+        - $\dots$
 ^c-WvAzkFj55a
 
 ## Beispiele
