@@ -13,11 +13,11 @@ Aber: Es kann kritische Stellen geben, die keine Extremstellen sind. Diese Stell
 ^c-JcTJXBk2hA
 
 ## Kriterien
-### Eigenwerte
+### [[Definitheit]]
 Ist $f \in C^{2}(D)$, dann gilt für jede **kritische Stelle** $u \in D$ von $f$:
-- $H_{f}(u)$ [[positiv definit]] $\Rightarrow$ $u$ ist lokale **Minimalstelle**
-- $H_{f}(u)$ [[negativ definit]] $\Rightarrow$ $u$ ist lokale **Maximalstelle**
-- $H_{f}(u)$ [[indefinit]] $\Rightarrow$ $u$ ist **Sattelstelle**
+- $H_{f}(u)$ positiv definit $\Rightarrow$ $u$ ist lokale **Minimalstelle**
+- $H_{f}(u)$ negativ definit $\Rightarrow$ $u$ ist lokale **Maximalstelle**
+- $H_{f}(u)$ indefinit $\Rightarrow$ $u$ ist **Sattelstelle**
 - sonst - keine Aussage
 
 ### $2 \times 2$ Matrizen:
