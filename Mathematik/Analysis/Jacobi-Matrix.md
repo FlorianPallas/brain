@@ -2,10 +2,10 @@
 aliases: []
 ---
 
-# Jacobimatrix
+# Jacobi-Matrix
 ## Definition
 $$
-J:=
+J_f(x):=
 \begin{pmatrix}
 grad f_{1}(x) \\ \vdots \\ grad f_{m}(x)
 \end{pmatrix}
