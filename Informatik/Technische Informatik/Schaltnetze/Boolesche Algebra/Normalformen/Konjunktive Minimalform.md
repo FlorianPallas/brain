@@ -8,7 +8,7 @@ Ein Ausdruck in konjunktiver Minimalform (Abk.: KMF) ist eine Konjunktion von Di
 $$
 y\left(x_{1}, \ldots, x_{n}\right)=\left(L_{11} \vee \ldots L_{1 k}\right) \cdot \ldots \cdot\left(L_{m 1} \vee \ldots L_{m j}\right)
 $$
-mit den [[Literal|Literalen]] $L_{v w} \in\left\{x_{1}, \ldots, x_{n}, \bar{x}_{1}, \ldots, \overline{x}_{n}\right\}$, welche die gesamten Realisierungskosten
+mit den [[Literal|Literalen]] $L_{v w} \in \left\{ x_{1}, \ldots, x_{n}, \overline{x}_1, \ldots, \overline{x}_n \right\}$, welche die gesamten Realisierungskosten
 $$
 Y_{y}=\Psi_{U N D}(m)+\Psi_{O D E R}(k)+\cdots+\Psi_{O D E R}(j)
 $$
