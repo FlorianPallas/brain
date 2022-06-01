@@ -7,6 +7,7 @@ aliases: []
 Ist $(V,\langle\cdot, \cdot\rangle)$ ein [[Euklidischer Vektorraum|euklidischen Vektorraum]], so gilt für alle $x, y \in V$
 $$
 \langle x, y\rangle^{2} \leq\langle x, x\rangle \cdot\langle y, y\rangle
+\Leftrightarrow |\langle a,b \rangle| \leq ||a|| \cdot ||b||
 $$
 Gleichheit gilt genau dann, wenn $x$ und y linear abhängig sind.
 ## Satz
