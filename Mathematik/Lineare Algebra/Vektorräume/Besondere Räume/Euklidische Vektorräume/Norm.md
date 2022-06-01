@@ -9,7 +9,10 @@ Es sei $V$ ein [[Vektorraum]] über dem Körper $\mathbb{K}=\mathbb{R}$ oder $\m
 - Homogenität: $\|\lambda v\|=|\lambda| \cdot\|v\|$,
 - Dreiecksungleichung: $\|v+w\| \leq\|v\|+\|w\|$.
 ## Norm im [[Euklidischer Vektorraum|euklidischen Vektorraum]]
-$\|v\|:=\sqrt{\langle v, v\rangle}$
+$\|\cdot\|: V \rightarrow \mathbb{R}, \quad v \mapsto\|v\|:=\sqrt{\langle v, v\rangle}$
+## Norm im [[unitärer Vektorraum]]
+$\|\cdot\|: V \rightarrow \mathbb{R}, \quad v \mapsto\|v\|:=\sqrt{\langle v, v\rangle}$
+Somit ist die Norm identisch mit der Norm im [[Euklidischer Vektorraum|euklidischen Vektorraum]].
 ## Parallelogrammgleichung Satz
 Es sei $(V,\|\cdot\|)$ ein normierter $\mathbb{R}$-Vektorraum.
 (a) Gehört $\|\cdot\|$ zu einem [[(euklidische) Skalarprodukt]] $\langle\cdot, \cdot\rangle$ auf $V$, so ist die Parallelogrammgleichung erfüllt, das heißt es gilt für alle $x, y \in V$

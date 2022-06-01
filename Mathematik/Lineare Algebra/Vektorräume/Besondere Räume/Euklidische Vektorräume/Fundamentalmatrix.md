@@ -4,7 +4,7 @@ aliases: []
 
 # Fundamentalmatrix #card
 ## Definition
-Ist $V$ endlich-dimensional, $B=\left(b_{1}, b_{2}, \ldots, b_{n}\right)$ eine geordnete Basis von $V$ und $s: V \times V \rightarrow \mathbb{K}$ eine [[Bilinearformen|Bilinearform]], so heißt die Matrix
+Ist $V$ endlich-dimensional, $B=\left(b_{1}, b_{2}, \ldots, b_{n}\right)$ eine geordnete Basis von $V$ und $s: V \times V \rightarrow \mathbb{K}$ eine [[Bilinearformen|Bilinearform]], so heißt die [[Matrix]]
 $$
 F_{B}(s):=\left(\begin{array}{ccc}
 s\left(b_{1}, b_{1}\right) & \cdots & s\left(b_{1}, b_{n}\right) \\
@@ -16,7 +16,7 @@ Fundamentalmatrix von s bezüglich $B$. Mit der Fundamentalmatrix lässt sich di
 $$s(v, w)=\left(D_{B}(v)\right)^{\top} \cdot F_{B}(s) \cdot D_{B}(w)$$
 ## Eigenschaften
 - s ist symmetrisch genau dann, wenn $F_{B}(s)$ eine symmetrische Matrix ist.
-- s ist schiefsymmetrisch genau dann, wenn $F_{B}(s)$ eine schiefsymmetrische Matrix ist (das heißt $F_{B}(s)^{\top}=-F_{B}(s)$ ).
+- s ist schiefsymmetrisch genau dann, wenn $F_{B}(s)$ eine schiefsymmetrische [[Matrix]] ist (das heißt $F_{B}(s)^{\top}=-F_{B}(s)$ ).
 - Sei s symmetrisch, so gilt für den [[Radikal]] der [[Bilinearformen|Bilinearform]] und den [[Kern]] der Fundamentalmatrix $D_{B}(\operatorname{rad}(s))=\operatorname{ker}\left(F_{B}(s)\right)$
 	- Eine symmetrische [[Bilinearformen|Bilinearform]] $s \in \operatorname{Sym}(V)$ eines endlich-dimensionalen [[Vektorraum]] $V$ ist genau dann nicht ausgeartet, wenn jede Fundamentalmatrix von $s$ invertierbar ist.
 	- s ist genau dann entartet, wenn $\det F_B=0.$ 
@@ -27,7 +27,7 @@ Aus der Definition des Skalarprodukts folgt direkt:
 - F ist positiv definit.
 Desweiteren gilt:
 - F ist invertierbar (da F nicht ausgeartet ist, da F positiv definit ist)
-- Alle Eigenwerte von F sind positiv, dies folgt aus der positiv Definitheit.
+- Alle [[Eigenwerte]] von F sind positiv, dies folgt aus der positiv Definitheit.
 ## Basiswechsel der Fundamentalmatrix
 Ist $V$ ein endlich-dimensionaler Vektorraum über einem Körper $\mathbb{K}$, und sind $B, C$ Basen von $V$, so gilt für jede Bilinearform $s: V \times V \rightarrow \mathbb{K}$
 $$
