@@ -3,10 +3,16 @@ aliases: []
 ---
 
 # Cauchy-Schwarzsche Ungleichung #card
-## Satz
-Ist $(V,\langle\cdot, \cdot\rangle)$ ein euklidischer Vektorraum, so gilt für alle $x, y \in V$
+## Satz 
+Ist $(V,\langle\cdot, \cdot\rangle)$ ein [[Euklidischer Vektorraum|euklidischen Vektorraum]], so gilt für alle $x, y \in V$
 $$
 \langle x, y\rangle^{2} \leq\langle x, x\rangle \cdot\langle y, y\rangle
+$$
+Gleichheit gilt genau dann, wenn $x$ und y linear abhängig sind.
+## Satz
+Ist $(V,\langle\cdot, \cdot\rangle)$ ein [[unitärer Vektorraum]], so gilt für alle $x, y \in V$
+$$
+\mid \langle x, y\rangle \mid^{2} \leq\langle x, x\rangle \cdot\langle y, y\rangle
 $$
 Gleichheit gilt genau dann, wenn $x$ und y linear abhängig sind.
 ## Anwendungen
