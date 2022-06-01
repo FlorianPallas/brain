@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [unitären Vektorraum]
 ---
 
 # unitärer Vektorraum #card
