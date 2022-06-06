@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Implikaten]
 ---
 
 # Implikat #card
