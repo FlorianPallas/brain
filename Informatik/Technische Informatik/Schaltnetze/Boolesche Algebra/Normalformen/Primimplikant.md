@@ -1,5 +1,5 @@
 ---
-aliases: [Kernprimimplikant, entbehrlicher Primimplikant]
+aliases: [Primimplikanten, Kernprimimplikant, entbehrlicher Primimplikant]
 ---
 
 # Primimplikant #card
