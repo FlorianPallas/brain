@@ -10,7 +10,13 @@ aliases: []
 ## Befüllung der Zelle
 ![[Pasted image 20220531203531.png]]
 ## Finden von [[Implikant|Implikanten]] und [[Implikat|Implikaten]]
-
+Ziel ist es möglichst große Blöcke von [[Implikant|Implikanten]] und [[Implikat|Implikaten]] zu finden, sogenannte [[Primimplikant|Primimplikanten]] und [[Primimplikat|Primimplikaten]]. Die Blöcke müssen sich an den Spiegelachsen der Variablenbelegungsübergängen zu einem Feld zusammenfalten lassen.
+### Spiegelachsen
+![[Pasted image 20220606161419.png|300]]
+### Beispiel
+![[Pasted image 20220606161457.png]]
+![[Pasted image 20220606161521.png]]
+![[Pasted image 20220606161629.png]]
 ^c-LFOf55d3U0
 ---
 **Tags**: 
