@@ -4,7 +4,7 @@ aliases: []
 
 # Zustandsdiagramm #card
 ## Idee
-- Beschreibt mögliche Zustände (engl. state) eines Objekts sowie mögliche Zustandsübergänge (endlicher Automat)
+- Beschreibt mögliche Zustände eines Objekts sowie mögliche Zustandsübergänge (endlicher Automat)
 - Auf Basis der [[Interaktionsdiagramm]] für [[Klasse|Klassen]] mit „interessantem Verhalten"
 ## Bestandteile
 ![[Pasted image 20220525144639.png]]

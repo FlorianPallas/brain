@@ -23,6 +23,7 @@ Aktions-, Objekt- und Kontrollknoten, sowie Objekt- und Kontrollflüssen.
 ## TLDR
 ![[Pasted image 20220525143349.png]]
 ![[Pasted image 20220525143402.png]]
+Hinweis: Es kann mehrere Bullseyes geben.
 ^c-ijwpjuxGkh
 ---
 **Tags**: 
