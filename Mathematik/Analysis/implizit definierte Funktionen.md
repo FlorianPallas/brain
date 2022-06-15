@@ -37,8 +37,11 @@ g'(x) = -(\frac{\partial F}{\partial y}(x,g(x)))^{-1} \cdot \frac{\partial F}{\p
 $$
 
 ## Beispiele
-
-
+![[Pasted image 20220615085914.png|400]]
+![[Pasted image 20220615085941.png|400]]
+![[Pasted image 20220615090006.png|400]]
+![[Pasted image 20220615090022.png|400]]
+![[Pasted image 20220615090219.png|400]]
 
 ---
 **Tags**: #todo 
