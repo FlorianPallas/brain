@@ -25,4 +25,4 @@ Kein mechanisches Pattern Matching sondern Übertragung der Idee des Musters
 
 ^c-2JbNewFg2V
 ---
-**Tags**: #todo 
+**Tags**: 
