@@ -17,7 +17,10 @@ Kein mechanisches Pattern Matching sondern Übertragung der Idee des Musters
 - Ohne Dokumentation schwer im Code zu erkennen
 ## Arten
 - Strukturmuster: Zusammensetzung von Klassen und Objekten
-	- 
+	- [[Adapter]]
+	- [[Facade]]
+	- [[Proxy]]
+	- [[Decorator]]
 - Erzeugungsmuster: Erzeugung von Objekten 
 - Verhaltensmuster: Steuern Kontrollflüsse und Interaktionen zwischen Klassen und Objekten
 ## Literatur
