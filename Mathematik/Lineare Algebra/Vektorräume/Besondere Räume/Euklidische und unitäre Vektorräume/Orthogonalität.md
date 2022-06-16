@@ -1,5 +1,5 @@
 ---
-aliases: [orthogonal]
+aliases: [orthogonal, orthogonale]
 ---
 
 # Orthogonalität #card
@@ -9,6 +9,7 @@ aliases: [orthogonal]
 ## Hinweise
 - Für den Nullvektor 0 von $V$ gilt $0 \perp V$; gilt umgekehrt $x \perp V$ für ein $x \in V$, so folgt $x=0$.
 - Pythagoras: Für $x, y \in V$ gilt $x \perp y$ genau dann, wenn $\|x+y\|^{2}=\|x\|^{2}+\|y\|^{2} .$
+- Eine orthogonale Menge ist stets linear unabhänig.
 ^c-J1e3fwGf2z
 ---
 **Tags**: 
