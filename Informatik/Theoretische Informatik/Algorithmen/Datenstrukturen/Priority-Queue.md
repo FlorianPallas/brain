@@ -3,6 +3,7 @@ aliases: []
 ---
 
 # Priority-Queue #card
+Wird klassischerweise mit einem [[Binary-Heap]] implementiert
 ## Methoden
 - push $(v, 7)$ : füge $v$ mit Priorität 7 ein
 - popMin(): extrahiere Element mit kleinster Priorität

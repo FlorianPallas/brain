@@ -21,8 +21,10 @@ Kein mechanisches Pattern Matching sondern Übertragung der Idee des Musters
 	- [[Facade]]
 	- [[Proxy]]
 	- [[Decorator]]
+	- [[Composite]]
 - Erzeugungsmuster: Erzeugung von Objekten 
 - Verhaltensmuster: Steuern Kontrollflüsse und Interaktionen zwischen Klassen und Objekten
+	- [[Observer]]
 ## Literatur
 - Design Patterns - Elements of Reusable Object-Oriented Software (by the "Gang of four")
 
