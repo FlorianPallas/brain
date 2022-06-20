@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [sortieren, sortierten]
 ---
 
 # Sortieren #card
