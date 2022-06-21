@@ -9,7 +9,11 @@ Wird klassischerweise mit einem [[Binary-Heap]] implementiert
 - popMin(): extrahiere Element mit kleinster Priorität
 - decPrio $(v, 4)$ : verkleinere Priorität von $v$ auf 4
 ## Laufzeit
-Mit dem [[Fibonacci-Heap]] ergeben sich folgende Laufzeiten:
+### [[Binary-Heap]]
+- popMin: $\Theta(\log n)$
+- push: $\Theta(\log n)$
+- decPrio: $\Theta(\log n)$
+### [[Fibonacci-Heap]]
 - popMin: $\Theta(\log n)$
 - push: $\Theta(1)$
 - decPrio: $\Theta(1)$
