@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [dynamischen Programmierung]
 ---
 
 # Dynamische Programmierung #card
