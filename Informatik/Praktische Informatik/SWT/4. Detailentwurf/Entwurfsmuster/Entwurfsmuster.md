@@ -25,6 +25,9 @@ Kein mechanisches Pattern Matching sondern Übertragung der Idee des Musters
 - Erzeugungsmuster: Erzeugung von Objekten 
 - Verhaltensmuster: Steuern Kontrollflüsse und Interaktionen zwischen Klassen und Objekten
 	- [[Observer]]
+	- [[Strategy]]
+	- [[Template Method]]
+	- [[Command]]
 ## Literatur
 - Design Patterns - Elements of Reusable Object-Oriented Software (by the "Gang of four")
 

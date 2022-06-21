@@ -4,6 +4,10 @@ aliases: [Graphen, Adjazenzliste, Adjazenzmatrix]
 
 # Graph #card
 ## Definitionen
+Gerichteter Graph $G=(V,E)$ mit $E \subset V \times V.$ 
+Ungerichteter Graph $G=(V,E)$ mit $E \subset \left(\begin{array}{l}V \\ 2\end{array}\right)$
+![[Pasted image 20220621102406.png]]
+![[Pasted image 20220621102444.png]]
 ![[Pasted image 20220523155744.png]]
 ## Repräsentation im Rechner
 ![[Pasted image 20220523161107.png]]
