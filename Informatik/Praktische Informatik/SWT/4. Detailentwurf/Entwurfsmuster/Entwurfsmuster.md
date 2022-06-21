@@ -16,21 +16,25 @@ Kein mechanisches Pattern Matching sondern Übertragung der Idee des Musters
 - Keine einheitliches Schema für das Beschreiben eines Musters
 - Ohne Dokumentation schwer im Code zu erkennen
 ## Arten
+- Erzeugungsmuster: Erzeugung von Objekten
+	- [[Singleton]]
+	- 
 - Strukturmuster: Zusammensetzung von Klassen und Objekten
 	- [[Adapter]]
 	- [[Facade]]
 	- [[Proxy]]
 	- [[Decorator]]
 	- [[Composite]]
-- Erzeugungsmuster: Erzeugung von Objekten 
 - Verhaltensmuster: Steuern Kontrollflüsse und Interaktionen zwischen Klassen und Objekten
 	- [[Observer]]
+	- [[Visitor]]
 	- [[Strategy]]
 	- [[Template Method]]
 	- [[Command]]
+	- [[Null-Object]]
 ## Literatur
 - Design Patterns - Elements of Reusable Object-Oriented Software (by the "Gang of four")
-
+- Head First Design Patterns
 ^c-2JbNewFg2V
 ---
 **Tags**: 
