@@ -3,7 +3,7 @@ aliases: []
 ---
 
 # Cauchy-Schwarzsche Ungleichung #card
-## Satz 
+## Satz
 Ist $(V,\langle\cdot, \cdot\rangle)$ ein [[Euklidischer Vektorraum|euklidischen Vektorraum]], so gilt für alle $x, y \in V$
 $$
 \langle x, y\rangle^{2} \leq\langle x, x\rangle \cdot\langle y, y\rangle
