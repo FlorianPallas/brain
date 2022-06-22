@@ -30,5 +30,28 @@ Wenn für jedes feste $y \in I_{2}$ das Integral $\int\limits_{I_{1}} f(x,y)dx$ 
 Wenn $f$ nicht integrierbar sind die Ausdrücke eventuell nicht gleich.
 
 
+# Inhalte von Mengen
+Der Inhalt eines Rechtecks $I = [a_{1},b_{1}] \times \cdots \times [a_{n}, b_{n}]$ ist $|I| = (b_{1}-a_{1}) \cdot \;\dots \; \cdot (b_{n}-a_{n})$.
+
+## Motivation
+Wie soll man nun den Inhalt einer beliebigen Menge $B \subseteq \mathbb{R}^{n}$ definieren?
+Man wähle ein Rechteck $I \subseteq \mathbb{R}^{n}$ mit $B \subseteq I$ und setze $|B| := \int\limits_{I} c_{B}(x) dx$.
+Dabei ist die charakteristische Funktion $c_{B(x})$ gleich $1$ wenn $x \in B$ und $0$ wenn $x \notin B$.
+
+### Problem
+$c_{B}(x)$ muss integrierbar sein und es gibt nur Rechtecke um beschränkte Mengen.
+
+## Definition
+Eine beschränkte Menge $B \subseteq \mathbb{R}^n$ heißt **messbar**, wenn es ein Rechteck $I$ mit $B \subseteq I$ gibt auf dem $c_{B}(x)$ integrierbar ist. Dann heißt
+$$
+|B| := \int\limits_{I} c_{B}(x) dx
+$$
+der **Inhalt von $B$**.
+(In der Praxis sind alle Mengen messbar)
+
+Ist $B \subseteq \mathbb{R}^{n}$ messbar und sind $f,g: B \to \mathbb{R}$ stetig mit $f \leq g$, dann ist auch $M_{f,g} := \{(x,y) \in \mathbb{R}^{n+1}: x \in B \;\text{und}\; f(x) \leq y \leq g(x) \}$ messbar.
+
+
+
 ---
 **Tags**: #todo 
