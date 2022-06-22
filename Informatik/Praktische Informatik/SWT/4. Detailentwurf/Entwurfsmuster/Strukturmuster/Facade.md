@@ -9,7 +9,7 @@ Die Facade-Klasse definiert eine abstrakte Schnittstelle, welche die Benutzung d
 ## Anwendbarkeit
 - Wenn eine einfache Schnittstelle zu einem komplexen Subsystem angeboten werden soll. Eine Fassade kann eine einfache voreingestellte Sicht auf das Subsystem bieten, die den meisten Clients genügt.
 - Wenn es viele Abhängigkeiten zwischen den Clients und den Implementierungsklassen einer Abstraktion gibt. Die Einführung einer Facade entkoppelt die Subsysteme von Clients und anderen Subsystemen.
-- Wenn Subsysteme in [[Schichtenmodell|Schichten]] aufgeteilt werden sollen. Man verwendet eine Facade, um einen Eintrittspunkt zu jeder Subsystemschicht zu definieren.
+- Wenn Subsysteme in [[Layered Architecture|Schichten]] aufgeteilt werden sollen. Man verwendet eine Facade, um einen Eintrittspunkt zu jeder Subsystemschicht zu definieren.
 ## Beispiel
 ![[Pasted image 20220616172557.png]]
 ^c-fABSVVYqfT
