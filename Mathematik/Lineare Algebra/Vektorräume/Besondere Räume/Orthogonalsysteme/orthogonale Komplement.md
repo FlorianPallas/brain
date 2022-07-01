@@ -22,10 +22,13 @@ das orthogonale Komplement von $M$ in $V .$
 ## Berechnung
 ### Über LGS
 (Beispiel im Skript S. 52)
-1. Bestimmen einer Basis $B$ von $M$
+1. Bestimmen einer [[Basis]] $B$ von $M$
 2. Skalarmultiplikation von jedem Basisvektor $b_j$ mit einem generischen Element aus $V$
 3. Zusammenfassen der Ergebnisse zu einem hom. [[Lineares Gleichungssystem|LGS]]
 4. Lösen des LGS
+### Über [[Gram-Schmidt-Verfahren]]
+1. Bestimmen einer komplementär [[Basis]]
+2. Das [[Gram-Schmidt-Verfahren]] auf diese Vektoren mit allen bisherigen Basisvektoren (sowohl die normale als auch die komplementäre Basis) anwenden
 ^c-cLlSWRXdy1
 ---
 **Tags**: 
