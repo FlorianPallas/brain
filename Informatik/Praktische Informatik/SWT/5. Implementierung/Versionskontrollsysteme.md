@@ -46,7 +46,7 @@ aliases: []
 - Umgang mit Varianten ist integraler Bestandteil
 - Kryptografische Sicherung der Historie
 - Gesamtes Depot ist für jeden Benutzer lokal
-- Dafür zusätzlicher Kommunikationsschritt: push/pu11/fetch zur Übertragung von Objekten zwischen Depots
+- Dafür zusätzlicher Kommunikationsschritt: push/pull/fetch zur Übertragung von Objekten zwischen Depots
 - Abbildung von „Befehlshierarchien“ und Arbeitsabläufen (Freigaben von Konfigurationen)
 ![[Pasted image 20220622184004.png]]
 ### Vergleich SVN mit Git
