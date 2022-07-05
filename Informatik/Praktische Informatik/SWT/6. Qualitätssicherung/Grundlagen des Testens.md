@@ -12,13 +12,13 @@ aliases: []
 ## Verfahren
 ### Dynamische Verfahren (Testen)
 - Strukturtests (white/glass box testing - Bestimmen der Testwerte mit Kenntnis von Kontroll- und/oder Datenfluss)
-	- Kontrollflussorientierte Tests
+	- [[Kontrollflussorientierte Testverfahren]]
 	- Datenflussorientierte Tests
-- Funktionale Tests (black box testing - Bestimmen der Testwerte ohne Kenntnis von Kontroll- und/oder Datenfluss; nur aus der Spezifikation heraus)
+- [[Funktionales Testen]] (black box testing - Bestimmen der Testwerte ohne Kenntnis von Kontroll- und/oder Datenfluss; nur aus der Spezifikation heraus)
 - Leistungstests (auch black box)
 ### Statische Verfahren (Prüfen)
 - Prüfen
-- Manuelle Prüfmethoden (Inspektion, Review, Durchsichten, engl. inspection, review, walkthrough)
+- [[Manuelle Prüfung]] 
 - Prüfprogramme (statische Analyse von Programmen)
 ^c-R35IkOVjBQ
 ---
