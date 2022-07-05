@@ -4,7 +4,7 @@ aliases: []
 
 # Kontrollflussorientierte Testverfahren #card
 ## Idee
-1. Übersetzen des Programms in eine [[Zwischensprache]]. 
+1. [[Strukturerhaltende Transformation]] des Programms in eine [[Zwischensprache]]. 
 2. Aufteilen des Programms in Grundblöcke
 3. Kontrollflussgraph aufstellen
 4. Kontrollflussgraph analysieren

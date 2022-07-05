@@ -11,10 +11,10 @@ aliases: []
 	- Daumenregel: $80 \%$ der Fehler sind in $20 \%$ der Module zu finden.
 ## Verfahren
 ### Dynamische Verfahren (Testen)
-- Strukturtests (white/glass box testing)
+- Strukturtests (white/glass box testing - Bestimmen der Testwerte mit Kenntnis von Kontroll- und/oder Datenfluss)
 	- Kontrollflussorientierte Tests
 	- Datenflussorientierte Tests
-- Funktionale Tests (black box testing)
+- Funktionale Tests (black box testing - Bestimmen der Testwerte ohne Kenntnis von Kontroll- und/oder Datenfluss; nur aus der Spezifikation heraus)
 - Leistungstests (auch black box)
 ### Statische Verfahren (Prüfen)
 - Prüfen
