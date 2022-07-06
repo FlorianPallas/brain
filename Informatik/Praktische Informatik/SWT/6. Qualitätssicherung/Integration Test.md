@@ -47,7 +47,28 @@ Systemarchitektur ab
 - Schrittweise Integration und Test
 - Reihenfolge durch Implementierungsfertigstellungsreihenfolge festgelegt ( $\rightarrow$ schlechte Planbarkeit)
 ### Top-Down
-
+- Integration von höchster logischer Ebene her (z.B. Benutzeroberfläche)
+- Frühe Verfügbarkeit eines Simulationsmodells, anhand dessen Defekte in der Produktdefinition identifizierbar sind
+- Späte Prüfbarkeit des Zusammenspiels mit Hardware und Basissoftware
+- Integrierte Systemkomponenten setzen Dienste niedrigerer logischer Ebenen voraus $\rightarrow$ z.T. aufwendige, schwierig zu erstellende Testhelfer
+### Bottom-Up
+- Integration von niedrigster logischer Ebene her (Komponenten, die selbst nicht von anderen Komponenten abhängen)
+- Testtreiber erforderlich
+- leichteres Herstellen von Testbedingungen
+- leichtere Interpretation von Testergebnissen
+$\rightarrow$ (die Vorteile von top-down sind hier natürlich entsprechend die Nachteile und umgekehrt)
+### Outside-In
+- Versuch, die Nachteile von top-down und bottom-up zu mindern
+- Beginnt gleichzeitig auf höchster und niedrigster logischer Ebene mit der Integration
+- Schrittweise Integration in beide Richtungen aufeinander zu
+### Inside-Out
+- Beginnt auf mittlerer Ebene mit der Integration
+- Schrittweise Integration in beide Richtungen auseinander
+- Vereinigt eher die Nachteile von topdown und bottom-up
+$\rightarrow$ höchstens sinnvoll in Verbindung mit hardest-first!
+### Hardest-First
+- Zuerst werden die kritischen (also kompliziert zu testenden oder potentiell fehlerhaften) Komponenten integriert
+- Bei jedem Integrationsschritt werden die kritischen Komponenten indirekt mitgeprüft $\rightarrow$ letztlich die am Besten getesteten Komponenten
 ^c-jlavMrHeI7
 ---
 **Tags**:
