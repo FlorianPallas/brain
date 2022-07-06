@@ -15,11 +15,12 @@ aliases: []
 	- [[Kontrollflussorientierte Testverfahren]]
 	- Datenflussorientierte Tests
 - [[Funktionales Testen]] (black box testing - Bestimmen der Testwerte ohne Kenntnis von Kontroll- und/oder Datenfluss; nur aus der Spezifikation heraus)
-- Leistungstests (auch black box)
+- [[Leistungstests]] (auch black box)
 ### Statische Verfahren (Prüfen)
-- Prüfen
 - [[Manuelle Prüfung]] 
-- Prüfprogramme (statische Analyse von Programmen)
+- [[Prüfprogramme]] (statische Analyse von Programmen)
+## Phasen
+[[Testphasen]]
 ^c-R35IkOVjBQ
 ---
 **Tags**: 
