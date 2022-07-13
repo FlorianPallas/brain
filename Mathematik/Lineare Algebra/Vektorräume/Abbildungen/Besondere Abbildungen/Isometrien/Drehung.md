@@ -29,9 +29,14 @@ Die Matrix beschreibt eine Drehung $L_{\left.D_{\varphi}\right)}: \mathbb{R}^{3}
 - Die Drehmatrix ist eine [[Isometrie]]
 - Für reine Drehungen gilt: $\det(D) = 1$
 ## Prüfen einer Drehmatrix
+### Prüfen ob es sich um eine Drehmatrix handelt
+Eine Matrix ist eine Drehmatrix falls
+1. Die Matrix [[orthogonale Gruppe|orthogonal]] ist
+2. Die Determinante der Matrix 1 ist
+### Prüfen der Drehung
 1. Vektor $v$ [[Orthogonalität|orthogonal]] zur Drehachse wählen
 2. $v'= D \cdot v$
-3. $\varphi = \arccos \left( \dfrac{\lt v, v' \gt}{\mid \mid v \mid \mid \cdot \mid \mid v' \mid \mid} \right)$ 
+3. $\varphi = \arccos \left( \dfrac{\lt v, v' \gt}{\mid \mid v \mid \mid \cdot \mid \mid v' \mid \mid} \right)$ p
 ^c-X3GPd92FFl
 ---
 **Tags**: 

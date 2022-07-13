@@ -33,7 +33,6 @@ Ist $(V,\langle\cdot, \cdot\rangle)$ ein endlich-dimensionaler euklidischer oder
 - $f$ ist eine Isometrie.
 - $f(B)=\left(f\left(b_{1}\right), f\left(b_{2}\right), \ldots, f\left(b_{n}\right)\right)$ ist eine Orthonormalbasis von $V$.
 - $D_{B B}(f)$ ist eine orthogonale beziehungsweise eine unitäre Matrix.
-
 ^c-taDcw9CIoX
 ---
 **Tags**: 
