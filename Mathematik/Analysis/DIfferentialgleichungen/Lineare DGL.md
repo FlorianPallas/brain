@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [linear]
 ---
 
 # Lineare DGL #card
