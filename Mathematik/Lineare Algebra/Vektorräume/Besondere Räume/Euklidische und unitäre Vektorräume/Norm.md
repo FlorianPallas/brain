@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [normiert]
 ---
 
 # Norm #card
