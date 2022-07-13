@@ -12,6 +12,7 @@ Vereinfacht ausgedrückt sind Minimalformen Boolesche Ausdrücke für eine gegeb
 Das Auffinden einer Minimalform ist insbesondere für Funktionen mit einer größeren Anzahl von Variablen keine triviale Aufgabe. Oft können nur suboptimale Lösungen unter Verwendung von Heuristiken gefunden werden. Oft wird in folgenden zwei Schritten vorgegangen:
 - Es wird eine Menge von Implikanten bzw. Implikate der Funktion $y$ mit einer möglichst geringen Anzahl von Literalen gebildet.
 - Aus dieser Menge wird eine möglichst geringe Anzahl von Implikanten bzw. Implikate herausgesucht, deren Disjunktion bzw. Konjuktion die Funktion $y$ ergeben.
+Siehe: [[Minimierungsverfahren]]
 ^c-sxLWGJiEvx
 ---
 **Tags**: 
