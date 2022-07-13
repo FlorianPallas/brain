@@ -1,10 +1,10 @@
 ---
-aliases: [linear]
+aliases: [linear, linearen DGL]
 ---
 
-# Lineare DGL #card
+# lineare DGL #card
 ## Definition
-Eine DGL für $y$ heißt **lineare DGL erster Ordnung**, wenn sie in der Form $y'(x) = \alpha(x) \cdot y(x) + s(x)$ mit [[Stetigkeit|stetigen]] Funktionen $\alpha , s: I \subseteq \mathbb{R}^{n} \to \mathbb{R}$ geschrieben werden kann. Sie heißt zudem **homogen** falls $s = 0$, ansonsten **inhomogen**.
+Eine [[Differentialgleichung|DGL]] für $y$ heißt **lineare DGL erster Ordnung**, wenn sie in der Form $y'(x) = \alpha(x) \cdot y(x) + s(x)$ mit [[Stetigkeit|stetigen]] Funktionen $\alpha , s: I \subseteq \mathbb{R}^{n} \to \mathbb{R}$ geschrieben werden kann. Sie heißt zudem **homogen** falls $s = 0$, ansonsten **inhomogen**.
 
 ## Satz
 Jedes lineare AWP hat eine eindeutige Lösung auf einem eindeutig gegebenen maximalen Intervall.
