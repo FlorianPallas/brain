@@ -1,0 +1,22 @@
+---
+aliases: []
+---
+
+# Abnahmephase #card
+## Definition
+- Das fertiggestellte Gesamtprodukt wird abgenommen und beim Anwender eingeführt, d.h. in Betrieb genommen
+- Ab diesem Zeitpunkt unterliegt das Produkt dann der Wartung \& Pflege 
+- Eingebettet zwischen
+	- Implementierungsphase und
+	- Wartungs- \& Pflegephase
+## Tätigkeiten
+- Übergabe des Gesamtprodukts einschließlich der gesamten Dokumentation an den Auftraggeber
+- Mit der Übernahme verbunden ist im allgemeinen ein Abnahmetest
+- Innerhalb einer Abnahme-Testserie ist es auch sinnvoll, Belastungs- oder Stresstests durchzuführen
+- Das Ergebnis der Abnahmephase ist ein Abnahmeprotokoll.
+## Abnahme
+- Nach erfolgreichen Tests des Produkts durch den Auftraggeber
+- Die formale Abnahme ist die (schriftliche) Erklärung der Annahme eines Produkts durch den Auftraggeber (im juristischen Sinne)
+^c-5oggJfBy7L
+---
+**Tags**: 
