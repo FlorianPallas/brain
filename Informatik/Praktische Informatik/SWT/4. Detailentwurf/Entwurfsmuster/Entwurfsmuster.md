@@ -1,5 +1,5 @@
 ---
-aliases: [Entwurfsmustern]
+aliases: [Entwurfsmustern, Design Pattern]
 ---
 
 # Entwurfsmuster #card
@@ -18,7 +18,7 @@ Kein mechanisches Pattern Matching sondern Übertragung der Idee des Musters
 ## Arten
 - Erzeugungsmuster: Erzeugung von Objekten
 	- [[Singleton]]
-	- 
+	- [[Abstract Factory]]
 - Strukturmuster: Zusammensetzung von Klassen und Objekten
 	- [[Adapter]]
 	- [[Facade]]
