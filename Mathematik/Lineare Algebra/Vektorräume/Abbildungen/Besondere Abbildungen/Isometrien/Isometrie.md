@@ -13,6 +13,7 @@ Die Menge aller bijektiven Isometrien von $V$ nach $V$ wird bezeichnet mit Is $(
 - Jede Isometrie ist injektiv.
 - Die Umkehrabbildung einer bijektiven Isometrie ist ebenfalls eine Isometrie.
 - Die Verkettung zweier Isometrien ist wieder eine Isometrie.
+- Jede lineare endomorphe Isometrie kann als [[Isometrienormalform]] dargestellt werden
 ## Hinweise
 - Die Menge Is $(V)$ ist eine Untergruppe der Gruppe aller bijektiven Selbstabbildungen von $V$ nach $V$.
 - Eine Isometrie ist nicht notwendigerweise eine lineare Abbildung wie man am Beispiel einer Translation $\tau_{v}: V \rightarrow V, \quad x \mapsto x+v$ um einen festen Vektor $v \neq 0$ erkennen kann.
@@ -33,6 +34,14 @@ Ist $(V,\langle\cdot, \cdot\rangle)$ ein endlich-dimensionaler euklidischer oder
 - $f$ ist eine Isometrie.
 - $f(B)=\left(f\left(b_{1}\right), f\left(b_{2}\right), \ldots, f\left(b_{n}\right)\right)$ ist eine Orthonormalbasis von $V$.
 - $D_{B B}(f)$ ist eine orthogonale beziehungsweise eine unitäre Matrix.
+## Komposition von Spiegelungen
+### lineare Isometrie
+Es sei $(V,\langle\cdot, \cdot\rangle)$ ein euklidischer Vektorraum der Dimension n. Dann lässt sich jede lineare Isometrie $f \in \operatorname{End}(V)$ als Komposition von höchstens $n$ Spiegelungen darstellen.
+### nicht-lineare Isometrie
+Es seien $(V,\langle\cdot, \cdot\rangle)$ und $(W, \ll \cdot, \gg)$ euklidische Vektorräume, und $g: V \rightarrow W$ eine Isometrie. Dann gibt es eine lineare Isometrie $f: V \rightarrow W$ und ein Element $w \in W$ sodass gilt
+$$
+g(v)=f(v)+w \text { für alle } v \in V .
+$$
 ^c-taDcw9CIoX
 ---
 **Tags**: 
