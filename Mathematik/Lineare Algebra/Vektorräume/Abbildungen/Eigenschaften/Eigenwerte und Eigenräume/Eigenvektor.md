@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Eigenvektoren]
 ---
 
 # Eigenvektor #card
