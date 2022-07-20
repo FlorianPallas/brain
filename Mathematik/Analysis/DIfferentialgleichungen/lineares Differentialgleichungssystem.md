@@ -6,10 +6,11 @@ aliases: [DGL-System, DGL-Systems, homogenes DGL-System, inhomogenes DGL-System,
 ## Definition
 Ein System von [[Differentialgleichung|Differentialgleichungen]] der Form
 $$
-\begin{pmatrix} 
-y_{1}'(x) = a_{11} y_{1}(x) + \cdots + a_{1n} y_{n}(x) + b_{1} \\ \vdots \\ 
-y_{n}(x) = a_{n1} y_{n}(x) + \cdots + a_{nn} y_{n}(x) + b_{n}
-\end{pmatrix}
+\begin{eqnarray} 
+y_{1}'(x) & =  & a_{11} y_{1}(x) + \cdots + a_{1n} y_{1}(x) + b_{1}\\
+& \vdots & \\ 
+y_{n}'(x) & = & a_{n1} y_{n}(x) + \cdots + a_{nn} y_{n}(x) + b_{n}
+\end{eqnarray}
 $$
 heißt **lineares DGL-System** erster Ordnung für $y_{1}, \cdots, y_{n}: I \subseteq \mathbb{R} \to \mathbb{R}$.
 Äquivalent: $y'(x) = A \cdot y(x) + b$ (Matrixschreibweise)
@@ -29,7 +30,7 @@ $$
     y(x) = e^{\lambda x} \sum\limits_{i=0}^{k-1} \frac{x^{i}}{i!} (A - \lambda I_{n}) ^{i} v
 $$
 eine Lösung des homogenen DGL-Systems.
-4. Die nicht-reellen Eigenwerte treten in Paaren mit dem komplex-konjugierten auf. Bestimme für nur einen davon, mit dem gleichen Verfahren wie bei (2), $y(x)$, dann sind für jeden Basisvektor $v$ von $H_{A}(\lambda)$ die Funktion
+4. Die nicht-reellen Eigenwerte treten in Paaren $\lambda , \overline{\lambda}$ auf. Bestimme für nur einen davon, mit dem gleichen Verfahren wie bei (2), $y(x)$, dann sind für jeden Basisvektor $v$ von $H_{A}(\lambda)$ die Funktion
 $$
 Re(y(x)) \ {\text{und}} \ Im(y(x))
 $$
