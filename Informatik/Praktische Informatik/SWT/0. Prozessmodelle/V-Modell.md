@@ -12,4 +12,12 @@
 - U.U. sehr umfangreiches Modell
 - Oft Anpassungen nötig (XT steht für extreme tailoring)
 - Änderungen an Anforderungen sind sehr aufwendig
+
+## Steckbrief
+Sehr ähnlich zur [[Wasserfallmethode]] (linke Seite), mit zusätzlicher Testphase (rechte Seite).
+- Nachvollziehbar / Dokumentengetrieben
+- In Phasen getrennt
+- Frühzeitig geplante Tests
+- Änderungen durch Rückkopplung möglich, aber nicht zu empfehlen
+- Anforderungen verbindlich definiert ([[Pflichtenheft]])
 ^c-qL73wKIAwS
