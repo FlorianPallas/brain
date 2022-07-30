@@ -46,4 +46,10 @@
 - Gutes reagieren auf Änderungen
 - Alle paar Wochen einen "Prototypen" liefern
 - Gute Nutzerbeteiligung
+
+## Steckbrief
+- Anforderungsfindung und Priorisierung
+- Involvieren des Kunden / Anpassungen leicht möglich
+- Regelmäßige Vorführungen möglich
+- Genauer Auslieferungstermin mittels Burndown-Charts möglich
 ^c-xIGFGUHHOl
