@@ -8,7 +8,7 @@ Seien $(V,\|\cdot\|)$ und $(W, \mid \mid \mid \cdot \mid \mid \mid)$ [[Norm|norm
 $$
 \mid \mid \mid f(x)-f(y) \mid \mid \mid =\|x-y\| .
 $$
-Die Menge aller bijektiven Isometrien von $V$ nach $V$ wird bezeichnet mit Is $(V,\|\cdot\|)$ oder auch kürzer mit Is $(V)$.
+Die Menge aller bijektiven Isometrien von $V$ nach $V$ wird bezeichnet mit  $(V,\|\cdot\|)$ oder auch kürzer mit Is $(V)$.
 ## Eigenschaften
 - Jede Isometrie ist injektiv.
 - Die Umkehrabbildung einer bijektiven Isometrie ist ebenfalls eine Isometrie.
