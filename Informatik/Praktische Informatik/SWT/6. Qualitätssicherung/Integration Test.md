@@ -27,8 +27,7 @@ Vorteile:
 Nachteile:
 - Evtl. viele [[Testhelfer]] notwendig
 ### Vorgehensorientiert
-Integrationsreihenfolge leitet sich aus der
-Systemarchitektur ab
+Integrationsreihenfolge leitet sich aus der Systemarchitektur ab
 ### Testzielorientiert
 - Testfälle werden ausgehend von den Testzielen (z.B. „so schnell wie möglich fertige Komponenten integrieren") erstellt
 - Jeweils benötigte Komponenten werden „zusammenmontiert"
