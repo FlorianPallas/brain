@@ -11,7 +11,9 @@ $$
 wobei
 - N die Menge der Grundblöcke in P,
 - $\mathrm{C} \subseteq \mathrm{N} \times \mathrm{N}$ die Menge der Kanten, wobei die Kanten die Ausführungsreihenfolge von je zwei Grundblöcken angeben (sequentielle Ausführung oder Sprünge)
+
 $\mathrm{n}_{\text {start }}$ der Startblock und
+
 $\mathrm{n}_{\text {stopp }}$ der Stoppblock ist.
 ## Elemente
 - Eine Kante e $\in E$ in einem KFG G wird Zweig (engl. branch) genannt. Zweige sind grundsätzlich gerichtet.

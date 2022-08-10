@@ -28,6 +28,8 @@ aliases: [Use Case Diagramm]
 - Use Case A ist komplett und Use Case B ist optional.
 - Kann einen oder mehrere Einstiegspunkte besitzen.
 - Kann optionale Bedingungen haben.
+## Extension Points
+![[Pasted image 20220730155251.png]]
 ## Beispiele
 ![[Pasted image 20220504094922.png]]
 ![[Pasted image 20220504094902.png]]

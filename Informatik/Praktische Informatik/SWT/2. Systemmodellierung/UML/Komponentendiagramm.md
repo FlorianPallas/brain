@@ -22,6 +22,8 @@ Um eine Komponente zu kennzeichnen wird eine rechteckige Box mit einem visuellen
 ## Beispiele
 ![[Pasted image 20220615093943.png]]
 ![[Pasted image 20220615094008.png]]
+## Hinweise
+- Komponente ein Interface implementiert -> Komponente stellt diese bereit (Lollipop)
 ^c-Ehw3w7nuvl
 
 ---
