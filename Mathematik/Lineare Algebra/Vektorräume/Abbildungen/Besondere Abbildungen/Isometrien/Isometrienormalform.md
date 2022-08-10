@@ -113,6 +113,7 @@ Die [[Eigenvektor|Eigenvektoren]] von der Abbildungsmatrix $A$ sind auch Eigenve
 4. Es gibt folgende zwei Möglichkeiten
 	- Berechnen der Determinante der Basiswechselmatrix. Diese ist die [[Summenraum|direkte Summe]] der [[Eigenvektor|Eigenvektoren]]. Ist die Determinante $-1$ so muss eine ungerade Anzahl an [[Eigenvektor|Eigenvektoren]] zu Drehkästchen getauscht werden. oder 
 	- Zum Überprüfen ob $b_j$ und $b_{j+1}$ in der richtigen Reihenfolge sind muss gelten $S^T \cdot A \cdot b_j = \widetilde{A} \cdot e_j.$ Dies kann leicht nachgerechnet werden.
+
 ^c-rj3e9uYPKG
 ---
 **Tags**: 

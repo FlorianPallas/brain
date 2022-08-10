@@ -10,9 +10,10 @@ aliases: []
 4. [[Kontrollflussgraph]] analysieren
 ## Verfahren
 ### Anweisungsüberdeckung
-Die Teststrategie Anweisungsüberdeckung $\mathrm{C}_{\text {Anweisung }}$ (engl. statement coverage) verlangt die Ausführung aller Grundblöcke des Programms P.
+Die Teststrategie Anweisungsüberdeckung $\text{C}_{\text {Anweisung}}$ (engl. statement coverage) verlangt die Ausführung aller Grundblöcke des Programms P.
 - C steht für Coverage
-- Metrik, auch $\mathrm{C}_{0}$ genannt
+- Metrik, auch $\text{C}_0$ genannt
+
 $$
 \mathrm{C}_{\text {Anweisung }}=\frac{\text { Anzahl durchlaufener Anweisungen }}{\text { Anzahl aller Anweisungen }}
 $$
@@ -23,6 +24,7 @@ $$
 ### Zweigüberdeckung
 Die Zweigüberdeckung $C_{Z w e i g}$ (engl. branch coverage) verlangt das Traversieren aller Zweige im KFG.
 - Metrik, auch $\mathrm{C}_{1}$ genannt
+
 $$
 \mathrm{C}_{\text {Zweig }}=\frac{\text { Anzahl traversierter Zweige }}{\text { Anzahl aller Zweige }}
 $$

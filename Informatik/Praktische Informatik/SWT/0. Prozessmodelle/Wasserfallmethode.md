@@ -14,4 +14,11 @@
 	- Markteinführung verzögert sich unnötig
 - Zwingt zur genauen Spezifikation auch schlecht verstandener Benutzerschnittstellen und Funktionen
 	- Entwurf, Implementierung und Testen von später nutzlosem Code
+
+## Steckbrief
+Ähnlich zum [[V-Modell]], wobei die Testphase deutlich kleiner ausfällt.
+- Nachvollziehbar / Dokumentengetrieben
+- In Phasen getrennt
+- Änderungen durch Rückkopplung möglich, aber nicht zu empfehlen
+- Anforderungen verbindlich definiert ([[Pflichtenheft]])
 ^c-9kngUiXIPL
