@@ -8,6 +8,9 @@ Der Wert gegen den eine [[Folge]] [[Konvergenz|konvergiert]].
 
 ## Bestimmung
 ### Bekannte Folgen
+$$
+\lim\limits_{n \to \infty} \sqrt[n]{x} = 1 \; (x > 0)
+$$
 
 
 ### L'Hospital
