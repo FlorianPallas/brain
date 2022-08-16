@@ -16,6 +16,9 @@ In diesem Fall heißt der obige Grenzwert die **Ableitung** von $f$ in $x_{0}$ u
 
 Ist $f$ in jedem $x \in I$ differenzierbar, so heißt **$f$ auf $D$ differenzierbar** und die Ableitung $f'(x)$ ist gegeben durch $x \mapsto f'(x)$.
 
+### Bemerkungen
+Eine Verkettung von differenzierbaren Funktionen ist im Allgemeinen wieder differenzierbar.
+
 Ist eine Funktion differenzierbar, so ist sie ebenso stetig. Die Umkehrung gilt im Allgemeinen nicht.
 
 ## Regeln
