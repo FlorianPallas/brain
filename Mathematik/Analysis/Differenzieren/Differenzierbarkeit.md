@@ -19,7 +19,7 @@ Ist $f$ in jedem $x \in I$ differenzierbar, so heißt **$f$ auf $D$ differenzier
 ### Bemerkungen
 Eine Verkettung von differenzierbaren Funktionen ist im Allgemeinen wieder differenzierbar.
 
-Ist eine Funktion differenzierbar, so ist sie ebenso stetig. Die Umkehrung gilt im Allgemeinen nicht.
+Ist eine Funktion differenzierbar, so ist sie ebenso stetig. Die Umkehrung gilt im Allgemeinen nicht. #relation 
 
 ## Regeln
 Es gelten die bekannten Ableitungsregeln.
@@ -30,9 +30,7 @@ $$
 (f^{-1})'(y_{0}) = \frac{1}{f'(x_{0})} = \frac{1}{f'(f^{-1}(y_{0}))}
 $$
 
-
-
-
+---
 # Differenzierbarkeit im $\mathbb{R}^{n}$
 ## Definition
 Eine vektorwertige Funktion $f: D \subseteq \mathbb{R}^{n}\to \mathbb{R}^m$, geschrieben $f(x) = (f_1(x),f_2(x),\dots,f_m(x))$ heißt partiell differenzierbar in $u$, wenn alle $\frac{\partial f_i}{\partial x_j}(u)$ existieren. Es existiert die [[Jacobi-Matrix]] $J_f$.
