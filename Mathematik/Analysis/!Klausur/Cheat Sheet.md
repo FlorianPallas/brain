@@ -21,6 +21,10 @@
 	- [ ] Dreiecksungleichung
 	- [ ] Cauchy-Schwarzsche Ungleichung
 
+[[Ableitung der Umkehrfunktion]]
+[[Untersuchen auf Differenzierbarkeit]]
+[[Untersuchen auf punktweise und gleichmäßige Konvergenz]]
+
 ## Wichtige Ableitungen
 $$
 arctan(x)' = \frac{1}{1+x^{2}}
