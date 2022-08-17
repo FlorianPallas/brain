@@ -22,7 +22,7 @@ Eine gleichmäßig stetige Funktion ist stets auch stetig. Die Umkehrung gilt im
 ### Mittels Definition
 Laut Definition gilt $|x-y| < \delta$. Man bringt nun $|f(x) - f(y)|$ auf eine Form in der $|x-y|$ vorkommt und somit durch $\delta$ nach oben abgeschätzt werden kann. Man wähle nun $\delta$ abhängig von $\epsilon$ (z.B. $\delta := \epsilon^{2}$), sodass $|f(x) - f(y)| < \epsilon$ gilt.
 ### Satz von Heine
-Ist $D$ [[kompakt]] und $f$ stetig auf $D$, so ist $f$ auf $D$ gleichmäßig stetig.
+Ist $D$ [[kompakte Mengen|kompakt]] und $f$ stetig auf $D$, so ist $f$ auf $D$ gleichmäßig stetig.
 
 ## Widerspruch
 Wähle zwei Folgen aus $D$, sodass $|x_{n}-y_{n}| \to 0 \; (n \to \infty)$ gilt, aber $|f(x_{n}) - f(y_{n})| \not\to 0 \; (n \to \infty)$.
