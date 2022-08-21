@@ -55,5 +55,8 @@ Gilt stattdessen für fast alle $n$ nun $a_{n} \geq b_{n}$ und ist $T$ ist diver
 Sei $S = \sum\limits_{n=0}^{\infty} a_{n}$.
 Ist $\limsup \sqrt[n]{|a_{n}|} < 1$ für fast alle $n$, dann ist $S$ absolut konvergent. Ist der Wert $=1$ kann keine Aussage getroffen werden. Ist der Wert $> 1$, dann divergiert die Reihe.
 
+## Quotientenkriterum
+
+
 ---
 **Tags**: 
