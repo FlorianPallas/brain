@@ -37,6 +37,9 @@ Eine lipschitz stetige Funktion ist stets auch gleichmäßig stetig. Die Umkehru
 ## Beweis
 Man formt den Term $|f(x) - f(y)|$ auf die Form $L|x-y|$ um. Dabei kann nach oben abgeschätzt werden. Der Term welcher $L$ repräsentiert muss konstant sein. Dies kann man zum Beispiel durch Abschätzen der Variablen innerhalb des gegebenen Intervalls erreichen.
 
+Alternativ kann mit dem [[Mittelwertsatz]] argumentiert werden, da
+$|f(x) - f(y)| = f'(\xi) |x-y| \leq \max_{\xi \in [x,y]} f'(\xi) |x-y|$ gilt. Berechnet man (mittels der zweiten Ableitung) das Maximum der Funktion mit $\xi \in [x,y]$, dann entspricht dies der Lipschitzkonstante $L$.
+
 ## Widerspruch
 Nehme an die Funktion sei lipschitz stetig. Folglich muss $|f(x) - f(y)| \leq L |x-y|$ gelten. Da dies für alle $x,y \in D$ liegt können wir diese im Intervall frei wählen. Wählt man nun zwei Werte (z.B. $x=2y, y \in D$) und formt man die Ungleichung nach $L$ um, sodass der andere Term nicht nach oben beschränkt ist (und somit $L$ nicht konstant sein kann), so ist die Funktion nicht lipschitz stetig.
 
@@ -45,4 +48,5 @@ Nehme an die Funktion sei lipschitz stetig. Folglich muss $|f(x) - f(y)| \leq L 
 - https://en.wikipedia.org/wiki/Continuous_function
 - https://en.wikipedia.org/wiki/Uniform_continuity
 - https://en.wikipedia.org/wiki/Lipschitz_continuity
+- https://en.wikipedia.org/wiki/Mean_value_theorem
 **Tags**: 
