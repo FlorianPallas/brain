@@ -26,9 +26,8 @@
 [[Untersuchen auf punktweise und gleichmäßige Konvergenz]]
 
 ## Wichtige Ableitungen
-$$
-arctan(x)' = \frac{1}{1+x^{2}}
-$$
+$$arctan(x)' = \frac{1}{1+x^{2}}$$
+$$tan(x)' = \frac{1}{\cos^2(x)}$$
 
 
 ---
