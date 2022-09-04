@@ -2,8 +2,10 @@
 aliases: []
 ---
 
-# {{title}} #card
+# {{title}}
 ## Definition
+#todo
 
 ---
-**Tags**: #todo 
+**Related:**
+**Tags**: 
