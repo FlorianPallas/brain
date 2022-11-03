@@ -14,3 +14,11 @@ siehe [[Reguläre Sprache]].
 ## Beispiele #card 
 ![[CleanShot 2022-10-31 at 09.50.30@2x.png]]
 ^c-aTyDRuZGUx
+
+## Tricks
+### Gerade bzw. ungerade Anzahl an einem Buchstaben hintereinander #card 
+![[CleanShot 2022-11-03 at 17.20.58@2x.png]]
+^c-qj2j6yIi6I
+### Ausklammern #card 
+![[CleanShot 2022-11-03 at 17.21.43@2x.png]]
+^c-oNumaHA1RJ
