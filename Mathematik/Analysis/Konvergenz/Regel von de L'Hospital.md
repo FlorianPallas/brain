@@ -18,7 +18,7 @@ Mit L'Hospital folgt nun:
 $$
 \lim_{x \to c} \frac{f'(x)}{g'(x)} = \lim_{x \to c} \frac{f(x)}{g(x)} = L
 $$
-Der Wert des originalen Grenzwert enspricht dem Grenzwert der abgeleiteten Terme.
+Der Wert des originalen Grenzwert entspricht dem Grenzwert der abgeleiteten Terme.
 
 ### Bemerkungen
 - Das $c$ muss nicht immer $\pm \infty$ sein. Trotzdem müssen die Funktionen entsprechend konvergieren!

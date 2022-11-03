@@ -29,7 +29,12 @@
 $$
 arctan(x)' = \frac{1}{1+x^{2}}
 $$
-
+$$
+\sinh(x)' = \cosh(x)
+$$
+$$
+\cosh(x)' = \sinh(x)
+$$
 
 ---
 **Tags**: #todo 
