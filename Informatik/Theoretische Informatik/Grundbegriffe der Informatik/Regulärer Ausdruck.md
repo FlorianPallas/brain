@@ -1,4 +1,0 @@
-# Regulärer Ausdruck
----
-
-
