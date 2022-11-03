@@ -1,5 +1,5 @@
 ## Definition #card 
-Ist $\Omega \neq \emptyset$ endlich, so heißt das durch
+Ist der [[Grundraum]] $\Omega \neq \emptyset$ endlich, so heißt das durch
 $$
 P (A):=\frac{|A|}{|\Omega|}, \quad A \subseteq \Omega,
 $$
