@@ -35,6 +35,8 @@ $$
 $$
 \cosh(x)' = \sinh(x)
 $$
+$$arctan(x)' = \frac{1}{1+x^{2}}$$
+$$tan(x)' = \frac{1}{\cos^2(x)}$$
 
 ---
 **Tags**: #todo 

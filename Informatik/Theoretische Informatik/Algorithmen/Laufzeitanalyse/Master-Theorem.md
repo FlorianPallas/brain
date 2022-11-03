@@ -2,6 +2,9 @@
 ## Verwendung
 - Werkzeug zur Berechnung der Laufzeit in der [[Landau Notation]] von rekursiven Algorithmen
 ## Herleitung
+
+^63e70e
+
 ![[Pasted image 20220427180755.png]]
 ![[Pasted image 20220427195550.png]]
 ![[Pasted image 20220427203312.png]]

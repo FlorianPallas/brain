@@ -24,7 +24,7 @@ aliases: []
 ### Aufwandsschätzung
 ### Risikomanagement
 ### Prozessqualität - Reifegradmodelle
-
+![[Master-Theorem]]
 
 ---
 **Tags**: 
