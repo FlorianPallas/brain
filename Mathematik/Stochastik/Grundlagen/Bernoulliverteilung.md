@@ -1,5 +1,5 @@
 ## Definition #card 
-Auf dem Grundraum $\Omega=\{0,1\}$ wird durch durch
+Auf dem [[Grundraum]] $\Omega=\{0,1\}$ (kleinstmöglicher nicht trivialer Grundraum) wird durch durch
 $$
 \mathbb{P} (\{1\})=p \quad \text { für ein } \quad p \in[0,1]
 $$

@@ -7,6 +7,7 @@ $$
 
 ## Eigenschaften #card 
 - Es sei $\emptyset \neq B \subseteq A \subseteq R$. Ist A beschränkt, so ist $\inf A \leq \sup A$.
+^c-0mtODeXsrj
 
 ## Veranschaulichung #card 
 ![[CleanShot 2022-10-31 at 08.19.49@2x.png]]
