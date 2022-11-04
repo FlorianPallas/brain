@@ -1,5 +1,3 @@
-# Diagonalisierbarkeit
-
 ## Definition #card
 Eine [[Matrix]] $A \in K^{nxn}$ heißt diagonalisierbar, wenn es eine [[Basis]] $S$ gibt, sodass die Matrix $A$ zu dieser Basis abgesehen von der Diagonale nur mit Nullen gefüllt ist.
 Auf der Diagonale stehen dabei stets die zugehörigen [[Eigenwerte|Eigenwerte]] von $A$. Diese tauchen dabei gemäß ihrer [[geometrischen Vielfachheit]] auch mehrmals auf.
@@ -18,7 +16,7 @@ Es gibt eine Basis $B$ des Vektorraum $V$, welche aus den [[Eigenvektor|Eigenvek
 ^c-B7FYZA3Q2b
 
 ### Summen Kriterium #card
-Der $K^n$ ist die direkte Summe der jeweiligen [[Eigenraum|Eigenräume]]. Es gilt $K^n = \oplus E_\lambda$, wobei jedes $\lambda$ Eigenwert von $A$ ist.
+Der $K^n$ ist die [[direkte Summe]] der jeweiligen [[Eigenraum|Eigenräume]]. Es gilt $K^n = \oplus E_\lambda$, wobei jedes $\lambda$ Eigenwert von $A$ ist.
 ^c-BODMISV0Mq
 
 ### Vielfachheiten Kriterium #card
