@@ -1,8 +1,3 @@
----
-aliases: []
----
-
-# {{title}}
 ## Definition
 #todo
 
