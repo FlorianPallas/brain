@@ -11,7 +11,7 @@ Eine [[Menge]] $A \subseteq \mathbb{R}^n$ heißt **abgeschlossen**, wenn eines d
 - $A$ ist eine [[Vereinigung]] endlich vieler abgeschlossener Mengen
 - $A$ ist [[Schnitt]] beliebig vieler abgeschlossenen Mengen
 - $A$ enthält alle seine [[Häufungspunkt|Häufungspunkte]]
-- Der [[Grenzwert]] jeder [[Konvergenz|konvergierenden]] [[Teilfolge]], die komplett in $A$ läuft, liegt in $A$
+- Der [[Mathematik/HMII/Konvergenz/Grenzwert]] jeder [[Mathematik/HMII/Konvergenz/Konvergenz|konvergierenden]] [[Teilfolge]], die komplett in $A$ läuft, liegt in $A$
 ^c-am1Ntbk8th
 
 ## Beispiele

@@ -43,6 +43,6 @@ Beide Funktionen gehen gegen $0$ unabhänging des Parameters $m$.
 
 ---
 **Related:**
-- [[Grenzwert]], [[Konvergenz]]
+- [[Mathematik/HMII/Konvergenz/Grenzwert]], [[Mathematik/HMII/Konvergenz/Konvergenz]]
 - https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule
 **Tags**: 

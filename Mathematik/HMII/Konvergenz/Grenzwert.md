@@ -4,7 +4,7 @@ aliases: []
 
 # Grenzwert #card
 ## Definition
-Der Wert gegen den eine [[Folge]] [[Konvergenz|konvergiert]].
+Der Wert gegen den eine [[Folge]] [[Mathematik/HMII/Konvergenz/Konvergenz|konvergiert]].
 
 ## Bestimmung
 ### Bekannte Folgen
