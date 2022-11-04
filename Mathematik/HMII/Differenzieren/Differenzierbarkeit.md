@@ -4,7 +4,7 @@ aliases: [differenzierbar, Ableitung, Differenzenquotient, Differenzenquotienten
 
 # Differenzierbarkeit
 ## Definition
-Eine [[Funktion]] $f: I \to \mathbb{R}$ heißt **in $x_{0}$ differenzierbar**, genau dann wenn der [[Grenzwert]] des **Differenzenquotienten**
+Eine [[Funktion]] $f: I \to \mathbb{R}$ heißt **in $x_{0}$ differenzierbar**, genau dann wenn der [[Mathematik/HMII/Konvergenz/Grenzwert]] des **Differenzenquotienten**
 $$
 \lim\limits_{x \to x_{0}} \frac{f(x) - f(x_{0})}{x - x_{0}}
 $$

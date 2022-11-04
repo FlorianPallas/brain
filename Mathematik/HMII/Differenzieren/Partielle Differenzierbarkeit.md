@@ -4,7 +4,7 @@ aliases: [partiell differenzierbar, pdb., stetig partiell differenzierbar, steti
 
 # Partielle Differenzierbarkeit
 ## Definition #card
-Die [[Funktion]] $f: D \subseteq \mathbb{R}^{n}\to \mathbb{R}$ ($D$ [[offene Mengen|offen]]) heißt in $x_0$ **partiell [[Differenzierbarkeit|differenzierbar]]** (**pdb**) nach $x_i$, genau dann wenn folgender [[Grenzwert]] existiert:
+Die [[Funktion]] $f: D \subseteq \mathbb{R}^{n}\to \mathbb{R}$ ($D$ [[offene Mengen|offen]]) heißt in $x_0$ **partiell [[Differenzierbarkeit|differenzierbar]]** (**pdb**) nach $x_i$, genau dann wenn folgender [[Mathematik/HMII/Konvergenz/Grenzwert]] existiert:
 $$f_{x_i}(x_{0}):= \frac{\partial f}{\partial x_i} := \lim_{t \to 0} \frac{f(x_0+t_{e_{i})}-f(x_0)}{t}\in \mathbb{R}$$
 (Steigung entlang der $i$-ten Achse von $x_0$ aus)
 In diesem Fall heißt $f_{x_i}(x_0)$ die partielle Ableitung von $f$ in $x_0$ nach $x_i$.

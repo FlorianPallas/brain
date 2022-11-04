@@ -9,7 +9,7 @@ $$
 \frac{\partial f}{\partial v} (u) :=
 \lim_{t\to0} \frac{f(u+t\cdot v) - f(u)}{t}
 $$
-die Richtungsableitung von $f$ in $u$ nach $v$ (wenn der [[Grenzwert]] existiert).
+die Richtungsableitung von $f$ in $u$ nach $v$ (wenn der [[Mathematik/HMII/Konvergenz/Grenzwert]] existiert).
 
 Ist $f$ [[Totale Differenzierbarkeit|db.]] in $u$, dann existieren alle Richtungsableitungen $\frac{\partial f}{\partial v} (u)$ und es ist
 $$

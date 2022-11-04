@@ -13,7 +13,7 @@ aliases: [konvergiert, Divergenz, divergiert, abs. konvergen, absolute konvergen
 ---
 # Punktweise Konvergenz
 ## Definition
-Eine [[Funktionenfolge]] $(f_n)$ heißt auf $D$ **punktweise konvergent,** genau dann wenn für jedes $x \in D$ die Folge $(f_{n}(x))$ [[Konvergenz|konvergent]] ist. In diesem Fall sei $f(x) := \lim\limits_{n \to \infty} f_{n}(x)$ die **Grenzfunktion** von $(f_{n})$.
+Eine [[Funktionenfolge]] $(f_n)$ heißt auf $D$ **punktweise konvergent,** genau dann wenn für jedes $x \in D$ die Folge $(f_{n}(x))$ [[Mathematik/HMII/Konvergenz/Konvergenz|konvergent]] ist. In diesem Fall sei $f(x) := \lim\limits_{n \to \infty} f_{n}(x)$ die **Grenzfunktion** von $(f_{n})$.
 
 #todo Definition für Funktionenreihen
 
