@@ -17,8 +17,10 @@ In $R$ ist eine Relation " $\leq$ " gegeben. Für diese gilt:
 (A12) $a \leq b$ und $b \leq c \Rightarrow a \leq c$
 (A13) $a \leq b$ und $c \in R \Rightarrow a+c \leq b+c$
 $(A 14) a \leq b$ und $0 \leq c \Rightarrow a c \leq b c$
-### Vollständigkeitsaxiom
-$(A 15)$ Ist $\emptyset \neq M \subseteq R$ und ist $M$ nach oben beschränkt, so ist $\sup M$ vorhanden.
+### Vollständigkeitsaxiom #card 
+$(A 15)$ Ist $\emptyset \neq M \subseteq R$ und ist $M$ nach oben beschränkt, so ist das [[Supremum]] $\sup M$ vorhanden. 
+Hinweis: Das Axiom gilt erst ab $\mathbb{R}$. Beispiel in $\mathbb{Q}$: $\{x\in\mathbb{Q}: x^2 \lt 2\}$ ist nach oben beschränkt aber hat kein [[Supremum]].
+^c-MfS7fsrErG
 
 ## Eigenschaften #card 
 - Sind $x, y \in R$ und $x<y$, so gilt: $\exists r \in Q : x<r<y$.

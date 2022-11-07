@@ -1,4 +1,4 @@
-## Definiton #card 
+## Definition #card 
 Es sei $a \in R$ und $\varepsilon>0$. Das Intervall
 $$
 U_{\varepsilon}(a):=(a-\varepsilon, a+\varepsilon)=\{x \in R :|x-a|<\varepsilon\}
