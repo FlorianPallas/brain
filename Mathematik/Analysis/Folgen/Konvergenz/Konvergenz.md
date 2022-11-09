@@ -15,3 +15,10 @@ $$
 ## Äquivalente Definitionen #card 
 $\begin{aligned} a_n \rightarrow a(n \rightarrow \infty) & \Longleftrightarrow \forall \varepsilon>0 \exists n_0 \in N \forall n \geq n_0: a_n \in U_{\varepsilon}(a) \\ & \Longleftrightarrow \forall \varepsilon>0 \text { gilt: } a_n \in U_{\varepsilon}(a) \text { ffa } n \in N \\ & \Longleftrightarrow \forall \varepsilon>0 \text { gilt: } a_n \notin U_{\varepsilon}(a) \text { für höchstens endlich viele } n \in N \end{aligned}$
 ^c-jwuR4wv2YF
+
+## Beweisführung anhand eines Beispiels #card 
+![[CleanShot 2022-11-09 at 08.32.57@2x.png]]
+^c-ZqkKA6i5zI
+
+## Rechentipps #card 
+- $|a_n-a|$ kann nach oben abgeschätzt werden
