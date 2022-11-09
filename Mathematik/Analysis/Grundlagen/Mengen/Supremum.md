@@ -13,3 +13,7 @@ $$
 - Ist $\sup M$ vorhanden, so ist sup $M$ eindeutig bestimmt.
 - Es sei $\emptyset \neq B \subseteq A \subseteq R$. Ist $A$ nach oben beschränkt, so ist $B$ nach oben beschränkt und $\sup B \leq$ $\sup A$.
 ^c-Snuj4WlBmR
+
+## Beweisführung anhand eines Beispiels #card 
+![[CleanShot 2022-11-09 at 08.39.56@2x.png]]
+^c-J9SWwjiPHN
