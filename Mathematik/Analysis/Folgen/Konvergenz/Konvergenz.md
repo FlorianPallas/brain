@@ -18,7 +18,7 @@ $\begin{aligned} a_n \rightarrow a(n \rightarrow \infty) & \Longleftrightarrow \
 
 ## Eigenschaften/Kriterien #card 
 - Eine [[Mathematik/Analysis/Folgen/Konvergenz/Konvergenz|konvergente]] Folge ist stets [[beschränkte Folge|beschränkt]] #relation 
-- Eine [[Mathematik/Analysis/Folgen/Monotonie|monoton wachsende]] und [[nach oben beschränkte Folge]] ist konvergent. #relation 
+- Eine [[Mathematik/Analysis/Folgen/Monotonie|monoton wachsende]] (bzw. fallende) und [[nach oben beschränkte Folge]] (bzw. nach unten beschränkte)ist konvergent. #relation 
 ^c-ZvfCViHDBS
 
 
