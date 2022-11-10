@@ -8,6 +8,10 @@ Achtung: Das Pumping-Lemma ist nur eine notwendige aber keine hinreichende Bedin
 Falls das gilt, dann ist $L$ nicht regulär.
 ^c-APARFX9GHl
 
+## Aussage verallgemeinertes Pumping-Lemma #card 
+![[CleanShot 2022-11-10 at 12.47.55@2x.png]]
+^c-6N0t3Mlar4
+
 ## Beispiele
 ### Sprache enthält $10$ nicht als Teilwort #card 
 ![[CleanShot 2022-11-03 at 17.37.07@2x.png]]
