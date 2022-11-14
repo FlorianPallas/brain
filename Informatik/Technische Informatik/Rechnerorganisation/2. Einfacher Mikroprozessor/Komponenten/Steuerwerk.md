@@ -28,3 +28,12 @@
 - Mit Hilfe des Steuerregisters kann die aktuelle Arbeitsweise des Steuerwerks beeinflusst werden 
 - Es können bestimmte Arbeitsmodi für den Prozessor festgelegt werden (User-Modus, Systemmodus)
 ^c-xsu9BHxBzz
+
+
+## Mikroprogrammiertes Steuerwerk #card 
+- Jeder Maschinenbefehl wird durch ein Mikroprogramm implementiert
+- Ein Mikroprogramm besteht aus einer Folge von Mikrobefehlen 
+- Jedes Mikroprogramm ist im Mikroprogrammspeicher abgelegt
+- Jeder Mikrobefehl fasst die Mikrooperationen (Steuersignale) zusammen
+![[CleanShot 2022-11-14 at 16.32.03@2x.png]]
+^c-lN02S5NZy1
