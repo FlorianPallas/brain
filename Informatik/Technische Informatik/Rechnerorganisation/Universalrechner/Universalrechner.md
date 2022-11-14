@@ -1,47 +1,36 @@
----
-aliases: [Prozessor, Steuerwerk, Rechenwerk, Hauptspeicher, Ein-/Ausgabesystem, Adressleitung, Steuerleitung, Datenleitung]
----
+## Aufbau #card
+- [[Prozessor]] bestehend aus [[Steuerwerk]] und [[Rechenwerk]]
+- [[Hauptspeicher]]
+- [[Ein- und Ausgabesystem]]
 
-## Modell #card
 ![[Pasted image 20221104132712.png]]
 ^c-GPyTXhviCF
 
-## Komponenten
-### Prozessor #card
-- Verarbeitet Daten gemäß eines Programms
-- Besteht aus Steuerwerk und Rechenwerk
-^c-ztbwGH080u
+## Ausprägungen #card
+Der Aufbau des Universalrechners ist sehr abstrakt. Es gibt verschiedene Ausprägungen des Rechners, welche auf verschiedene Anwendungen eingehen.
 
-### Steuerwerk #card
-- Holt die Befehlt eines Programms aus dem Speicher
-- Dekodiert die Befehle
-- Steuert ihre Ausführung in der verlangten Reihenfolge mittels Steuer- und Status-Signalen
+### Desktop
+Keine hohe Zuverlässigkeit, keine großen Ansprüche an Formfaktor
+z.B. PC
 
-![[Pasted image 20221104134231.png]]
-^c-ZJyrMw8mqC
+### Mobile
+Fokus auf Leistungsmanagement und kleinen Formfaktor
+z.B. Laptop oder Smartphone
 
-### Rechenwerk #card
-- Führt Rechenoperationen aus
-- Steuersignale bestimmen die Art von Operation
-- Liefert Statussignale an das Steuerwerk zurück (z.B. Zahl ist positiv, Zahl ist 0 - Erlaubt effiziente Abfragen)
-^c-JT3Onyo7tB
+### Hochleistung
+Parallelisiertes Computing
+z.B. für Data analytics, Simulationen
 
-### Hauptspeicher #card
-- Besteht aus adressierbaren Speicherzellen
-- von-Neumann-Konzept: Daten und Programm auf dem Hauptspeicher
-- Harvard-Architektur (heutiger Standard): getrennter Programm- und Datenspeicher
-^c-ZERhdOyPnl
+### Großrechner
+Hohe Zuverlässigkeit für transaktionsorientierte Anwendungen
+z.B. für Banken, Versicherungen, Verwaltungen
 
-### Ein-/Ausgabesystem #card 
-- Schnittstellen zur Anbindung peripherer Geräte (z.B. Drucker, Bildschirm)
-^c-nWOBMhLRFZ
+### Embedded
+Nicht unbedingt sichtbare Mikroprozessorsysteme, oft sehr spezialisiert mit hoher Zuverlässigkeit
+z.B. Auto, Haushaltsgeräte
 
-### Verbindungen
-Sogenannte Busse verbinden Komponenten des Rechners.
-- Adressleitungen: Addressübertragung
-- Datenleitungen: Daten- / Befehlsübertragung (von/zum Prozessor)
-- Steuerleitungen: Steuer- / Statussignalübertragung zum Prozessor
+### IoT
+Hohe Kommunikationsanforderungen
+z.B. "Smart" Geräte
+^c-SdQ7njBbMw
 
----
-**Related:**
-**Tags**: 

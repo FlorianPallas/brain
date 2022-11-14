@@ -1,4 +1,4 @@
-## Definition #card 
+.## Definition #card 
 Sei der [[Grundraum]] $\Omega \neq \emptyset$ eine beliebige nicht-leere Menge. Eine Abbildung $P : P (\Omega) \rightarrow[0,1]$ heißt diskretes Wahrscheinlichkeitsmaß (bzw. diskrete Wahrscheinlichkeitsverteilung), falls
 1. $\mathbb{P} (\Omega)=1$ (Normiertheit)
 2. $\forall A_n \subseteq \Omega, n \in N$, disjunkt: $\mathbb{P} \left(\bigcup_{n \in N } A_n\right)=\sum_{n \in N } \mathbb{P} \left(A_n\right) \quad$ ( $\sigma$-Additivität),
