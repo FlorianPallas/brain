@@ -36,3 +36,7 @@ $$
 $$
 stochastisch unabhängig sind. Aka die Urbilder disjunkt sind.
 ^c-46KdlZJOD3
+
+## Satz Unabhänigkeitskriterien #card 
+![[CleanShot 2022-11-14 at 15.40.34@2x.png]]
+^c-G55uihRJgF
