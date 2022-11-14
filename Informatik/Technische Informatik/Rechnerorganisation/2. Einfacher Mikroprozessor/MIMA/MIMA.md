@@ -1,6 +1,9 @@
 ---
 aliases: [IR, IAR, SAR, SDR]
 ---
+## Aufbau #card 
+![[CleanShot 2022-11-14 at 16.33.18@2x.png]]
+^c-no4InfPJBE
 
 ## Register #card
 ### Instruktionsregister `IR`
@@ -22,3 +25,12 @@ Sogenannte Busse verbinden Komponenten des Rechners.
 - Datenleitungen: Daten- / Befehlsübertragung (von/zum Prozessor)
 - Steuerleitungen: Steuer- / Statussignalübertragung zum Prozessor
 ^c-bzGF3QmqHS
+
+## Maschienenbefehle #card 
+![[CleanShot 2022-11-14 at 16.36.30@2x.png]]
+^c-WmJMPSlW1D
+
+## Mikrobefehlsformat #card 
+![[CleanShot 2022-11-14 at 16.34.45@2x.png]]
+![[CleanShot 2022-11-14 at 16.36.58@2x.png]]
+^c-Tzz2KxJJcf
