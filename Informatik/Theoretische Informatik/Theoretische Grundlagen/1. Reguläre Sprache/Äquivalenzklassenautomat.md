@@ -4,10 +4,12 @@
 
 ## Definition äquivalente Zustände #card 
 ![[CleanShot 2022-11-10 at 12.20.39@2x.png]]
+Alternative Sichtweise:
+![[CleanShot 2022-11-15 at 13.11.12@2x.png]]
 ^c-7nUzI42a5f
 
 ## Satz #card 
-Der Äquivalenzklassenautomat $A^\equiv$ zu $A$ dem [[Endlicher Automat|endlichem Automat]] akzeptiert dieselbe [[Reguläre Sprache]] wie $A$.
+Der Äquivalenzklassenautomat $A^\equiv$ zu $A$ dem [[Endlicher Automat|endlichem Automat]] akzeptiert dieselbe [[Reguläre Sprache]] wie $A$ und der Äquivalenzklassenautomat $A^\equiv$ zu $A$ ohne überflüssige Zustände ist minimal.
 ^c-LlRc4Bce9z
 
 ## Definition Zeuge #card 
