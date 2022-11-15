@@ -7,4 +7,4 @@
 [[Aussagenlogik]]
 [[Homomorphismus]]
 [[Regulärer Ausdruck]]
-[[Turingmaschine]]
+[[Informatik/Theoretische Informatik/Grundbegriffe der Informatik/Turingmaschine]]

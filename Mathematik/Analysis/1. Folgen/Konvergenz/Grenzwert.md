@@ -1,5 +1,5 @@
 ## Definition #card 
-Der Wert, gegen den eine [[Folge]] [[Mathematik/Analysis/Folgen/Konvergenz/Konvergenz|konvergiert]]
+Der Wert, gegen den eine [[Folge]] [[Mathematik/Analysis/1. Folgen/Konvergenz/Konvergenz|konvergiert]]
 ^c-IxsFti44aQ
 
 ## Eigenschaften #card 
