@@ -5,3 +5,9 @@ Ist $(a_n)$ eine [[Folge]], die nicht [[Mathematik/Analysis/1. Folgen/Konvergenz
 ## Kriterien #card 
 - Jede unbeschränkte Folge ist divergent #relation 
 ^c-7BcdErOA9K
+
+## Zeigen #card 
+Es gibt zwei verschiedene Fälle:
+1. Unbeschränktheit zeigen (leicht)
+2. Für beschränkte Folgen muss die Konvergenz mühsam widerlegt werden
+^c-zXujNZxc5Q

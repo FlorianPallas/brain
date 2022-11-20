@@ -12,3 +12,31 @@ a) $a_n:=\frac{1}{n}(n \in N )$, also $\left(a_n\right)=\left(\frac{1}{n}\right)
 b) $a_{2 n}:=0, a_{2 n-1}:=1 \quad(n \in N )$, also $\left(a_n\right)=(1,0,1,0, \ldots)$.
 ^c-jr8Jqpm1dc
 
+## Beispiele
+### Konvergent, monoton, beschränkt #card 
+$a_n := \dfrac{1}{n}$
+^c-4RYFkQgCEA
+### Konvergent, monoton, unbeschränkt #card 
+Gibt es nicht. Jede konvergente Folge ist beschränkt.
+^c-2s26OqDsF4
+### Konvergent, nicht monoton, beschränkt #card 
+$a_n := (-1)^n \cdot \dfrac{1}{n}$
+^c-gjS6c0PQgT
+### Konvergent, nicht monoton, unbeschränkt #card 
+Gibt es nicht. Jede konvergente Folge ist beschränkt.
+^c-nLDTrYEmzI
+### Divergent, monoton, beschränkt #card 
+Gibt es nicht. Monotoniekriterium: Jede beschränkte und monotone Folge konvergiert.
+^c-0FLrsI24j3
+### Divergent, monoton, unbeschränkt #card 
+$a_n := n$
+^c-t4fIBFOrFB
+### Divergent, nicht monoton, beschränkt #card 
+$a_n := (-1)^n$.  Nach [[Bolzano Weierstraß]] besitzt jede dieser Folgen aber mind. eine konvergente [[Teilfolge]].
+^c-ce7z5srlse
+### Divergent, nicht monoton, unbeschränkt #card 
+$a_n := (-1)^n \cdot n$
+^c-j2Yug84SpZ
+
+
+

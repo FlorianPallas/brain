@@ -18,13 +18,25 @@ $\begin{aligned} a_n \rightarrow a(n \rightarrow \infty) & \Longleftrightarrow \
 
 ## Eigenschaften/Kriterien #card 
 - Eine [[Mathematik/Analysis/1. Folgen/Konvergenz/Konvergenz|konvergente]] Folge ist stets [[beschränkte Folge|beschränkt]] #relation 
-- Eine [[Mathematik/Analysis/1. Folgen/Monotonie|monoton wachsende]] (bzw. fallende) und [[nach oben beschränkte Folge]] (bzw. nach unten beschränkte)ist konvergent. #relation 
+- Monotoniekriterium: Eine [[Mathematik/Analysis/1. Folgen/Monotonie|monoton wachsende]] (bzw. fallende) und [[nach oben beschränkte Folge]] (bzw. nach unten beschränkte) ist konvergent. #relation 
 ^c-ZvfCViHDBS
 
 
 ## Beweisführung anhand eines Beispiels #card 
 ![[CleanShot 2022-11-09 at 08.32.57@2x.png]]
 ^c-ZqkKA6i5zI
+
+## Beweisführung für rekursive Folgen #card 
+0. Ersten paar Folgenglieder ausrechnen um die Folge besser kennenzulernen
+1. Folge auf mögliche Grenzwerte überprüfen ("Fixpunktgleichung"). Ansatz: $\lim_{n \to \infty} a_n = A = \lim_{n \to \infty} a_{n+1}$
+2. Monotonie zeigen (manchmal hilft es davor schon die Beschränktheit zu zeigen und dann abzuschätzen)
+3. Beschränktheit mittels [[Beweisverfahren durch vollständige Induktion]] zeigen
+4. Teilschritte vereinigen
+^c-eS5uFrspzd
+
+## Beweisführung für rekursive Folgen Beispiel #card 
+![[CleanShot 2022-11-20 at 11.18.22@2x.png]]
+^c-GEQcJxXcjt
 
 ## Rechentipps #card 
 - $|a_n-a|$ kann nach oben abgeschätzt werden
@@ -33,3 +45,9 @@ $\begin{aligned} a_n \rightarrow a(n \rightarrow \infty) & \Longleftrightarrow \
 ## Rechenregeln #card 
 ![[CleanShot 2022-11-10 at 14.07.05@2x.png]]
 ^c-LJUL4LUaGw
+
+## Beispiel: Sandwichteorem für $a_n = \sqrt[n]{3^n+1}$ #card 
+![[CleanShot 2022-11-20 at 11.20.38@2x.png]]
+^c-xu2eimojfX
+
+
