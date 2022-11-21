@@ -14,3 +14,16 @@ Hinweise:
 - Paarweise Unabhängigkeit reicht nicht aus
 - Nur die Indexmenge $I=\{0,\dots,n\}$ reicht nicht aus
 ^c-6Ayg0oWVaZ
+
+## Herleitung der Formel #card 
+Es gilt $P(A|B)=\dfrac{P(A\cap B)}{P(B)}$. Falls $A$ und $B$ unabhänig sind, sollte gelten $P(A|B)=P(A)$.
+Somit gilt:
+$P(A)=\dfrac{P(A\cap B)}{P(B)}$
+$\Leftrightarrow P(A) \cdot P(B) = P(A \cap B)$
+^c-VzMRzD7FM8
+
+## Zusammenhang mit Disjunktheit #card 
+Disjunkt: $P(A \cap B) = 0$
+Stoch. Unabhänig: $P(A \cap B) = P(A) \cdot P(B)$ 
+Folglich sind disjunkte Ereignisse immer stochastisch unabhänig.
+^c-A7wsgqSSMG

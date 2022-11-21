@@ -4,5 +4,10 @@ Sei $(\Omega, \mathbb{P})$ ein [[diskreter Wahrscheinlichkeitsraum]] und $\Omega
 
 ## Wichtige Wahrscheinlichkeitsverteilungen auf endlichen Wahrscheinlichkeitsräumen #card 
 - [[Bernoulliverteilung]]
+- [[Binomialverteilung]]
+- [[Poissonverteilung]]
 - [[Laplace-Verteilung]]
+- [[Geometrische Verteilung]]
+- [[Hypergeometrische Verteilung]]
+
 ^c-q6mVISoL4A
