@@ -19,6 +19,7 @@ $\begin{aligned} a_n \rightarrow a(n \rightarrow \infty) & \Longleftrightarrow \
 ## Eigenschaften/Kriterien #card 
 - Eine [[Mathematik/Analysis/1. Folgen/Konvergenz/Konvergenz|konvergente]] Folge ist stets [[beschränkte Folge|beschränkt]] #relation 
 - Monotoniekriterium: Eine [[Mathematik/Analysis/1. Folgen/Monotonie|monoton wachsende]] (bzw. fallende) und [[nach oben beschränkte Folge]] (bzw. nach unten beschränkte) ist konvergent. #relation 
+- Cauchykriterium: Eine Folge ist konvergent, genau dann wenn sie eine [[Cauchyfolge]] ist. #relation 
 ^c-ZvfCViHDBS
 
 

@@ -21,4 +21,9 @@ Insbesondere gilt: $H\left(a_n\right)=\left\{\lim _{n \rightarrow \infty} a_n\ri
 Es sei $\left(a_n\right)$ eine [[Folge]]. Dann enthält $\left(a_n\right)$ eine monotone Teilfolge.
 ^c-W2gwYXLPnS
 
-## Satz Balzano Weierstraß 
+## Bolzano-Weierstraß #card 
+Die [[Folge]] $(a_n)$ sei [[beschränkte Folge|beschränkt]]. Dann gilt $H\left(a_n\right) \neq \varnothing$. Also $(a_n)$ enthält eine [[Mathematik/Analysis/1. Folgen/Konvergenz/Konvergenz|konvergente]] Teilfolge.
+Weiter gilt:
+- $H\left(a_n\right)$ ist beschränkt
+- $\sup H\left(a_n\right), \inf H\left(a_n\right) \in H\left(a_n\right)$; es existieren also $\max H\left(a_n\right)$ und $\min H\left(a_n\right)$.
+^c-u4UaAo6Kqy

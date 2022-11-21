@@ -17,6 +17,3 @@ $\alpha \in H\left(a_n\right) \Longleftrightarrow \forall \varepsilon>0: a_n \in
 ### Häufungswerte zu $\mathbb{Q}$ #card 
 ![[CleanShot 2022-11-17 at 14.50.48@2x.png]]
 ^c-0qkbe9xQVT
-
-## Bolzano-Weierstraß #card 
-
