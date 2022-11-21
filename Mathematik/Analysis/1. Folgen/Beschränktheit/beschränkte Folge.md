@@ -8,3 +8,7 @@ $$
 ## Beispiel: Rekursiv definierte Folge #card 
 ![[CleanShot 2022-11-15 at 08.07.08@2x.png]]
 ^c-j7hvVYvKeg
+
+## Eigenschaften #card 
+![[CleanShot 2022-11-20 at 14.22.48@2x.png]]
+^c-51l4O57ag3

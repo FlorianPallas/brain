@@ -1,6 +1,7 @@
 ## Definition #card 
 Das Wahrscheinlichkeitsmaß $P =$ $\operatorname{Hyp}(N, M, n)$ auf $N _0$ gegeben durch die Zähldichte 
-$P ^X(\{m\})= P (X=m)=\frac{\left(\begin{array}{c}M \\ m\end{array}\right) \cdot\left(\begin{array}{c}N-M \\ n-m\end{array}\right)}{\left(\begin{array}{l}N \\ n\end{array}\right)} 1 _S(m) \quad \forall m \in N _0$
+$P ^X(\{m\})= P (X=m)=\frac{\left(\begin{array}{c}M \\ m\end{array}\right) \cdot\left(\begin{array}{c}N-M \\ n-m\end{array}\right)}{\left(\begin{array}{l}N \\ n\end{array}\right)}  \quad \forall m \in N _0$
+mit $m \in \{\max(0, n+M-N), \dots , \min(n,M)\}$
 heißt hypergeometrischen Verteilung.
 ^c-w5dbGvKCYr
 
