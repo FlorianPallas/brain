@@ -11,4 +11,6 @@ Dann ist $A(n)$ wahr für jedes $n \in N$.
 ## Rechentipps #card 
 - Bei Ungleichungen können Summen mit ihrem größten oder kleinsten Summanden abgeschätzt werden
 - Um Summen mit unterschiedlichem Laufindex zu addieren kann Indexshift benutzt werden
+![[CleanShot 2022-11-22 at 14.26.46@2x.png]]
+![[CleanShot 2022-11-22 at 14.27.41@2x.png]]
 ^c-6d1tfydw51
