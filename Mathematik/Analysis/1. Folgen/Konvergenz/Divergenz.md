@@ -8,6 +8,6 @@ Ist $(a_n)$ eine [[Folge]], die nicht [[Mathematik/Analysis/1. Folgen/Konvergenz
 
 ## Zeigen #card 
 Es gibt zwei verschiedene Fälle:
-1. Unbeschränktheit zeigen (leicht)
+1. Unbeschränktheit zeigen (leicht). Tipp: Folge nach unten/oben gegen eine bekannte monoton wachsende/fallende unbeschränkte Folge abschätzen. 
 2. Für beschränkte Folgen muss die Konvergenz mühsam widerlegt werden
 ^c-zXujNZxc5Q
