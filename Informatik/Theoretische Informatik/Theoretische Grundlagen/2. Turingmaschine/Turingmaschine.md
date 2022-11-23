@@ -33,4 +33,7 @@ Wichtig: Dies ist ein echt stärkeres Kriterium als die Akzeptanz einer Sprache.
 
 ## Church'sche These #card 
 Die Menge der (Turing-)berechenbaren Funktionen ist genau die Menge der im intuitiven Sinne überhaupt berechenbaren Funktionen.
+Diese These wird allgemein akzeptiert. Jegliche Versuche ein mächtigeres Model aufzustellen sind bislang gescheitert.
 ^c-sOfoHtaTsX
+
+## Mächtigkeit #card 
