@@ -4,7 +4,7 @@ aliases: []
 
 # Reihenwert #card
 ## Definition
-Der Wert gegen den eine [[Reihe]] [[Mathematik/HMII/Konvergenz/Konvergenz|konvergiert]].
+Der Wert gegen den eine [[Mathematik/HMII/Grundlagen/Reihe]] [[Mathematik/HMII/Konvergenz/Konvergenz|konvergiert]].
 
 ## Bekannte Reihenwerte
 ### Geometrische Summe
