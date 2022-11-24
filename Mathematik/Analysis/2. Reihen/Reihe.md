@@ -7,6 +7,10 @@ also $s_1=a_1, s_2=a_1+a_2, s_3=a_1+a_2+a_3, \ldots$ Die [[Folge]] $\left(s_n\ri
 Reihe und wird mit $\sum_{n=1}^{\infty} a_n$ bezeichnet. 
 ^c-DqRftXaesP
 
+## Beliebige Folge als Reihe umschreiben #card 
+![[CleanShot 2022-11-24 at 17.44.52@2x.png]]
+^c-yyORrXB7HS
+
 ## Definition: Name für n-tes Folgenglied einer Reihe #card 
 $s_n$ heißt n-te Teilsumme von $\sum_{n=1}^{\infty} a_n$
 ^c-cOm5a7KuWd
