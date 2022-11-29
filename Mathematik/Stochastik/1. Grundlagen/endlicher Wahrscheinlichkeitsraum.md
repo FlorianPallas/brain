@@ -9,5 +9,4 @@ Sei $(\Omega, \mathbb{P})$ ein [[diskreter Wahrscheinlichkeitsraum]] und $\Omega
 - [[Laplace-Verteilung]]
 - [[Geometrische Verteilung]]
 - [[Hypergeometrische Verteilung]]
-
 ^c-q6mVISoL4A

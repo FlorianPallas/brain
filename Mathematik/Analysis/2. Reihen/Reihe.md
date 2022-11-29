@@ -16,7 +16,7 @@ $s_n$ heißt n-te Teilsumme von $\sum_{n=1}^{\infty} a_n$
 ^c-cOm5a7KuWd
 
 ## Definition: Name des Grenzwertes einer Reihe #card 
-Ist $\sum_{n=1}^{\infty} a_n$ konvergent, so heißt $\lim _{n \rightarrow \infty} s_n$ der Reihenwert und wird ebenfalls mit $\sum_{n=1}^{\infty} a_n$ bezeichnet. (Vorsicht: Doppelbedeutung von $\sum_{n=1}^{\infty} a_n$.)
+Ist $\sum_{n=1}^{\infty} a_n$ konvergent, so heißt $\lim_{n \rightarrow \infty} s_n$ der Reihenwert und wird ebenfalls mit $\sum_{n=1}^{\infty} a_n$ bezeichnet. (Vorsicht: Doppelbedeutung von $\sum_{n=1}^{\infty} a_n$.)
 ^c-OrwILEQFG4
 
 ## Definition: Absolute Konvergenz #card 
@@ -37,6 +37,8 @@ Bei endlichen Summen kann die Reihenfolge der Summanden beliebig getauscht werde
 - Monotoniekriterium
 - Cauchykriterium
 - Leibnizkriterium
+- Majorantenkriterium
+- Wurzelkriterium
 ^c-SPo1fivJi7
 
 #relation 
@@ -57,6 +59,16 @@ Es sei $\left(a_n\right)$ eine [[Folge]] und $s_n=a_1+\ldots+a_n(n \in N )$.
 ^c-kqczKzBGrt
 
 #relation 
+## Majorantenkriterium #card 
+Gilt $\left|a_n\right| \leq b_n$ ffa $n \in N$ und ist $\sum_{n=1}^{\infty} b_n$ konvergent, so ist $\sum_{n=1}^{\infty} a_n$ absolut konvergent.
+^c-1MgqxthLGh
+
+#relation 
+## Wurzelkriterium #card 
+![[CleanShot 2022-11-28 at 09.52.08@2x.png]]
+^c-5jeLnrkXpj
+
+#relation 
 ## Konvergenz Eigenschaften #card 
 Es sei $\left(a_n\right)$ eine [[Folge]] und $s_n=a_1+\ldots+a_n(n \in N )$.
 ![[CleanShot 2022-11-24 at 17.00.37@2x.png]]
@@ -65,7 +77,15 @@ Es sei $\left(a_n\right)$ eine [[Folge]] und $s_n=a_1+\ldots+a_n(n \in N )$.
 #relation 
 ## Divergenz Kriterien #card 
 - Ist $\left(a_n\right)$ eine Folge und gilt $a_n \not \rightarrow 0$, so ist $\sum_{n=1}^{\infty} a_n$ divergent.
+- Erfüllt das Cauchykriterium nicht.
+- Minorantenkriterium
+- Wurzelkriterium
 ^c-2JBlaDw1UI
+
+#relation 
+## Minorantenkriterium #card 
+Gilt $a_n \geq b_n \geq 0$ ffa $n \in N$ und ist $\sum_{n=1}^{\infty} b_n$ divergent, so ist $\sum_{n=1}^{\infty} a_n$ divergent.
+^c-oSKII8JUFE
 
 ## Rechenregeln #card 
 ![[CleanShot 2022-11-24 at 17.03.09@2x.png]]
