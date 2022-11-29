@@ -13,7 +13,7 @@ Folglich können folgende Eigenschaften von [[diskreter Wahrscheinlichkeitsraum|
 - [[Satz von Bayes]]
 - [[Satz der totalen Wahrscheinlichkeit]]
 - [[stochastisch unabhänig|stochastische Unabhänigkeit von Ereignissen]]
-- ^c-rIKdhPWkJS
+^c-rIKdhPWkJS
 
 ## Unterschied zu [[diskreter Wahrscheinlichkeitsraum|diskreten Wahrscheinlichkeitsräumen]] #card 
 Ein [[diskretes Wahrscheinlichkeitsmaß]] ist bereits vollständig durch die [[Wahrscheinlichkeitsfunktion|Zähldichte]] bestimmt. Dies gilt für ein allgemeines [[Wahrscheinlichkeitsmaß]] nicht.

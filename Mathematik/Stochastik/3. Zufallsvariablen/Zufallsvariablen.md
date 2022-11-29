@@ -39,6 +39,8 @@ stochastisch unabhängig sind. Aka die Urbilder disjunkt sind.
 
 ## Satz Unabhänigkeitskriterien #card 
 ![[CleanShot 2022-11-14 at 15.40.34@2x.png]]
+(II) besser verständlich:
+![[CleanShot 2022-11-28 at 15.51.58@2x.png]]
 ^c-G55uihRJgF
 
 ## Beispiel Bernoulli-verteilte Zufallsvariablen #card 
