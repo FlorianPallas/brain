@@ -36,4 +36,9 @@ Die Menge der (Turing-)berechenbaren Funktionen ist genau die Menge der im intui
 Diese These wird allgemein akzeptiert. Jegliche Versuche ein mächtigeres Model aufzustellen sind bislang gescheitert.
 ^c-sOfoHtaTsX
 
-## Mächtigkeit #card 
+## Mächtigkeit 
+
+
+## Zeitkomplexität #card 
+![[CleanShot 2022-11-29 at 10.04.35@2x.png]]
+^c-Fw7Xnqd230
