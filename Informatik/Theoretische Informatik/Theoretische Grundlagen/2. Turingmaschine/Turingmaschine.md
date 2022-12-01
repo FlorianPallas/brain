@@ -14,9 +14,14 @@
 Sie akzeptiert eine Sprache L genau dann, wenn sie ausschließlich Wörter $w \in L$ als Eingabe akzeptiert (in einem akzeptierenden Zustand stoppt).
 ^c-nv1impmIOn
 
+## Definition: Semi-Entscheidbarkeit #card 
+Eine Sprache $L \subseteq \Sigma^*$ heißt rekursiv-aufzählbar oder semi-entscheidbar, wenn es eine Turing-Maschine gibt, die genau die Eingaben $w$ akzeptiert für die $w \in L$.
+Das Verhalten der Turing-Maschine für Eingaben $w \notin L$ ist damit nicht genau definiert. D.h., die Turing-Maschine stoppt entweder nicht in einem Endzustand oder aber stoppt gar nicht.
+^c-z5dmzPUR8t
+
 ## Definition: Entscheidbarkeit einer Sprache #card 
 Eine Sprache $L \subseteq \Sigma^*$ heißt rekursiv oder entscheidbar, wenn es eine Turing-Maschine gibt, die auf **allen Eingaben stoppt** und eine Eingabe $w$ genau dann akzeptiert, wenn $w \in L$ gilt.
-Wichtig: Dies ist ein echt stärkeres Kriterium als die Akzeptanz einer Sprache.
+Wichtig: Dies ist ein echt stärkeres Kriterium als die Akzeptanz/Semi-Entscheidbar einer Sprache.
 ^c-nuSLuehwjG
 
 ## Beispiel: Akzeptiert $0^n1^n$ #card 
