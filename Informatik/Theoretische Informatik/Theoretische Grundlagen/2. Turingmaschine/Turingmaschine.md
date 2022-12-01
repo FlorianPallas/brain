@@ -41,8 +41,9 @@ Die Menge der (Turing-)berechenbaren Funktionen ist genau die Menge der im intui
 Diese These wird allgemein akzeptiert. Jegliche Versuche ein mächtigeres Model aufzustellen sind bislang gescheitert.
 ^c-sOfoHtaTsX
 
-## Mächtigkeit 
-
+## Mächtigkeit #card 
+Eine Turingmaschine mit $k$ Köpfen und $b$ Bändern ist immer noch gleichmächtig wie eine Turingmaschine mit nur einem Lesekopf und einem Band
+^c-WBr9QBxzQ4
 
 ## Zeitkomplexität #card 
 ![[CleanShot 2022-11-29 at 10.04.35@2x.png]]
