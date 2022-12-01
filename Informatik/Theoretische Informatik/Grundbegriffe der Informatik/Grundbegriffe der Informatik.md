@@ -1,6 +1,6 @@
 [[Graph GBI]]
 [[O-Kalkül]]
-[[Entscheidbarkeit]]
+[[Informatik/Theoretische Informatik/Grundbegriffe der Informatik/Entscheidbarkeit]]
 [[Baum]]
 [[Grammatik]]
 [[Huffman Baum]]
