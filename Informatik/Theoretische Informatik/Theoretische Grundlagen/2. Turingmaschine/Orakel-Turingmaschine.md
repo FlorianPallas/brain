@@ -18,3 +18,7 @@ Die Orakel-TM akzeptieren ein Wort $x \in \Sigma^*$ genau dann, wenn es mindeste
 ![[CleanShot 2022-12-01 at 13.43.01@2x.png]]
 ^c-3UNMgjkgn3
 
+## Zeitkomplexität #card 
+![[CleanShot 2022-12-01 at 13.55.20@2x.png]]
+^c-jm2qnsTVPg
+
