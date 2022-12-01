@@ -43,6 +43,8 @@ Diese These wird allgemein akzeptiert. Jegliche Versuche ein mächtigeres Model 
 
 ## Mächtigkeit #card 
 Eine Turingmaschine mit $k$ Köpfen und $b$ Bändern ist immer noch gleichmächtig wie eine Turingmaschine mit nur einem Lesekopf und einem Band
+![[CleanShot 2022-12-01 at 08.58.04@2x.png]]
+![[CleanShot 2022-12-01 at 08.58.23@2x.png]]
 ^c-WBr9QBxzQ4
 
 ## Zeitkomplexität #card 
