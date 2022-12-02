@@ -39,6 +39,7 @@ Bei endlichen Summen kann die Reihenfolge der Summanden beliebig getauscht werde
 - Leibnizkriterium
 - Majorantenkriterium
 - Wurzelkriterium
+- Quotientenkriterium
 ^c-SPo1fivJi7
 
 #relation 
@@ -69,6 +70,11 @@ Gilt $\left|a_n\right| \leq b_n$ ffa $n \in N$ und ist $\sum_{n=1}^{\infty} b_n$
 ^c-5jeLnrkXpj
 
 #relation 
+## Quotientenkriterium #card 
+![[CleanShot 2022-12-02 at 15.03.40@2x.png]]
+^c-bvQnooq8U1
+
+#relation 
 ## Konvergenz Eigenschaften #card 
 Es sei $\left(a_n\right)$ eine [[Folge]] und $s_n=a_1+\ldots+a_n(n \in N )$.
 ![[CleanShot 2022-11-24 at 17.00.37@2x.png]]
@@ -80,6 +86,7 @@ Es sei $\left(a_n\right)$ eine [[Folge]] und $s_n=a_1+\ldots+a_n(n \in N )$.
 - Erfüllt das Cauchykriterium nicht.
 - Minorantenkriterium
 - Wurzelkriterium
+- Quotientenkriterium
 ^c-2JBlaDw1UI
 
 #relation 
@@ -90,3 +97,9 @@ Gilt $a_n \geq b_n \geq 0$ ffa $n \in N$ und ist $\sum_{n=1}^{\infty} b_n$ diver
 ## Rechenregeln #card 
 ![[CleanShot 2022-11-24 at 17.03.09@2x.png]]
 ^c-7PuozQdBPg
+
+## Reihenwert ausrechen #card 
+- ggf auf die [[geometrische Reihe]] zurückführen
+- ggf mit [[Partialbruchzerlegung]] auf eine Teleskopsumme zurückführen
+- ggf 
+^c-8lD1QXNo3L
