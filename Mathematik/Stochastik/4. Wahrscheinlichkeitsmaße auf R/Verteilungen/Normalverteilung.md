@@ -11,3 +11,11 @@ $$F(x)=\frac{1}{ \sqrt{2 \pi \sigma^2}} \int_{-\infty}^x \exp \left(- \dfrac{\le
 - $\Phi(-x)=1-\Phi(x)$ 
 - $F(x)=\Phi \left(\dfrac{x-\mu}{\sigma}\right)$
 ^c-ulmQEu2jqU
+
+## Lineare Transformation #card 
+![[CleanShot 2022-12-05 at 10.18.31@2x.png]]
+^c-JJgEXJItah
+
+## k$\sigma$-Regel #card 
+![[CleanShot 2022-12-05 at 10.19.02@2x.png]]
+^c-bV9N6EsfCe
