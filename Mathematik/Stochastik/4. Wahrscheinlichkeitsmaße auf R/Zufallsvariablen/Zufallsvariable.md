@@ -14,4 +14,15 @@
 ![[CleanShot 2022-12-05 at 13.37.34@2x.png]]
 ^c-X0hBgkqXqu
 
-## Satz Unabhänigkeit
+## Satz Unabhänigkeit durch Randverteilungen #card 
+![[CleanShot 2022-12-05 at 16.22.00@2x.png]]
+^c-dqVgpK8dbs
+
+## Satz: Blockungslemma #card 
+![[CleanShot 2022-12-05 at 16.28.27@2x.png]]
+^c-Tbh3P6ZsB1
+
+## Beispiel: Blockungslemma #card 
+![[CleanShot 2022-12-05 at 16.29.04@2x.png]]
+^c-VIcYTxEs7U
+

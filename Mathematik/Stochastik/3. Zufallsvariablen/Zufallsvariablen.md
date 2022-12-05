@@ -51,7 +51,7 @@ stochastisch unabhängig sind. Aka die Urbilder disjunkt sind.
 ![[CleanShot 2022-11-16 at 18.06.48@2x.png]]
 ^c-ArBpfwfAMj
 
-## Definition Randverteilung #card 
+## Definition: Randverteilung #card 
 ![[CleanShot 2022-12-05 at 16.16.04@2x.png]]
 ^c-FVawQniL8e
 
