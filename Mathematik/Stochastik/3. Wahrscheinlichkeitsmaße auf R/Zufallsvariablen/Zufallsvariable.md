@@ -26,3 +26,10 @@
 ![[CleanShot 2022-12-05 at 16.29.04@2x.png]]
 ^c-VIcYTxEs7U
 
+## Erwartungswert über Dichte #card 
+![[CleanShot 2022-12-12 at 16.10.46@2x.png]]
+^c-CYuPQUGi5P
+
+## Erwartungswert für nicht negative Zufallsvariablen #card 
+![[CleanShot 2022-12-12 at 16.23.41@2x.png]]
+^c-Xofp6YpdWU

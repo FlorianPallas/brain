@@ -58,3 +58,7 @@ stochastisch unabhängig sind. Aka die Urbilder disjunkt sind.
 ## Beispiel Randverteilung #card 
 ![[CleanShot 2022-12-05 at 16.05.33@2x.png]]
 ^c-bghLRBkLE8
+
+## Erwartungswert #card 
+![[CleanShot 2022-12-12 at 16.11.33@2x.png]]
+^c-MIgywpUZRU
