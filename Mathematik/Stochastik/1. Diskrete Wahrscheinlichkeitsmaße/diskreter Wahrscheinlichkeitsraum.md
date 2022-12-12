@@ -10,3 +10,7 @@ Sei $(\Omega, P)$ ein diskreter Wahrscheinlichkeitsraum. Dann gilt
 - $\forall A, B \subseteq \Omega, A \subseteq B: \quad P (B \backslash A)= P (B)- P (A)$, insbes. $P (A) \leq P (B)$
 - $\forall A, B \subseteq \Omega: \quad P (A \cup B)= P (A)+ P (B)- P (A \cap B)$
 ^c-dIAIHwAclE
+
+## Siebformel #card 
+![[CleanShot 2022-12-12 at 16.20.32@2x.png]]
+^c-T4dtlhU22m
