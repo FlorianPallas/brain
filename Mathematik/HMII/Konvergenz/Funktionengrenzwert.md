@@ -11,7 +11,7 @@ Im $\mathbb{R}^n$ müssen nun alle Folgen berücksichtigt werden, nicht nur Folg
 
 ## Verfahren #card
 - [[Definitionsmenge]] bestimmen
-- (Ist der Punkt gegen den die Funktion geht ein [[Häufungspunkt]]?)
+- (Ist der Punkt gegen den die Funktion geht ein [[Mathematik/HMII/Konvergenz/Häufungspunkt]]?)
 - Zeigen dass der Grenzwert nicht existiert
   - Widerspruch mittels divergierender Folge
   - Widerspruch mittels zweier Folgen mit unterschiedlichen Grenzwerten
