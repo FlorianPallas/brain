@@ -17,3 +17,7 @@
 ## Zweck #card 
 Robuster gegen Ausreißer als der [[Erwartungswert]]
 ^c-FdGoRJ7H65
+
+## Zusammenhang mit dem Erwartungswert #card 
+Ist $f_X$ symmetrisch, so gilt $E [X]=t_{1 / 2}$
+^c-zMSlyvE2ND
