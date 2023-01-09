@@ -13,3 +13,7 @@ $Geo _p$ beschreibt Anzahl der Misserfolge bis zum ersten Erfolg bei unabhängig
 ## Abbildung #card 
 ![[CleanShot 2022-11-07 at 13.58.16@2x.png]]
 ^c-7RoyebNRQs
+
+## Erwartungswert #card 
+![[CleanShot 2023-01-09 at 15.53.31@2x.png]]
+^c-M0lpTDXWkH

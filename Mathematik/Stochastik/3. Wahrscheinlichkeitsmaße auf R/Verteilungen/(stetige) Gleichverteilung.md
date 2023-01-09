@@ -13,3 +13,7 @@ P(c \leq X \leq d)=F(d)-F(c)=\frac{d-c}{b-a} .
 $$
 Heißt: Es ist egal wo das Teilintervall innerhalb des Intervalls liegt. Deshalb wird es gleichverteilt genannt.
 ^c-2lOCmyATmq
+
+## Varianz #card 
+![[CleanShot 2023-01-09 at 16.06.16@2x.png]]
+^c-YM2kOQ11pC
