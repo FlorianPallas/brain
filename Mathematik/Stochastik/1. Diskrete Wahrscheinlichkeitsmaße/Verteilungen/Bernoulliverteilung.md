@@ -11,6 +11,10 @@ $$
 sodass tatsächlich für alle Elemente der Potenzmenge $P (\Omega)=\{\emptyset,\{0\},\{1\},\{0,1\}\}$ Wahrscheinlichkeiten eindeutig festgelegt sind.
 ^c-ywPaPvsNE1
 
+## Erwartungswert und Varianz #card 
+![[CleanShot 2023-01-09 at 15.46.26@2x.png]]
+^c-9ZIKpqDZxw
+
 ## Beispiel #card 
 ### Münzwurfexperiment
 Mit der Kodierung $0 \widehat{=}$,Zahl" und $1 \widehat{=}$ „Kopf" kann das Münzwurfexperiment mit einer Bernoulliverteilung modelliert werden, wobei die Münze fair ist, wenn $p=1 / 2$.

@@ -19,3 +19,7 @@ $$F(x)=\frac{1}{ \sqrt{2 \pi \sigma^2}} \int_{-\infty}^x \exp \left(- \dfrac{\le
 ## k$\sigma$-Regel #card 
 ![[CleanShot 2022-12-05 at 10.19.02@2x.png]]
 ^c-bV9N6EsfCe
+
+## Varianz #card 
+![[CleanShot 2023-01-09 at 16.07.13@2x.png]]
+^c-XaJIpWYcLa

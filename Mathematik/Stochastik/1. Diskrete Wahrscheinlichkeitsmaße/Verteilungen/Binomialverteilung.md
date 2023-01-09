@@ -17,3 +17,11 @@ $\operatorname{Bin}(n, p)$ beschreibt zufällige Anzahl der Erfolge bei $n$-mali
 ## Abbildung #card 
 ![[CleanShot 2022-11-07 at 13.58.45@2x.png]]
 ^c-EalOYJ8qq9
+
+## Erwartungswert #card 
+![[CleanShot 2023-01-09 at 15.51.10@2x.png]]
+^c-nctXlHDWMX
+
+## Varianz #card 
+![[CleanShot 2023-01-09 at 16.21.31@2x.png]]
+^c-9qOINF4y9N
