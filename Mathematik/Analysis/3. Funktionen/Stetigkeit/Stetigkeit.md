@@ -16,6 +16,10 @@ Somit bildet $C(\mathbb{R})$ ein reellen [[Vektorraum]]
 ![[CleanShot 2023-01-13 at 09.29.39@2x.png]]
 ^c-U5wbYGN8Aw
 
+## Zusammenhang mit Intervallen #card 
+![[CleanShot 2023-01-13 at 09.50.53@2x.png]]
+^c-kgHRzMxNma
+
 ## Typische Aufgabe: Stückweise definierte Funktion #card 
 Auf Teilintervalle wo die Funktion durch eine Verkettung von bekannt stetigen Funktionen definiert ist herrscht Stetigkeit. Nur die Nahtstellen zwischen diesen Intervallen müssen mittels der Definition geprüft werden. Stimmt der Grenzwert mit dem Funktionswert an der Stelle überein (der Grenzwert von beiden Seiten) ist die Funktion an dieser Stelle stetig, andernfalls ist sie das nicht.
 ^c-rDaUNrzKiL
