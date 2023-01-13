@@ -4,7 +4,7 @@ aliases: [total db., db., differenzierbar, total differenzierbar]
 
 # Totale Differenzierbarkeit
 ## Motivation
-Die [[Partielle Differenzierbarkeit|partiellen Ableitungen]] von $f: D \subseteq \mathbb{R}^n \to \mathbb{R}$ berücksichtigen nur das Veralten von $f$ entlang der Achsenrichtungen. Wir wollen nun einen Differenzierbarkeitsbegriff aus dem (wie im Reellen) [[Stetigkeit]] folgt.
+Die [[Partielle Differenzierbarkeit|partiellen Ableitungen]] von $f: D \subseteq \mathbb{R}^n \to \mathbb{R}$ berücksichtigen nur das Veralten von $f$ entlang der Achsenrichtungen. Wir wollen nun einen Differenzierbarkeitsbegriff aus dem (wie im Reellen) [[Mathematik/HMII/Stetigkeit]] folgt.
 
 ## Definition
 $f$ heißt **(total) differenzierbar** in $a \in D$, wenn $f$ [[Partielle Differenzierbarkeit|pdb.]] ist und

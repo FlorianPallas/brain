@@ -4,7 +4,7 @@ aliases: [bernoulli DGL, bernoullischen DGL]
 
 # bernoullische DGL #card
 ## Definition
-Eine [[Differentialgleichung|DGL]] für $y$ heißt **Bernoullische DGL**, wenn sie mit [[Stetigkeit|stetigen]] Funktionen $a,b: I \subseteq \mathbb{R} \to \mathbb{R}$ geschrieben werden kann als
+Eine [[Differentialgleichung|DGL]] für $y$ heißt **Bernoullische DGL**, wenn sie mit [[Mathematik/HMII/Stetigkeit|stetigen]] Funktionen $a,b: I \subseteq \mathbb{R} \to \mathbb{R}$ geschrieben werden kann als
 $$
 y'(x) = a(x) \cdot y(x) + b(x) \cdot (y(x))^{\alpha}
 $$

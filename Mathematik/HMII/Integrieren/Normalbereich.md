@@ -4,7 +4,7 @@ aliases: []
 
 # Normalbereich #card
 ## Definition
-Eine [[Teilmenge]] $B \subseteq \mathbb{R}^{2}$ heißt **Normalbereich bezüglich der $x$-Achse**, wenn es ein Intervall $I=[a,b]$ und [[Stetigkeit|stetige]] Funktionen $f,g: I \to \mathbb{R}$ mit
+Eine [[Teilmenge]] $B \subseteq \mathbb{R}^{2}$ heißt **Normalbereich bezüglich der $x$-Achse**, wenn es ein Intervall $I=[a,b]$ und [[Mathematik/HMII/Stetigkeit|stetige]] Funktionen $f,g: I \to \mathbb{R}$ mit
 $$
 B=\{(x,y) \in \mathbb{R}^{2}: x \in I \land f(x)\leq y \leq g(x)\}
 $$
