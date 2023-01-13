@@ -9,10 +9,11 @@
 ## Intuition #card 
 Die gleichmäßige Stetigkeit hängt nur von dem Abstand der beiden Stellen ab, während die allgemeine Stetigkeit von dem Abstand und der zu untersuchenden Stelle abhängt.
 Folglich kann man sich intuitiv vorstellen, dass die gleichmäßige Stetigkeit kaputt geht, wenn die Funktion zu stark steigt/fällt.
+![[CleanShot 2023-01-13 at 11.24.50@2x.png]]
 ^c-jCWGIKRXC7
 
 ## Zusammenhang mit Stetigkeit #card 
-Eine gleichmäßig stetige Funktion ist stets auch stetig. Die Umkehrung gilt im Allgemeinen nicht. #relation 
+Eine gleichmäßig stetige Funktion ist stets auch stetig. Die Umkehrung gilt nur wenn der Satz von Heine erfüllt ist. Also im Allgemeinen nicht. #relation 
 
 Bei der allgemeinen Stetigkeit hängt bei der $\epsilon, \delta$-Definition das $\delta$ von $\epsilon$ und $x_0$ ab. Bei der gleichmäßigen Stetigkeit hängt das $\delta$ nur vom $\epsilon$ ab.
 ^c-tp67W6wQNO
