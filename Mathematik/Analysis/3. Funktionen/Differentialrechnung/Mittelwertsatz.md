@@ -6,3 +6,8 @@ $$
 Die Sekantensteigung kommt also als Tangentensteigung zwischen $a$ und $b$ stets auf.
 ![[CleanShot 2023-01-13 at 17.10.19@2x.png]]
 ^c-FG7jnNzeZh
+
+## Folgerung #card 
+![[CleanShot 2023-01-13 at 17.20.34@2x.png]]
+^c-E4dlSlNTD5
+
