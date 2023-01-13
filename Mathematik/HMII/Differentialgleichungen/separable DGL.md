@@ -4,7 +4,7 @@ aliases: [separabel, separablen DGL, getrennte DGL, DGL mit getrennten Variablen
 
 # separable DGL #card
 ## Definition
-Eine [[Differentialgleichung|DGL]] für $y$ heißt **separabel** oder **DGL mit getrennten Variablen**, wenn sie in der Form $y'(x) = F(x) \cdot G(y(x))$ mit [[Stetigkeit|stetigen]] Funktionen $f$ und $g$ geschrieben werden kann. Wobei $F(x)$ nur von $x$, $G(y(x))$ nur von $y$ abhängig sind.
+Eine [[Differentialgleichung|DGL]] für $y$ heißt **separabel** oder **DGL mit getrennten Variablen**, wenn sie in der Form $y'(x) = F(x) \cdot G(y(x))$ mit [[Mathematik/HMII/Stetigkeit|stetigen]] Funktionen $f$ und $g$ geschrieben werden kann. Wobei $F(x)$ nur von $x$, $G(y(x))$ nur von $y$ abhängig sind.
 
 ## Verfahren
 Trennung der Veränderlichen

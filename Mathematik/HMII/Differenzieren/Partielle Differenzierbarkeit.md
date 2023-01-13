@@ -16,7 +16,7 @@ $$
 
 \frac{\partial^{k}f}{\partial x_{i_{1}} \partial x_{i_{2}} \; ... \; \partial x_{i_{k}}}: D \to \mathbb{R}
 $$
-[[Stetigkeit|stetig]] sind, dann heißt $f$ **$m$-mal stetig pdb.**
+[[Mathematik/HMII/Stetigkeit|stetig]] sind, dann heißt $f$ **$m$-mal stetig pdb.**
 
 ### Höhere Ableitungen
 Bei höheren Ableitungen schreibt man auch

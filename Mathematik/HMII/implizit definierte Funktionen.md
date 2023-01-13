@@ -31,7 +31,7 @@ global implizit - gilt allgemein, es gibt beliebige Rechtecke
 Das funktioniert auch für Gleichungen $F(x,y)=0$. Das heißt um nach $p$ Variablen $y_{1}, \cdots, y_{p}$ aufzulösen brauchen wir auch $p$ Gleichungen.
 
 ## Satz
-Ist $f \in C^{1}(D, \mathbb{R}^p)$ mit $D \subseteq \mathbb{R}^{n+p} = \mathbb{R}^{n} \times \mathbb{R}^{p}$ mit $F(x_{0},y_{0})=0$ und $det (\frac{\partial F}{\partial y}(x_{0},y_{0})) \neq 0$, dann gibt es ein $\delta > 0$ und ein $\eta > 0$ und eine eindeutige Funktion $g: U_{\delta}(x_{0}) \to U_{\eta}(y_{0})$ mit $F(x,g(x))=0$ für alle $x \in U_{\delta}(x_{0})$.  Zudem ist $g$ [[Stetigkeit|stetig]] [[Partielle Differenzierbarkeit|pdb.]] mit
+Ist $f \in C^{1}(D, \mathbb{R}^p)$ mit $D \subseteq \mathbb{R}^{n+p} = \mathbb{R}^{n} \times \mathbb{R}^{p}$ mit $F(x_{0},y_{0})=0$ und $det (\frac{\partial F}{\partial y}(x_{0},y_{0})) \neq 0$, dann gibt es ein $\delta > 0$ und ein $\eta > 0$ und eine eindeutige Funktion $g: U_{\delta}(x_{0}) \to U_{\eta}(y_{0})$ mit $F(x,g(x))=0$ für alle $x \in U_{\delta}(x_{0})$.  Zudem ist $g$ [[Mathematik/HMII/Stetigkeit|stetig]] [[Partielle Differenzierbarkeit|pdb.]] mit
 $$
 g'(x) = -(\frac{\partial F}{\partial y}(x,g(x)))^{-1} \cdot \frac{\partial F}{\partial x}(x,g(x)) \subseteq \mathbb{R}^{p \times n}
 $$

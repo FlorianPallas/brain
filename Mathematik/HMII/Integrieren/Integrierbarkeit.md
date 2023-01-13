@@ -7,7 +7,7 @@ aliases: [Integral, integrierbar, ib.]
 $f$ heißt **integrierbar** über $I$, wenn $s_{f} = S_{f}$ ist. Dann ist das **Integral** $\int\limits_{I} f(x_{1},...,x_{n}) d(x_{1},\cdots ,x_{n}) := s_{f}$
 
 ## Fakt
-Aus [[Stetigkeit]] folgt Integrierbarkeit
+Aus [[Mathematik/HMII/Stetigkeit]] folgt Integrierbarkeit
 $f$ stetig $\Rightarrow$ $f$ integrierbar
 Es gibt allerdings auch Funktionen welche zwar nicht stetig aber trotzdem integrierbar sind.
 
