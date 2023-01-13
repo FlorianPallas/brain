@@ -16,6 +16,13 @@ Aus gleichmäßiger Konvergenz folgt stets punktweise Konvergenz. Die Umkehrung 
 ![[CleanShot 2023-01-13 at 12.59.11@2x.png]]
 ^c-D6cwgZ9zaI
 
+## Zusammenhang mit [[Potenzreihen]] #card 
+![[CleanShot 2023-01-13 at 16.38.51@2x.png]]
+^c-K4CP3Ytzck
+
+## Zusammenhang mit [[Stetigkeit]] #card 
+![[CleanShot 2023-01-13 at 16.41.00@2x.png]]
+^c-sXn6lK43Ja
 
 ## Nicht Beispiel $x^n$ #card 
 ![[CleanShot 2023-01-13 at 12.50.05@2x.png]]
@@ -29,3 +36,7 @@ Aus gleichmäßiger Konvergenz folgt stets punktweise Konvergenz. Die Umkehrung 
 ![[CleanShot 2023-01-13 at 12.53.13@2x.png]]
 ^c-53WZjlVIuv
 
+## Widerlegen #card 
+1. Möglichkeit: Definition widerlegen
+2. Möglichkeit: [[Punktweise Konvergenz]] zeigen und zeigen, dass alle $f_n \in C(D)$ aber $f \notin C(D)$.
+^c-zVWn1gzmJo
