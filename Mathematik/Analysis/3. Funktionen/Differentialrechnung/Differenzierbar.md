@@ -19,8 +19,6 @@ Die Umkehrung gilt i.A. nicht. Z.B. Die Betragsfunktion ist in $x_0 = 0$ stetig 
 
 
 
-
-
 ## Beispiele: Betrag Funktion #card 
 ![[CleanShot 2023-01-13 at 16.45.43@2x.png]]
 ^c-MDJFqYZzii
@@ -44,6 +42,5 @@ Die Umkehrung gilt i.A. nicht. Z.B. Die Betragsfunktion ist in $x_0 = 0$ stetig 
 ## Beispiel: $x^\alpha$ #card 
 ![[CleanShot 2023-01-13 at 16.55.59@2x.png]]
 ^c-3hIorayAVX
-
 
 

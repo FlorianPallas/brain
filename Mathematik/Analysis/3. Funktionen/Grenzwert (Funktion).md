@@ -13,3 +13,7 @@
 ## Rechenregeln #card 
 ![[CleanShot 2022-12-15 at 13.15.56@2x.png]]
 ^c-MjjI4wayJv
+
+## Wichtige Grenzwerte #card 
+![[CleanShot 2023-01-13 at 17.02.42@2x.png]]
+^c-N7cUQEPeYl
