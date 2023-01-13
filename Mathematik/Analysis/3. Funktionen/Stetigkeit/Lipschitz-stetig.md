@@ -17,7 +17,7 @@ Ist $f$ Lipschitz-stetig auf $D$, so ist $f$ gleichmäßig stetig auf $D$. Die U
 ## Beweis
 Man formt den Term $|f(x) - f(y)|$ auf die Form $L|x-y|$ um. Dabei kann nach oben abgeschätzt werden. Der Term welcher $L$ repräsentiert muss konstant sein. Dies kann man zum Beispiel durch Abschätzen der Variablen innerhalb des gegebenen Intervalls erreichen.
 
-Alternativ kann mit dem [[Mittelwertsatz]] argumentiert werden, da
+Alternativ kann mit dem [[Mathematik/HMII/Mittelwertsatz]] argumentiert werden, da
 $|f(x) - f(y)| = f'(\xi) |x-y| \leq \max_{\xi \in [x,y]} f'(\xi) |x-y|$ gilt. Berechnet man (mittels der zweiten Ableitung) das Maximum der Funktion mit $\xi \in [x,y]$, dann entspricht dies der Lipschitzkonstante $L$.
 
 ## Widerspruch
