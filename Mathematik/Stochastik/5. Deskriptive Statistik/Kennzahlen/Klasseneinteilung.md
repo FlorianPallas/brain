@@ -13,3 +13,9 @@
 ## Motivation #card 
 ![[CleanShot 2023-01-23 at 16.08.11@2x.png]]
 ^c-zvWGudd1Xx
+
+## Anwendung: Boxplots #card 
+![[CleanShot 2023-01-23 at 16.22.47@2x.png]]
+Beispiel:
+![[CleanShot 2023-01-23 at 16.21.38@2x.png]]
+^c-pYEMo0jYdB
