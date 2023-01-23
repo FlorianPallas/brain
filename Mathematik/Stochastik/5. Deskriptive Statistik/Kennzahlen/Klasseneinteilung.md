@@ -9,3 +9,7 @@
 ## Beispiel #card 
 ![[CleanShot 2023-01-16 at 15.55.27@2x.png]]
 ^c-rlis0OkBXF
+
+## Motivation #card 
+![[CleanShot 2023-01-23 at 16.08.11@2x.png]]
+^c-zvWGudd1Xx
