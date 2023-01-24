@@ -23,6 +23,14 @@ Die Umkehrung gilt i.A. nicht. Z.B. Die Betragsfunktion ist in $x_0 = 0$ stetig 
 ![[CleanShot 2023-01-13 at 17.25.59@2x.png]]
 ^c-j6DBwzPplS
 
+## Definition: Mehrfach differenzierbar #card 
+![[CleanShot 2023-01-24 at 17.54.26@2x.png]]
+^c-U9yT5CINXs
+
+## Differenzieren von Potenzreihen #card 
+![[CleanShot 2023-01-24 at 17.57.02@2x.png]]
+^c-fQM1G18nwk
+
 ## Beispiele: Betrag Funktion #card 
 ![[CleanShot 2023-01-13 at 16.45.43@2x.png]]
 ^c-MDJFqYZzii
