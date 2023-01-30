@@ -4,4 +4,5 @@
 
 ## Zusammenhang mit Monotonie und Differenzierbarkeit #card 
 ![[CleanShot 2023-01-13 at 16.51.16@2x.png]]
+![[CleanShot 2023-01-27 at 12.15.38@2x.png]]
 ^c-M2Tjg6RZ1T
