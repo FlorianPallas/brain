@@ -1,0 +1,1 @@
+To get packages from point A to B the routers in the network need to know what the quickest path to B is. We commonly differentiate between two approaches to routing called [[Vector Distance Routing]] and [[Link State Routing]]. 
