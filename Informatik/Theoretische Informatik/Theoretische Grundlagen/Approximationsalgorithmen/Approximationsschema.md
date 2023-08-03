@@ -1,0 +1,1 @@
+Ein Approximationsschema für ein Optimierungsproblem ist eine Familie von Algorithmen $\{ \mathcal{A}_{\epsilon} \; | \; \epsilon > 0 \}$, so dass für alle $\epsilon > 0$: $\mathcal{A}_{\epsilon} \leq 1 + \epsilon$ gilt (beliebig gute Approximation).
