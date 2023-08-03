@@ -1,2 +1,2 @@
 ## Protocols
-- [[IP]]
+- [[IS-IS]]
