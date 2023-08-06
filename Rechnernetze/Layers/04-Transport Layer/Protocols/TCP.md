@@ -18,6 +18,8 @@ To close a TCP connection each client requests the close and waits for confirmat
 3. Server -> Client: `FIN, SEQ=ServerSEQ, ACK=ClientSEQ+1`
 4. Client -> Server: `ACK, SEQ=ClientSEQ+1, ACK=ServerSEQ`
 
+There is a short wait before the local context is deleted. To prevent this the `RST` flag may be set. Normally this is not set.
+
 ### Piggy Backing
 When sending acknowledgements it is possible to include additional data by piggy packing it.
 
