@@ -1,0 +1,6 @@
+- Ist omnipräsent im Netz
+- Kann abhören
+- Kann Pakete erzeugen
+- Kann Pakete modifizieren
+- Kann nicht Entschlüsseln oder Verschlüsseln ohne Schlüssel
+- Hat keinen Zugriff auf Endsysteme
