@@ -1,7 +1,3 @@
-- RTT: Round Trip Time
-	- Calculation
-	- RN-03 / Page 62
-- Signale
-	- Calculations
-- Hamming Code Tabellen
-- CRC
+- Bandbreite, Datenrate, Sendezeit, etc.
+- Signalkalkulationen
+- TCP
