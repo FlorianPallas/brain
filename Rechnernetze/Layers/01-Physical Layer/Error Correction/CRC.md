@@ -1,6 +1,6 @@
 **Cyclic Redundancy Check**
 
-
+![[Pasted image 20230809163036.png]]
 ## Generator Polynom
 $g(x)$ heißt Generator Polynom des generierten Codes
 ![[Pasted image 20230807161321.png]]
