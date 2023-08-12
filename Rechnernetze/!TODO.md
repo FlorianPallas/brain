@@ -1,3 +1,0 @@
-- Bandbreite, Datenrate, Sendezeit, etc.
-- Signalkalkulationen
-- TCP
