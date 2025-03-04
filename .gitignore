@@ -1,12 +1,1 @@
-# obsidian
-.obsidian/**
-!.obsidian/templates.json
-
-# flashcards
-.flashcards/default.json
-
-# vscode
-.vscode
-
-# other
-.DS_Store
+.obsidian
