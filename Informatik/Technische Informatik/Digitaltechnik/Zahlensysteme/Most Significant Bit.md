@@ -1,3 +1,3 @@
-# Most Significant Bit #card 
+# Most Significant Bit
+
 Das am weitesten links stehende Bit
-^c-zXc77f8kBf

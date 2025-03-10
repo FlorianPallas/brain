@@ -2,4 +2,4 @@
 
 - (a,b) Hamming Code -> b data bits and a-b parity bits
 - Adds [[Paritybit|parity bits]] at positions $2^n = 1, 2, 4, 8, \dots$
-- 
+-

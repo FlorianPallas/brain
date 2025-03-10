@@ -2,8 +2,10 @@
 aliases: [dynamischen Programmierung]
 ---
 
-# Dynamische Programmierung #card
+# Dynamische Programmierung
+
 ![[Pasted image 20220602124606.png]]
-^c-cgCCFG0Bke
+
 ---
-**Tags**: 
+
+**Tags**:

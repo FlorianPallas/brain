@@ -1,25 +1,25 @@
-## Definition #card 
-![[CleanShot 2022-11-10 at 12.19.49@2x.png]]
-^c-DmAIDUtcP1
+## Definition
 
-## Definition äquivalente Zustände #card 
+![[CleanShot 2022-11-10 at 12.19.49@2x.png]]
+
+## Definition äquivalente Zustände
+
 ![[CleanShot 2022-11-10 at 12.20.39@2x.png]]
 Alternative Sichtweise:
 ![[CleanShot 2022-11-15 at 13.11.12@2x.png]]
-^c-7nUzI42a5f
 
-## Satz #card 
+## Satz
+
 Der Äquivalenzklassenautomat $A^\equiv$ zu $A$ dem [[Endlicher Automat|endlichem Automat]] akzeptiert dieselbe [[Reguläre Sprache]] wie $A$ und der Äquivalenzklassenautomat $A^\equiv$ zu $A$ ohne überflüssige Zustände ist minimal.
-^c-LlRc4Bce9z
 
-## Definition Zeuge #card 
+## Definition Zeuge
+
 ![[CleanShot 2022-11-10 at 12.28.03@2x.png]]
-^c-vooVq0B7wl
 
-## Konstruktion #card 
+## Konstruktion
+
 ![[CleanShot 2022-11-10 at 12.35.56@2x.png]]
-^c-iGn7i3kNCT
 
-## Beispiel Konstruktion #card 
+## Beispiel Konstruktion
+
 ![[CleanShot 2022-11-10 at 12.37.26@2x.png]]
-^c-hg6f0vwMzN

@@ -1,19 +1,19 @@
-## Definition #card 
+## Definition
+
 ![[CleanShot 2022-12-15 at 13.11.28@2x.png]]
-^c-KOj9yQ9cRO
 
-## Definition $D_\delta(x_0)$ #card 
+## Definition $D_\delta(x_0)$
+
 ![[CleanShot 2022-12-15 at 13.14.42@2x.png]]
-^c-wJbrOB9mWh
 
-## Satz #card 
+## Satz
+
 ![[CleanShot 2022-12-15 at 13.12.52@2x.png]]
-^c-yIePA4p6Wn
 
-## Rechenregeln #card 
+## Rechenregeln
+
 ![[CleanShot 2022-12-15 at 13.15.56@2x.png]]
-^c-MjjI4wayJv
 
-## Wichtige Grenzwerte #card 
+## Wichtige Grenzwerte
+
 ![[CleanShot 2023-01-13 at 17.02.42@2x.png]]
-^c-N7cUQEPeYl

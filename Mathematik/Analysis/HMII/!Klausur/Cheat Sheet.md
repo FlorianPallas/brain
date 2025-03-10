@@ -1,5 +1,7 @@
 # Cheat Sheet
+
 ## Häufige Aufgabentypen
+
 - Beweis mittels vollständiger Induktion
 - Bestimmung von Grenzwert, Konvergenzradius, q-adischer Entwicklung, Ableitung oder Integral
 - Beweis von Lipschitz-Stetigkeit
@@ -9,17 +11,18 @@
 - Bestimmung von Cauchyschen Hauptwert, Fundamentalsystem oder Hessematrix
 
 ## Grundlagen
+
 - [ ] Abschätzen
 - [ ] Ableiten
 - [ ] Integrieren
-	- [ ] Partielle Ableitung
-	- [ ] Substitution
-	- [ ] Eins Trick, Rüberschaufeltrick
+  - [ ] Partielle Ableitung
+  - [ ] Substitution
+  - [ ] Eins Trick, Rüberschaufeltrick
 - [ ] Potenzgesetze
 - [ ] Logarithmengesetze
 - [ ] Sätze zur Umformung / Abschätzung
-	- [ ] Dreiecksungleichung
-	- [ ] Cauchy-Schwarzsche Ungleichung
+  - [ ] Dreiecksungleichung
+  - [ ] Cauchy-Schwarzsche Ungleichung
 
 [[Ableitung der Umkehrfunktion]]
 [[Untersuchen auf Differenzierbarkeit]]
@@ -28,4 +31,5 @@
 ## Wichtige Ableitungen
 
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

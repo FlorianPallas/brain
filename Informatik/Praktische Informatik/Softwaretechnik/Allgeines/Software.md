@@ -1,5 +1,4 @@
-# Software #card
+# Software
+
 [[Rahmenbedingungen von Software]]
 [[Eigenschaften von Software]]
-^c-u5lb9HGDup
-

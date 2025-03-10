@@ -1,4 +1,5 @@
 # Homomorphismus
+
 ---
 
 Eine Abbildung $h: A^* \to B^*$ ist ein **Homomorphismus**, wenn gilt $h(w_1 \cdot w_2) = h(w_1) \cdot h(w_2)$. Zudem gilt $h(\epsilon) = h(\epsilon\epsilon) = h(\epsilon)h(\epsilon) \Rightarrow |h(\epsilon)|=0 \Rightarrow h(\epsilon)=\epsilon$.

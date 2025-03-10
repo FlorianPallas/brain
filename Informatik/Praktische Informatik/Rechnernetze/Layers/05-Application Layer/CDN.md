@@ -1,6 +1,5 @@
-
-
 ## Enter Deep
+
 - Viele, kleine Cluster in Zugangsnetzen der ISPs
 - kürzere Antwortzeiten
 - Viele Standorte
@@ -9,6 +8,7 @@
 ![[Pasted image 20230808151555.png]]
 
 ## Bring Home
+
 - Wenige, große Cluser in wichtigen IXPs
 - Wenige Standorte
 - höhere Antwortzeiten

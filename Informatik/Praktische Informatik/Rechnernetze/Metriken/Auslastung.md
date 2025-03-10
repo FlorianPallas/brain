@@ -1,6 +1,7 @@
 Maß für die Auslastung einer Ressource oder Medium.
 
 ## Definition
+
 Verhältnis von tatsächlicher zu möglicher Nutzung
 
 $$

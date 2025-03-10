@@ -3,11 +3,13 @@ The internet protocol provides an unreliable, best effort, connection less servi
 ![[Pasted image 20230806173501.png]]
 
 ## Receiving
+
 The following checks are performed when receiving an IP [[Packet|packet]]:
+
 - Header length?
 - IP version?
 - Data length?
 - Checksum?
 - TTL (Time to Live)?
 - Protocol?
-If an error is detected an [[ICMP]] [[Datagram|datagram]] might be sent.
+  If an error is detected an [[ICMP]] [[Datagram|datagram]] might be sent.

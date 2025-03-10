@@ -2,9 +2,12 @@
 aliases: []
 ---
 
-# unitäres Skalarprodukt #card
+# unitäres Skalarprodukt
+
 ## Definition
+
 Ein unitäres Skalarprodukt ist eine positiv definite [[Sesquilinearform|hermitesche Sesquilinearform]].
-^c-z9LsLcjZUl
+
 ---
-**Tags**: 
+
+**Tags**:

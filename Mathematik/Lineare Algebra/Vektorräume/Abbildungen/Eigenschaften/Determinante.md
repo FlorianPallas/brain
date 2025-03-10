@@ -6,14 +6,16 @@ cards-deck: Lineare Algebra
 # Determinante
 
 ## Definition
+
 Im $\mathbb{K}^n$ stellt die Determinante das Volumen des Objekts (mit Vorzeichen) dar.
 
 multilinear, schiefsymmetrisch, normiert, parallel Epiped
 Die Determinante ist eine [[Invariante]]. Ihr Wert bleibt also bei einem Basiswechsel erhalten.
 
-
 ## Regeln
+
 Aus den Eigenschaften der Determinante können folgende Rechenregeln abgeleitet werden:
+
 - $det(A \cdot B) = det(A) \cdot det(B)$
 - Aber: $det(A+B) \neq det(A) + det(B)$
 - $\forall k \in \mathbb{Z}: det(A^k) = det(A)^k$
@@ -27,12 +29,12 @@ Addition von Vielfachen einer Spalte oder Zeil verändern die Determinante nicht
 
 $det(\begin{pmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{pmatrix}) = -det(\begin{pmatrix} 4 & 5 & 6 \\ 1 & 2 & 3 \\ 7 & 8 & 9 \end{pmatrix})$
 
-
 ## Berechnung
 
 ### $2 \times 2$ Matrix
 
 ### Laplace
+
 [[Laplace Verfahren]]
 
 ### Dreiecksmatrix

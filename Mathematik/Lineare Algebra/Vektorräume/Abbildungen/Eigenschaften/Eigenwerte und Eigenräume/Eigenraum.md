@@ -2,8 +2,10 @@
 aliases: [Eigenräume]
 ---
 
-# Eigenraum #card
+# Eigenraum
+
 ## Definition
 
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

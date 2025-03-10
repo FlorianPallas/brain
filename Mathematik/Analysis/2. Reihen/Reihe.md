@@ -1,105 +1,117 @@
-## Definition #card 
+## Definition
+
 Wir setzen
+
 $$
 s_n:=a_1+a_2+\ldots+a_n \quad(n \in N ),
 $$
+
 also $s_1=a_1, s_2=a_1+a_2, s_3=a_1+a_2+a_3, \ldots$ Die [[Folge]] $\left(s_n\right)$ heißt (unendliche)
-Reihe und wird mit $\sum_{n=1}^{\infty} a_n$ bezeichnet. 
-^c-DqRftXaesP
+Reihe und wird mit $\sum_{n=1}^{\infty} a_n$ bezeichnet.
 
-## Beliebige Folge als Reihe umschreiben #card 
+## Beliebige Folge als Reihe umschreiben
+
 ![[CleanShot 2022-11-24 at 17.44.52@2x.png]]
-^c-yyORrXB7HS
 
-## Definition: Name für n-tes Folgenglied einer Reihe #card 
+## Definition: Name für n-tes Folgenglied einer Reihe
+
 $s_n$ heißt n-te Teilsumme von $\sum_{n=1}^{\infty} a_n$
-^c-cOm5a7KuWd
 
-## Definition: Name des Grenzwertes einer Reihe #card 
+## Definition: Name des Grenzwertes einer Reihe
+
 Ist $\sum_{n=1}^{\infty} a_n$ konvergent, so heißt $\lim_{n \rightarrow \infty} s_n$ der Reihenwert und wird ebenfalls mit $\sum_{n=1}^{\infty} a_n$ bezeichnet. (Vorsicht: Doppelbedeutung von $\sum_{n=1}^{\infty} a_n$.)
-^c-OrwILEQFG4
 
-## Definition: Absolute Konvergenz #card 
+## Definition: Absolute Konvergenz
+
 $\sum_{n=1}^{\infty} a_n$ heißt absolut konvergent $: \Longleftrightarrow \sum_{n=1}^{\infty}\left|a_n\right|$ ist konvergent.
-^c-u1bBvmsgCR
 
-## Eigenschaften: Absolute Konvergenz #card 
+## Eigenschaften: Absolute Konvergenz
+
 $\sum_{n=1}^{\infty} a_n$ sei absolut konvergent. Dann gilt:
+
 - $\sum_{n=1}^{\infty} a_n$ ist konvergent
 - $\left|\sum_{n=1}^{\infty} a_n\right| \leq \sum_{n=1}^{\infty}\left|a_n\right|$ (Dreiecksungleichung für Reihen)
-^c-Yq8iQIJVEJ
 
-## Zweck: Absolute Konvergenz #card 
+## Zweck: Absolute Konvergenz
+
 Bei endlichen Summen kann die Reihenfolge der Summanden beliebig getauscht werden. Dies ist bei absolut konvergenten Reihen auch möglich. Aber im Allgemeinen ist dies bei konvergenten Reihen nicht möglich
-^c-q7vkNq2s7b
 
-## Konvergenz Kriterien  #card 
+## Konvergenz Kriterien
+
 - Monotoniekriterium
 - Cauchykriterium
 - Leibnizkriterium
 - Majorantenkriterium
 - Wurzelkriterium
 - Quotientenkriterium
-^c-SPo1fivJi7
 
-#relation 
-## Monotoniekriterium #card 
+#relation
+
+## Monotoniekriterium
+
 Es sei $\left(a_n\right)$ eine [[Folge]] und $s_n=a_1+\ldots+a_n(n \in N )$.
-Monotoniekriterium: Sind alle $a_n \geq 0$ und ist $\left(s_n\right)$ beschränkt, so ist $\sum_{n=1}^{\infty} a_n$ konvergent. 
-^c-fhxZsyNMVD
+Monotoniekriterium: Sind alle $a_n \geq 0$ und ist $\left(s_n\right)$ beschränkt, so ist $\sum_{n=1}^{\infty} a_n$ konvergent.
 
-#relation 
-## Cauchykriterium #card 
-Es sei $\left(a_n\right)$ eine [[Folge]] und $s_n=a_1+\ldots+a_n(n \in N )$. 
+#relation
+
+## Cauchykriterium
+
+Es sei $\left(a_n\right)$ eine [[Folge]] und $s_n=a_1+\ldots+a_n(n \in N )$.
 ![[CleanShot 2022-11-24 at 16.53.46@2x.png]]
-^c-zGn3D5JEvV
 
-#relation 
-## Leibnizkriterium #card 
+#relation
+
+## Leibnizkriterium
+
 ![[CleanShot 2022-11-24 at 17.04.43@2x.png]]
-^c-kqczKzBGrt
 
-#relation 
-## Majorantenkriterium #card 
+#relation
+
+## Majorantenkriterium
+
 Gilt $\left|a_n\right| \leq b_n$ ffa $n \in N$ und ist $\sum_{n=1}^{\infty} b_n$ konvergent, so ist $\sum_{n=1}^{\infty} a_n$ absolut konvergent.
-^c-1MgqxthLGh
 
-#relation 
-## Wurzelkriterium #card 
+#relation
+
+## Wurzelkriterium
+
 ![[CleanShot 2022-11-28 at 09.52.08@2x.png]]
-^c-5jeLnrkXpj
 
-#relation 
-## Quotientenkriterium #card 
+#relation
+
+## Quotientenkriterium
+
 ![[CleanShot 2022-12-02 at 15.03.40@2x.png]]
-^c-bvQnooq8U1
 
-#relation 
-## Konvergenz Eigenschaften #card 
+#relation
+
+## Konvergenz Eigenschaften
+
 Es sei $\left(a_n\right)$ eine [[Folge]] und $s_n=a_1+\ldots+a_n(n \in N )$.
 ![[CleanShot 2022-11-24 at 17.00.37@2x.png]]
-^c-EXlbtdATvL
 
-#relation 
-## Divergenz Kriterien #card 
+#relation
+
+## Divergenz Kriterien
+
 - Ist $\left(a_n\right)$ eine Folge und gilt $a_n \not \rightarrow 0$, so ist $\sum_{n=1}^{\infty} a_n$ divergent.
 - Erfüllt das Cauchykriterium nicht.
 - Minorantenkriterium
 - Wurzelkriterium
 - Quotientenkriterium
-^c-2JBlaDw1UI
 
-#relation 
-## Minorantenkriterium #card 
+#relation
+
+## Minorantenkriterium
+
 Gilt $a_n \geq b_n \geq 0$ ffa $n \in N$ und ist $\sum_{n=1}^{\infty} b_n$ divergent, so ist $\sum_{n=1}^{\infty} a_n$ divergent.
-^c-oSKII8JUFE
 
-## Rechenregeln #card 
+## Rechenregeln
+
 ![[CleanShot 2022-11-24 at 17.03.09@2x.png]]
-^c-7PuozQdBPg
 
-## Reihenwert ausrechen #card 
+## Reihenwert ausrechen
+
 - ggf auf die [[geometrische Reihe]] zurückführen
 - ggf mit [[Partialbruchzerlegung]] auf eine Teleskopsumme zurückführen
-- ggf 
-^c-8lD1QXNo3L
+- ggf

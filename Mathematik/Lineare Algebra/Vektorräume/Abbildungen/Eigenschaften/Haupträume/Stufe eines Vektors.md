@@ -2,9 +2,10 @@
 aliases: [Stufe]
 ---
 
-# Stufe eines Vektors #card
+# Stufe eines Vektors
+
 ## Definition
 
-
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

@@ -1,4 +1,5 @@
 ## Definition
+
 - Zeit die ein Bit von A nach B benötigt
 - Abhängig von der Länge des Mediums $d$ und der [[Ausbreitungsgeschwindigkeit]] $v$
 

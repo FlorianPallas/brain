@@ -1,5 +1,5 @@
 # Gray-Code
 
-
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

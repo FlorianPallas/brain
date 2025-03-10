@@ -2,8 +2,10 @@
 aliases: []
 ---
 
-# Red-Black-Tree #card
+# Red-Black-Tree
+
 ## Definition
 
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

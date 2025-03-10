@@ -2,10 +2,14 @@
 aliases: [Architekturentwurf]
 ---
 
-# Grobentwurf #card 
+# Grobentwurf
+
 ## Zerlegung in Subsysteme
+
 ## Verteilungskonzept
+
 ## Ablaufmodell
 
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

@@ -1,8 +1,10 @@
 Do not split:
+
 - Repeater
 - Hub
 
 Split:
+
 - Router
 - Switch
 - Bridge

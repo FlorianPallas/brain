@@ -1,4 +1,5 @@
 ## Definition
+
 - Zeit, die nötig ist um $n$ Bits zu senden
 - Abhängig von der Datenrate $r$ und der zu sendenden Datenmenge $X$
 

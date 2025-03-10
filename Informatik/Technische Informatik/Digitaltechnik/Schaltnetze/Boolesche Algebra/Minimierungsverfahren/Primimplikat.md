@@ -2,8 +2,10 @@
 aliases: [Primimplikaten]
 ---
 
-# Primimplikat #card
+# Primimplikat
+
 ## Definition
 
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

@@ -2,10 +2,12 @@
 aliases: []
 ---
 
-# Reihe #card
+# Reihe
+
 ## Definition
 
 ## Konvergenz
 
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

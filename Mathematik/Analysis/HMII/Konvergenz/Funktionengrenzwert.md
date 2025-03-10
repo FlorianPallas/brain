@@ -1,5 +1,7 @@
 # Funktionengrenzwert
-## Definition #card 
+
+## Definition
+
 Der [[Mathematik/Analysis/HMII/Konvergenz/Grenzwert]] $y_{0} \in \mathbb{R}^m$ einer [[Funktion]] $f: D \subseteq \mathbb{R}^{n} \to \mathbb{R}^m$ gegen ein $x_{0}\in \mathbb{R}^n$ ist definiert genau dann wenn für jede [[Folge]] $(x^{(k)})$ in $D \setminus \{x_0\}$ mit $x^{(k)} \to x_{0}$ $(k \to \infty)$ gilt: $f(x^{(k)}) \to y_{0}$ $(k\to\infty)$.
 In diesem Fall existiert der Grenzwert der Funktion $f$ und man schreibt: $f(x) \to y_{0}$ $(x \to x_{0})$.
 
@@ -7,9 +9,9 @@ Gibt es nun auch nur eine Folge unter obigen Bestimmungen welche [[Divergenz|div
 
 Im $\mathbb{R}^n$ müssen nun alle Folgen berücksichtigt werden, nicht nur Folgen welche sich von links und rechts dem Grenzwert nähern.
 ![[Pasted image 20220503143105.png]]
-^c-ZoSKvSAnQv
 
-## Verfahren #card
+## Verfahren
+
 - [[Definitionsmenge]] bestimmen
 - (Ist der Punkt gegen den die Funktion geht ein [[Mathematik/HMII/Konvergenz/Häufungspunkt]]?)
 - Zeigen dass der Grenzwert nicht existiert
@@ -19,10 +21,11 @@ Im $\mathbb{R}^n$ müssen nun alle Folgen berücksichtigt werden, nicht nur Folg
   - Simples einsetzen
   - Grenzwert Rechenregeln anwenden
   - [[Sandwich-Lemma]] nutzen (geg. komponentenweise anwenden)
-^c-XJzxFwCWDr
 
 ## Beispiele
+
 ### Grenzwert existiert nicht
+
 Mittels Divergenz
 ![[Pasted image 20220503143806.png]]
 
@@ -30,6 +33,7 @@ Mittels verschiedener Folgen Grenzwerte
 ![[Pasted image 20220503144231.png]]
 
 ### Grenzwert existiert
+
 Simples einsetzen
 ![[Pasted image 20220503144135.png]]
 
@@ -40,4 +44,5 @@ Mittels Sandwich-Lemma
 ![[Pasted image 20220503144015.png]]
 
 ---
-**Tags**: 
+
+**Tags**:

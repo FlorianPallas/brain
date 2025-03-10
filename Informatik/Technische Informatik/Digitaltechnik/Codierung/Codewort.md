@@ -2,9 +2,12 @@
 aliases: []
 ---
 
-# Codewort #card
+# Codewort
+
 ## Definition
+
 Ein Wort, dass ein [[Datenwort]] codiert.
-^c-YceGJc1FU6
+
 ---
-**Tags**: 
+
+**Tags**:

@@ -1,19 +1,20 @@
-## Definiton #card 
-![[CleanShot 2023-01-13 at 09.37.56@2x.png]]
-^c-YvPJKQ07Zs
+## Definiton
 
-## Eigenschaft #card 
+![[CleanShot 2023-01-13 at 09.37.56@2x.png]]
+
+## Eigenschaft
+
 $D$ ist abgeschlossen $\Longleftrightarrow$ Jeder [[Häufungspunkt]] von $D$ gehört zu $D$.
 
-## Beispiele #card 
+## Beispiele
+
 - Jedes abgeschlossene Intervall $[a,b]$
 - $[a,\infty)$ und $(-\infty, a]$
 - Endliche Mengen
 - $\emptyset$
-^c-nW6uGSFnBN
 
-## Nicht Beispiele #card 
+## Nicht Beispiele
+
 - $(a,b)$
 - $(a,b]$
 - $[a,b)$
-^c-OLYvZnyUJT

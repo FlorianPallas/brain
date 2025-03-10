@@ -1,15 +1,15 @@
-## Definition #card 
+## Definition
+
 ![[CleanShot 2023-01-23 at 17.01.50@2x.png]]
-^c-IdjmjYmpHj
 
-## Eigenschaften #card 
+## Eigenschaften
+
 ![[CleanShot 2023-01-23 at 17.01.35@2x.png]]
-^c-vquet8rsDU
 
-## Motivation #card 
+## Motivation
+
 ![[CleanShot 2023-01-23 at 17.04.49@2x.png]]
-^c-fLhsIyMHbL
 
-## Überleitung zum Korrelationskoeffizient #card 
+## Überleitung zum Korrelationskoeffizient
+
 ![[CleanShot 2023-01-23 at 17.07.20@2x.png]]
-^c-rK8t1VpXWO

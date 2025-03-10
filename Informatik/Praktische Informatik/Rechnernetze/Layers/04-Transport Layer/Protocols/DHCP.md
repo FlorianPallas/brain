@@ -1,12 +1,14 @@
 The **Dynamic Host Configuration Protocol** distributes [[IP]] addresses of a [[Subnet|subnet]] to clients. The assigned addresses are temporary and maybe be changed after the claim expires.
 
 DHCP also provides some basic information about the subnet. This may include:
+
 - Address of the default [[Router|router]]
 - Name and [[IP]] address of the [[DNS]] server
 - Subnet mask
 - Time server ([[NTP]])
 
 ## Commands
+
 - discover: client requests dhcp guidance
 - offer: the dhcp server offers an address to the client
 - request: the client requests a certain address / accepts the offer

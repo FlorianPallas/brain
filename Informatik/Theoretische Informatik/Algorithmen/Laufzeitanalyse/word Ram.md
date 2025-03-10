@@ -2,8 +2,10 @@
 aliases: []
 ---
 
-# word Ram #card
+# word Ram
+
 ![[Pasted image 20220516170139.png]]
-^c-5IloYoI2Ms
+
 ---
-**Tags**: 
+
+**Tags**:
