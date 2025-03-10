@@ -2,9 +2,12 @@
 aliases: []
 ---
 
-# Datenwort #card
+# Datenwort
+
 ## Definition
+
 Wort das Daten speichert.
-^c-CIVZaTFgT3
+
 ---
-**Tags**: 
+
+**Tags**:

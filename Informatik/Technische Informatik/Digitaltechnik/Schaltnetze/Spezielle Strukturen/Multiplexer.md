@@ -2,8 +2,10 @@
 aliases: [MUX]
 ---
 
-# Multiplexer #card
+# Multiplexer
+
 ## Definition
 
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

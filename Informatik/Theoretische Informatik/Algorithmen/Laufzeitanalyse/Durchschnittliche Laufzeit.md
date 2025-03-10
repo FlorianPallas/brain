@@ -2,9 +2,12 @@
 aliases: [durchschnittliche Laufzeit]
 ---
 
-# Durchschnittliche Laufzeit #card
+# Durchschnittliche Laufzeit
+
 ## Definition
+
 Durchschnittliche Laufzeit eines [[Algorithmus]] über alle möglichen Eingaben
-^c-ZOfthDRYQg
+
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

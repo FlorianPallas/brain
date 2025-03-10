@@ -3,7 +3,9 @@ aliases: []
 ---
 
 # Jacobi-Matrix
+
 ## Definition
+
 $$
 J_f(x):=
 \begin{pmatrix}
@@ -19,4 +21,5 @@ grad f_{1}(x) \\ \vdots \\ grad f_{m}(x)
 $$
 
 ---
-**Tags**: 
+
+**Tags**:

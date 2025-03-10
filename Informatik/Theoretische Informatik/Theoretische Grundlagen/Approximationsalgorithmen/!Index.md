@@ -1,5 +1,5 @@
 ---
-aliases: ['Approximationsalgorithmus', 'Approximationsalgorithmen']
+aliases: ["Approximationsalgorithmus", "Approximationsalgorithmen"]
 ---
 
 Approximationsalgorithmen sind [[Algorithmus|Algorithmen]] welche eine optimale Lösung eines [[Problems|Problem]] approximieren. Sie bieten daher meist eine bessere [[Laufzeit]].

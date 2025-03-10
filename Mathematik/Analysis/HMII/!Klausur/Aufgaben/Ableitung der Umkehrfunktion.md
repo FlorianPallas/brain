@@ -1,6 +1,9 @@
 # Ableitung der Umkehrfunktion
+
 ## Verfahren
+
 ### Voraussetzungen prüfen
+
 - $f$ muss auf $I$ stetig sein
 - $f$ muss streng monoton sein
 - $f$ muss in $x_{0}$ differenzierbar sein

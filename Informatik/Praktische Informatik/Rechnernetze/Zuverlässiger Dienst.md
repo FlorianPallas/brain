@@ -1,5 +1,5 @@
 ---
-alias: ['zuverlässigen Dienst']
+alias: ["zuverlässigen Dienst"]
 ---
 
 Ein zuverlässiger Dienst muss folgende Kriterien erfüllen:

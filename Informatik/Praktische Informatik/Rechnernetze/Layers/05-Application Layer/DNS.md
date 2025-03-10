@@ -6,11 +6,13 @@
 ![[Pasted image 20230808151002.png]]
 
 ## Records
+
 - Haben TTL
 
 ![[Pasted image 20230808151019.png]]
 
 ## Anfrage
+
 Caching
 
 ![[Pasted image 20230808151146.png]]

@@ -1,7 +1,7 @@
-## Definition #card 
-Eine Sprache, die nur endlich viele Wörter enthält
-^c-nuDlulwxOw
+## Definition
 
-## Eigenschaft #card 
+Eine Sprache, die nur endlich viele Wörter enthält
+
+## Eigenschaft
+
 Jede endliche Sprache ist eine [[Reguläre Sprache]]
-^c-62xudpthSd

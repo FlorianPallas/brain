@@ -2,8 +2,10 @@
 aliases: []
 ---
 
-# Fibonacci-Heap #card
+# Fibonacci-Heap
+
 ## Definition
 
 ---
-**Tags**: 
+
+**Tags**:

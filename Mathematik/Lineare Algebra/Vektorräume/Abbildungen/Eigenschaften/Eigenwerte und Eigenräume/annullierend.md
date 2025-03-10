@@ -2,9 +2,10 @@
 aliases: []
 ---
 
-# annullierend #card
+# annullierend
+
 ## Definition
 
-
 ---
-**Tags**: #todo 
+
+**Tags**: #todo

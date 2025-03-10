@@ -1,12 +1,15 @@
 Erweiterung des [[ER Modell]].
 
 ## Typkonstruktor
+
 ![[Pasted image 20230813165344.png]]
 
 ## Spezialisierung
+
 ![[Pasted image 20230813165359.png]]
 
 ## Generalisierung
+
 LKW und PKW ist Fuhrparkelement. Fuhrparkelement aber auch allein möglich.
 ![[Pasted image 20230813165421.png]]
 

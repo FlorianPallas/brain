@@ -2,9 +2,12 @@
 aliases: []
 ---
 
-# Orthogonalbasis #card
+# Orthogonalbasis
+
 ## Definition
-Eine Basis B von $V$ heißt Orthogonalbasis, falls die Elemente von B eine [[Orthogonalität|orthogonale]] Menge bilden. 
-^c-EAwzZCCwm1
+
+Eine Basis B von $V$ heißt Orthogonalbasis, falls die Elemente von B eine [[Orthogonalität|orthogonale]] Menge bilden.
+
 ---
-**Tags**: 
+
+**Tags**:

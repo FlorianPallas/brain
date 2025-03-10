@@ -1,5 +1,7 @@
 # Untersuchen auf punktweise und gleichmäßige Konvergenz
+
 ## Verfahren
+
 Grenzfunktion bestimmen nach Definition $f(x) := \lim\limits_{n \to \infty} f_{n}(x)$. Existiert der Grenzwert, so ist $(f_{n})$ punktweise konvergent.
 
 Aus der Stetigkeit der Grenzfunktion, etc. geg. auf gleichmäßige Konvergenz schließen (siehe Sätze).
@@ -7,6 +9,7 @@ Aus der Stetigkeit der Grenzfunktion, etc. geg. auf gleichmäßige Konvergenz sc
 Abstand von Funktionenfolge und Grenzfunktion betrachten (wenn nicht stetig in verschiedenen Teilintervallen). Ist der Abstand durch eine Nullfolge begrenzt, so konvergiert $(f_{n})$ gleichmäßig gegen $f$. Achtung! Hier ist nicht der Grenzwert gemeint, sondern die neue Folge selbst. Hier ist oft relevant welche Werte $x$ annehmen kann.
 
 ## Sätze
+
 Ist die Funktionenfolge stetig, die Grenzfunktion allerdings nicht, herrscht nur punktweise Konvergenz.
 
 Ist die Funktionenreihe eine Potenzreihe, so konvergiert sie gleichmäßig auf allen kompakten Intervallen des Konvergenzbereiches.

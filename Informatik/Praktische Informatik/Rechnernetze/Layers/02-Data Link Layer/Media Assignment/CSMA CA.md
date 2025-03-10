@@ -3,6 +3,7 @@
 Used in [[WLAN]]
 
 ## Usage
+
 Same as [[CSMA]]
 
 - Listen before talk

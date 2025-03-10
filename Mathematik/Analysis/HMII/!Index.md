@@ -1,5 +1,3 @@
-
-
 ## Konvergenz im $R^{n}$
 
 Definition: Es sei $\left(a^{(k)}\right)$ eine Folge im $\mathbb{R}^{n}$, also $\left(a^{(k)}\right)=\left(a^{(1)}, a^{(2)}, a^{(3)}, \ldots\right)$ mit $a^{(k)}=$ $\left(a_{1}^{(k)}, \ldots, a_{n}^{(k)}\right) \in \mathbb{R}^{n}(k \in \mathbb{N})$.
@@ -125,7 +123,7 @@ a) Die folgenden Aussagen sind äquivalent:
 
 b) $A$ ist kompakt $\Longleftrightarrow$ Jede Folge in A enthält eine konvergente Teilfolge deren Grenzwert zu A gehört.
 
-Ohne Beweis. 
+Ohne Beweis.
 
 \section{Kapitel 16}
 
@@ -288,4 +286,4 @@ $$
 
 Also: $f(x) \rightarrow f\left(x_{0}\right)\left(x \rightarrow x_{0}\right)$.
 
-Beispiel: $f: \mathbb{R}^{2} \rightarrow \mathbb{R}, f(x, y)=x+y$ ist stetig auf $\mathbb{R}^{2}$. 
+Beispiel: $f: \mathbb{R}^{2} \rightarrow \mathbb{R}, f(x, y)=x+y$ ist stetig auf $\mathbb{R}^{2}$.

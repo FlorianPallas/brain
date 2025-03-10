@@ -2,10 +2,13 @@
 aliases: []
 ---
 
-# Binary-Tree #card
+# Binary-Tree
+
 ## Eigenschaften
+
 ![[Pasted image 20220620164759.png]]
 ![[Pasted image 20220620164848.png]]
-^c-vLeQoCjbXa
+
 ---
-**Tags**: 
+
+**Tags**:

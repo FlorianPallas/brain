@@ -1,5 +1,6 @@
-# Umwandlung vom [[Dezimalsystem]] in ein anderes Zahlensystem #card 
+# Umwandlung vom [[Dezimalsystem]] in ein anderes Zahlensystem
+
 Hierfür gibt es zwei verschiedene Algorithmen:
+
 - [[Euklidischer Algorithmus]]
 - [[Horner Schema]]
-^c-HU525y4H1Q

@@ -2,12 +2,12 @@
 aliases: [Orthonormiert, orthonormal]
 ---
 
-# Orthonormal #card
+# Orthonormal
+
 ## Definition
 
 ## Hinweise:
+
 - Alle Einheitsvektoren sind orthonormal
 
-^c-AmusEjBpQi
----
-**Tags**: 
+**Tags**:

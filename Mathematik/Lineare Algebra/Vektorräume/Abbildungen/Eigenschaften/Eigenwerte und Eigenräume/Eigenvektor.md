@@ -2,9 +2,10 @@
 aliases: [Eigenvektoren]
 ---
 
-# Eigenvektor #card
+# Eigenvektor
+
 ## Definition
 
-
 ---
-**Tags**: #todo 
+
+**Tags**: #todo
