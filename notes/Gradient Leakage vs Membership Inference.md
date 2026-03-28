@@ -1,0 +1,1 @@
+While Membership Inference is easier that full reconstruction it is a lot easier to test for.
