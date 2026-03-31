@@ -11,7 +11,7 @@ The Privacy-Robustness-Efficiency Trilemma states that it is infeasible for [[Ma
 A machine learning system is private if no source data can be retrieved from the model gradients.
 ### Metrics
 - $(\epsilon, \delta)$-[[Differential Privacy|DP]] budget: How much noise do I need to add to achieve a certain level of privacy? Higher noise necessary -> Scenario is less private
-- [[Membership Inference Attack]] attack success rate
+- [[Membership Inference]] attack success rate
 
 
 ## Robustness
