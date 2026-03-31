@@ -9,3 +9,6 @@ Byzantine-robust aggregation
 - Outlier Removal
 - Trimmed Mean
 - Median Aggregation
+
+## References
+- [[YCK+18]]
