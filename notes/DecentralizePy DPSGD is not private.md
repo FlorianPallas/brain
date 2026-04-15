@@ -8,5 +8,5 @@ DPSGD does not stand for Differentially Private SGD, rather it stand for Decentr
 ## Connections
 - [[DecentralizePy]]
 
-## Source
+## Sources
 - [[DKP+23.pdf]]
