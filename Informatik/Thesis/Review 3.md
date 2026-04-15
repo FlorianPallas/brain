@@ -1,0 +1,11 @@
+- [x] (Decentralized) Federated Learning is not a solution to privacy, rather data sovereignty and resiliency.
+- [x] Clearly state which machine learning problem is used (CIFAR-X, Image Classification)
+- [x] Clearly state what part of the simulation will determine the grade.
+	- [x] Implement Differential Privacy
+	- [x] Implement Trimmed Mean Aggregation
+	- [x] Reuse Compression and Topology
+	- [ ] Modernize Codebase
+	- [ ] Implement tooling
+	- [x] Implement Poisoning Nodes
+	- [x] Implement Inference Attack
+- [x] Discussion of the practicality of DecentralizePy for research
