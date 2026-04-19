@@ -1,2 +1,6 @@
-.obsidian
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/graph.json
+!.obsidian/templates.json
+
 literature
