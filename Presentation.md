@@ -59,8 +59,11 @@ Actual bullet points of the final presentation. One heading represent a single s
 ### Machine Learning Methods
 ^1min
 - What is CL?
+	- Here: Image Classifier, CIFAR-10
 - What is FL?
+	- Training on device, central aggregation
 - What is DFL?
+	- Network of nodes, aggregation and training on device
 
 ### Characterizing ML systems
 ^1min
@@ -71,34 +74,35 @@ Actual bullet points of the final presentation. One heading represent a single s
 - Efficiency
 	- How accurate is the model in comparison with the training costs
 
-### Attack vector: Privacy
-^1min
+### Improving Privacy
+^2min
 - Attacks
 	- Membership inference, leakage, prompt engineering
-	- e.g. LLMs reciting books, Image models generating stock watermarks
-	- https://arxiv.org/abs/2601.02671v1
-	- https://www.theverge.com/2023/2/6/23587393/ai-art-copyright-lawsuit-getty-images-stable-diffusion
+	- e.g. Gradient Leakage
+	- https://arxiv.org/abs/1906.08935
 - Mitigations
 	- Differential privacy
+	- Adds noise before exchanging gradients
 
-### Attack vector: Robustness
-^1min
+### Improving Robustness
+^2min
 - Attacks
 	- Model poisoning, data poisoning, DoS, etc.
 	- e.g. Poisoning Image Generators so they produce garbage
 	- https://mag.uchicago.edu/uchi-con
 - Mitigations
 	- Trimmed mean aggregation
+	- Remove statistical outliers from updates
 
-### Attack vector: Efficiency
+### Improving Efficiency
 ^1min
-- Attacks
-	- 
+- Challenges
+	- Bandwidth, compute, or latency limits
 - Mitigations
-	- Compression, More local training, Topology improvements
+	- Compression, more local training rounds, network topology improvements
 
-### PRE Trilemma
-^1min
+ ### PRE Trilemma
+^2min
 - In worst-case scenario
 - Three properties, pick two
 - We need to make trade-offs
@@ -116,9 +120,23 @@ Actual bullet points of the final presentation. One heading represent a single s
 
 ### Modeling real-world scenarios
 ^1min
+- Certain attack vectors more likely
+- Trade-offs are result of these circumstances
+- -> Implement common mitigations
+- -> Adjust parameters
 
 ### Evaluating scenarios
 ^1min
+- Privacy
+	- Differential Privacy with $\epsilon$ budget
+	- Membership Inference Attack
+- Robustness
+	- Model Poisoning with $\eta$ fraction of malicious nodes
+	- Success rate of a Model Poisoning Attack
+	- How many previously correct predictions are now incorrect?
+- Efficiency
+	- Compression until bandwidth limit $\delta$ is reached
+	- Compare accuracy, time, bandwidth to baseline without attacks
 
 ### Tasks
 ^2min
@@ -151,7 +169,9 @@ Actual bullet points of the final presentation. One heading represent a single s
 
 ## Timeline
 ^1min
-o
+
+
 ## Outro
 ^1min
+- References
 - Questions
