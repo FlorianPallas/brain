@@ -9,10 +9,6 @@
 	- Clear statement of the research questions is required
 	- Clear statement of tasks and an associated timeline is required
 
-## TODO
-- [ ] Hook
-- [ ] x
-
 ## Questions
 - Should I introduce myself in detail?
 
