@@ -1,0 +1,93 @@
+- Referenzen direkt auf die Folie
+- Implement mode -> model poisoning
+
+- Weights vs Gradients
+	- Eigentlich austauschbar auf dem Niveau
+	- Am besten einheitlich
+	- Nachschauen was Simulation macht
+	- Kurz Unterschied erklären
+
+- Folie 2
+	- AI ist zu neu für Unabhängigkeit
+	- RAM teuer -> Eher vorhandene Hardware nutzen
+	- Immich als Beispiel
+	- Publikum weiß schon was DL ist - Distributed Learning
+	- Dezentrales Lernen auch gern kurz einmal wörtlich erklären
+- Folie 3
+	- On-device -> Distributed
+	- Bild
+	- CL vs FL
+	- FL vs DFL
+	- Titel: Methods -> Systems? Architectures?
+	- Ankündingen das wir uns FL / DFL anschauen
+- Folie 4
+	- Einleiten: Was wollen wir von den Systemen?
+	- Extract information raus aus Robustness
+	- Mathematische Definition? Vielleicht grob? -> Auf den nächsten Folien
+- Folie 5
+	- DP auf neue Folie
+		- Bild
+	- Leakage nicht bestes Beispiel
+	- Besser: Harry Potter
+- Folie 6
+	- Nightshade AI vielleicht nicht perfekt - Nicht durch trimmed mean
+	- Graphen aus Model poisoning paper
+- Folie 7
+	- Mitigation auf neue Folie
+	- Bild zu trimmed mean
+	- Stark auf trade-offs eingehen
+- Folie 7
+	- Models weights -> Model weights
+	- Variable bandwidth limit, trade-off
+	- Auch zwei Folien
+- Folie 8
+	- Beispiel gut, auch zweites Beispiel
+- Folie 9
+	- Fragen genauer
+		- Nicht so offen
+		- Spezifisches System -> DFL
+	- Sollte klar sein was und wie man das misst
+	- "viable" schwierig
+	- was heißt "be simulated"
+	- Kontext klar nenenn, DFL
+	- Fragen sollte für sich stehen
+- Folie 10
+	- Grafik erklären im Vortrag
+	- Grafik neu ohne FL sondern DFL
+- Folie 11
+	- 
+- Folie 12
+	- Privacy und Robustness genauer
+	- Fragen erwarten!
+	- Eine Folie für jede Dimensions
+		- Auswertung im Detail
+		- Andere Optionen angeben Label Flipping, Negate Gradients, etc.
+		- Wie Datensplit bei Inference?
+		- Efficiency
+			- Wie lange für x rounds
+			- Wie lange für accuracy
+			- Wie lange für loss
+- Folie 13
+	- Modernize Code
+		- LLM gerne erwähnen
+- Folie 14
+	- Timeline sollte zu Tasks passen
+	- Timeline auf gleicher Folie
+	- Tasks zusammenfassen
+		- Nach Thema, nicht klar Implementierung trennen
+	- Details eher sagen
+	- Research auch oberflächlicher
+		- Ich schau mir den Background an
+
+Allgemein
+- Lieber Background kürzen statt Methode
+- Soll zeigen dass man ready ist
+- Keine Folie löschen, sondern in Appendix für Fragen
+- Vortrag wird eher ein Gespräch
+- Kleine Fazitfolie, damit die am Ende bleiben kann für Fragen
+
+Fragen
+- Wie realistisch ist der Zeitplan?
+- Was wenn die Zeit ausgeht?
+- Fragen zur Motivation
+	- Was bringen die Ergebnisse
