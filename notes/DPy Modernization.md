@@ -1,0 +1,8 @@
+- Tooling
+	- Switch to UV
+- README, AGENTS
+- GPU support
+	- ROCM
+	- .to(device) (TODO)
+- Cleanup
+- 

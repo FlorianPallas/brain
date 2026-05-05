@@ -9,20 +9,33 @@ Immich Beispiel hätte genauer beschrieben werden sollen
 Abschlussvortrag: Was hab ich gemacht? - 20m
 
 # Pläne
-- Modernization
-- Main simulation
-	- Differential privacy
+- [x] Modernization
+- [ ] Main simulation
+	- [x] Differential privacy
+	- [x] Label Flipping
+		- Modell zeigt 10% Accuracy - Random Guess
+		- Training zerbricht
+	- [x] Trimmed Mean Aggregation
+		- Konfigurierbar
+		- Erste Implementierung
+		- Training ist robust gegen Poisoning
+		- Modell trotz Poisoning akkurat
+		- Viel Variation - Topologie?
+	- [ ] Compression
 
-- Template setup
-- Typst Template
-	- Logos im Gitlab
-	- LATEX battle tested
+- [x] Template setup
+- [x] Typst Template
+	- [x] Logos im Gitlab
+	- [x] LATEX battle tested
 
 - Experimentieren wie weit man auf der Hardware simulieren kann. z.B. mehr Nodes
+	- 128 Nodes schon schwierig
+	- Eventuell GPU möglich? - VRAM Probleme?
 
 - Imagenet oder andere Datesets mit mehr Auflösung ist interessanter
-
-- Abgabe des Codes im Gitlab vom KIT mit Commit Hash
+	- Imagenet sehr groß
+	- CelebA Federated
+	- Camelyon17 Medical
 
 - AI
 	- Was wurde gemacht
