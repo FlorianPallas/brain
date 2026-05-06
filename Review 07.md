@@ -17,10 +17,10 @@ Abschlussvortrag: Was hab ich gemacht? - 20m
 		- Training zerbricht
 	- [x] Trimmed Mean Aggregation
 		- Konfigurierbar
-		- Erste Implementierung
 		- Training ist robust gegen Poisoning
 		- Modell trotz Poisoning akkurat
 		- Viel Variation - Topologie?
+		- Malicious Nodes sollten wahrscheinlich nicht aggregieren
 	- [ ] Compression
 
 - [x] Template setup
@@ -33,9 +33,16 @@ Abschlussvortrag: Was hab ich gemacht? - 20m
 	- Eventuell GPU möglich? - VRAM Probleme?
 
 - Imagenet oder andere Datesets mit mehr Auflösung ist interessanter
-	- Imagenet sehr groß
-	- CelebA Federated
-	- Camelyon17 Medical
+	- Imagenet sehr groß - 256, 128
+		- https://huggingface.co/datasets/ILSVRC/imagenet-1k
+		- https://huggingface.co/datasets/benjamin-paine/imagenet-1k-128x128
+	- CelebA Federated - 224, 64
+		- https://huggingface.co/datasets/flwrlabs/celeba
+	- Camelyon17 Medical - 50k,96
+		- https://huggingface.co/datasets/jxie/camelyon17
+		- https://huggingface.co/datasets/wltjr1007/Camelyon17-WILDS
+	- Andere textbasierte
+		- https://huggingface.co/flwrlabs/datasets
 
 - AI
 	- Was wurde gemacht
