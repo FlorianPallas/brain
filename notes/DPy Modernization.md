@@ -8,7 +8,7 @@ In the last year type inference and explicit typing support was greatly improved
 Previously the implementation of DecentralizePy was lacking code to move data to a GPU if configured. This has been added. With the feature switches the user can choose between three backends: CPU, CUDA (NVIDIA), ROCM (AMD).
 
 ## Runner
-To facilitate deployments over multiple machines, runner scripts were added, giving users the ability to configure remote hosts. Configurations can then be dispatched to remotes with a single command. Results will be aggregated locally for review.
+To facilitate deployments over multiple machines, runner scripts were added, giving users the ability to configure remote hosts. Configurations can then be dispatched to remotes with a single command. Results will be aggregated locally for review. The runner uses existing tools like SSH, Git, and SCP to connect to machines and sync their code to the latest state, and download files.
 
 ## Communication
 Previously nodes communicated their model weights, which can be heavy and is not very realistic compared to real systems. Usually deltas are exchanged. DecentralizePy has been extended to support delta communication.
